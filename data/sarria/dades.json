@@ -1,0 +1,972 @@
+[
+  {
+    "name": "Wanasah Barcelona",
+    "category": "Discoteca",
+    "address": "Menú",
+    "website": "Av. de Sarrià, 44, Les Corts, 08029 Barcelona",
+    "phone": "666317753",
+    "city": "Barcelona",
+    "auxiliar": "instagram.com",
+    "reviews_rating": "3.6",
+    "num_reviews": "67",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:0023:00–24:00"
+      }
+    ]
+  },
+  {
+    "name": "Golden Heaven BCN",
+    "category": "Club nocturno",
+    "address": "Carrer de Sagués, 11, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "goldenheavenbcn.com",
+    "phone": "619165436",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "18",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "17:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–5:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "17:00–4:00"
+      },
+      {
+        "day": "martes",
+        "hours": "17:00–4:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "17:00–4:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–4:00"
+      }
+    ]
+  },
+  {
+    "name": "EVA Night Club",
+    "category": "Bar de alterne",
+    "address": "Carrer de Marià Cubí, 90, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "instagram.com",
+    "phone": "660162652",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "5",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "17:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "17:00–23:30"
+      },
+      {
+        "day": "martes",
+        "hours": "17:00–4:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "17:00–4:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–4:00"
+      }
+    ]
+  },
+  {
+    "name": "Bartreze",
+    "category": "Bar",
+    "address": "Carrer Major de Sarrià, 115, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "bartreze.com",
+    "phone": "932506499",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "625",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:00–2:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–2:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "9:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–1:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–2:00"
+      }
+    ]
+  },
+  {
+    "name": "Bar Abanico",
+    "category": "Pub",
+    "address": "Carrer del Camp, 3, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "abanico-barcelona.com",
+    "phone": "650291010",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "138",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ]
+  },
+  {
+    "name": "Sotavent Bar",
+    "category": "Pub",
+    "address": "Carrer Major de Sarrià, 61, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "1043",
+    "description": "Pub informal con futbolín, billar, dardos, noches de trívial y partidos televisados.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–2:30"
+      }
+    ]
+  },
+  {
+    "name": "El Cinco Club Barcelona",
+    "category": "Discoteca",
+    "address": "Plaça de Joan Llongueras, 5, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "elcinco.barcelona",
+    "phone": "938580813",
+    "city": "NO_CITY",
+    "auxiliar": "Reservar una mesa",
+    "reviews_rating": "3.8",
+    "num_reviews": "360",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:55–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:55–24:00"
+      }
+    ]
+  },
+  {
+    "name": "Swinger Club Oops Barcelona",
+    "category": "Club nocturno",
+    "address": "Carrer d'Anglí, 69, Distrito de Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "oops.barcelona",
+    "phone": "665138734",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.0",
+    "num_reviews": "347",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–7:0023:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:0023:00–24:00"
+      }
+    ]
+  },
+  {
+    "name": "Barroko's Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer d'Aribau, 242, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "discotecabarrokos.com",
+    "phone": "932011377",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "2258",
+    "description": "DJs residentes y música variada en una discoteca moderna y animada con 2 salas y sofás.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0018:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–23:00"
+      }
+    ]
+  },
+  {
+    "name": "Leounge Karaoke Bar",
+    "category": "Karaoke",
+    "address": "Carrer del Francolí, 68, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "102",
+    "description": "Espejos y sofás de estilo barroco y toques en rojo crean ambiente en este bar musical apto para eventos.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "12:30–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–23:30"
+      }
+    ]
+  },
+  {
+    "name": "La raspa",
+    "category": "Bar musical",
+    "address": "Carrer de Calvet, 23, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "5",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Sala B Barcelona",
+    "category": "Discoteca",
+    "address": "C/ de Muntaner, 244, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "luzdegas.com",
+    "phone": "932097711",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "2.7",
+    "num_reviews": "46",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:00–24:00"
+      }
+    ]
+  },
+  {
+    "name": "Bar Un Castillo",
+    "category": "Bar",
+    "address": "Carrer de Buïgas, 2, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "165",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "7:00–21:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:00–12:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "7:00–21:00"
+      },
+      {
+        "day": "martes",
+        "hours": "7:00–21:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "7:00–21:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:00–21:00"
+      }
+    ]
+  },
+  {
+    "name": "Atlantic Club Barcelona",
+    "category": "Recinto para eventos",
+    "address": "Av. del Tibidabo, 56, Sarrià-Sant Gervasi, 08035 Barcelona",
+    "website": "atlanticbarcelona.com",
+    "phone": "675273071",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "3.9",
+    "num_reviews": "275",
+    "description": "Música comercial en una amplia discoteca de estilo modernista con terraza ajardinada y vistas a Barcelona.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:00–18:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "12:00–18:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ]
+  },
+  {
+    "name": "Monterrey",
+    "category": "Bar",
+    "address": "Carrer Major de Sarrià, 68, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "712",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "7:30–1:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:30–2:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "7:30–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "7:30–1:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "7:30–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:30–1:00"
+      }
+    ]
+  },
+  {
+    "name": "Nu Bcn",
+    "category": "Restaurante de alta cocina",
+    "address": "Hacer un pedido",
+    "website": "C. del Dr. Fleming, 12 - 14, Distrito de Sarrià-Sant Gervasi, 08017 Barcelona",
+    "phone": "932411720",
+    "city": "Barcelona",
+    "auxiliar": "nu-bcn.com",
+    "reviews_rating": "4.0",
+    "num_reviews": "2828",
+    "description": "Platos de alta cocina, sushi y cócteles en un restaurante exclusivo con terraza, pista de baile y sesiones de DJs.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "13:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "13:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "13:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "13:00–23:30"
+      },
+      {
+        "day": "martes",
+        "hours": "13:00–23:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "13:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "13:00–2:30"
+      }
+    ]
+  },
+  {
+    "name": "Bar Ri",
+    "category": "Restaurante",
+    "address": "Plaça de Joaquim Pena, 4, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "barribarcelona.com",
+    "phone": "932057856",
+    "city": "NO_CITY",
+    "auxiliar": "Hacer un pedido",
+    "reviews_rating": "3.9",
+    "num_reviews": "879",
+    "description": "Hamburguesas, tapas y especiales del día en comedor chic y minimalista con pared de ladrillo.",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Bling Bling Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Tuset, 8-10, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "blingblingbcn.com",
+    "phone": "664244209",
+    "city": "NO_CITY",
+    "auxiliar": "Menú",
+    "reviews_rating": "3.1",
+    "num_reviews": "3312",
+    "description": "Aperitivos de bar clásicos, champán y narguiles en una glamurosa discoteca de moda con pista de baile.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:30–5:00"
+      }
+    ]
+  },
+  {
+    "name": "Vz",
+    "category": "NOT_FOUND",
+    "address": "NOT_FOUND",
+    "website": "Av. de Sarrià, 44, Les Corts, 08029 Barcelona",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "4",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "CUE club",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Moià, 3, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Vz",
+    "category": "NOT_FOUND",
+    "address": "NOT_FOUND",
+    "website": "Av. de Sarrià, 44, Les Corts, 08029 Barcelona",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "4",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "JE The Me",
+    "category": "NOT_FOUND",
+    "address": "Ronda del General Mitre, 7, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Uptown Barcelona",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Marià Cubí, 183, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Marcelinha",
+    "category": "NOT_FOUND",
+    "address": "Carrer de l'Avenir, 47, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "CUE club",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Moià, 3, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Festamusic Grup",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Calatrava, 1, Sarrià-Sant Gervasi, 08017 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND"
+  },
+  {
+    "name": "Bar Escocés",
+    "category": "Bar restaurante",
+    "address": "Carrer de Mandri, 23, Sarrià-Sant Gervasi, 08022 Barcelona",
+    "website": "barescoces1955.com",
+    "phone": "934171110",
+    "city": "Barcelona",
+    "auxiliar": "Menú",
+    "reviews_rating": "3.9",
+    "num_reviews": "515",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:00–2:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–2:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–2:00"
+      }
+    ]
+  },
+  {
+    "name": "Barroko's Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer d'Aribau, 242, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "discotecabarrokos.com",
+    "phone": "932011377",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "2258",
+    "description": "DJs residentes y música variada en una discoteca moderna y animada con 2 salas y sofás.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0018:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–23:00"
+      }
+    ]
+  },
+  {
+    "name": "Atlantic Club Barcelona",
+    "category": "Recinto para eventos",
+    "address": "Av. del Tibidabo, 56, Sarrià-Sant Gervasi, 08035 Barcelona",
+    "website": "atlanticbarcelona.com",
+    "phone": "675273071",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "3.9",
+    "num_reviews": "275",
+    "description": "Música comercial en una amplia discoteca de estilo modernista con terraza ajardinada y vistas a Barcelona.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:00–18:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "12:00–18:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ]
+  },
+  {
+    "name": "Four Elements Shisha Lounge Barcelona",
+    "category": "Bar con narguiles",
+    "address": "Carrer de Laforja, 61, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "4elementslounge.com",
+    "phone": "930251461",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.8",
+    "num_reviews": "572",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "13:00–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "13:00–1:00"
+      }
+    ]
+  }
+]
