@@ -1,0 +1,1733 @@
+[
+  {
+    "name": "Draco Premium Club",
+    "category": "Discoteca",
+    "address": "Carrer de Ca l'Alegre de Dalt, 55, Gràcia, 08024 Barcelona",
+    "website": "dracodisco.com",
+    "phone": "620933417",
+    "city": "Barcelona",
+    "auxiliar": "Servicios",
+    "reviews_rating": "4.4",
+    "num_reviews": "654",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMy62TFrcsQLyJk8sDnX8-90362fUDPCHSF-AKL=w137-h92-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipOKWhUGTIvuHKgwJAWTxyj3WkTDdoT-WpJ3WGzk=w408-h738-k-no"
+  },
+  {
+    "name": "Gracia Latina",
+    "category": "Bar musical",
+    "address": "Carrer de l'Or, 19, Gràcia, 08012 Barcelona",
+    "website": "facebook.com",
+    "phone": "669268167",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "1358",
+    "description": "Música latina en directo, zona de baile y cócteles en un bar acogedor que ofrece clases de salsa y bachata.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOP3IQtapAbw5DrE4Jae4WHh3XV6bEIwGkVIRbI=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOP3IQtapAbw5DrE4Jae4WHh3XV6bEIwGkVIRbI=w408-h306-k-no"
+  },
+  {
+    "name": "Ballbreaker",
+    "category": "Club de música rock",
+    "address": "Carrer de Matilde, 7, Gràcia, 08012 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "671",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipM1ETFArWx59gpjG5emmVnDW3Y9yYu1nulD7k0I=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipM7wWnd01hCma0IVHL9uQrGn_-weQ6Ubjop1BO7=w408-h408-k-no"
+  },
+  {
+    "name": "Almo2bar",
+    "category": "Discoteca",
+    "address": "59-61, Carrer de Bruniquer, 08024 Barcelona",
+    "website": "grupalmodobar.com",
+    "phone": "932199345",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "2.5",
+    "num_reviews": "684",
+    "description": "Futbolín y taburetes altos en discoteca con música actual y día dedicado al baile de swing con música en vivo.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPtnW0JMnwZmBQD3WeS_4g9IfYe50sJezDgh-uH=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMHTiwiSWKcf8y6uqUzDQb-eAvjZWaeaYff6JHl=w408-h306-k-no"
+  },
+  {
+    "name": "Duvet Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Còrsega, 327, Gràcia, 08037 Barcelona",
+    "website": "duvetbarcelona.com",
+    "phone": "932374322",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "771",
+    "description": "Iluminación tenue, zonas VIP y cócteles en una discoteca sofisticada con sesiones de DJ y noches de salsa.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:55–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPYfJ5lmLDNxaFYnJBAPApavwpaeI15eDJ7jskQ=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMffu03MAzsSIQkx6cqa9JGRARuP_c6HqDDoH8I=w408-h272-k-no"
+  },
+  {
+    "name": "Switch",
+    "category": "Bar",
+    "address": "Carrer de Francisco Giner, 24, Gràcia, 08012 Barcelona",
+    "website": "instagram.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "298",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "22:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "22:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNhtvTlSKggF1J6D6gCY0253f0CvaU2kEn6qKnI=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMgRm0G3wSfWx446AL-pTTrvT9Emw-a1kb76xpd=w408-h725-k-no"
+  },
+  {
+    "name": "LaKontra de Gràcia",
+    "category": "Bar musical",
+    "address": "Plaça del Sol, 3, Local 1, Gràcia, 08012 Barcelona",
+    "website": "lakontra.org",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.9",
+    "num_reviews": "113",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "12:00–19:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:30–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:30–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPm2DmaYv2wqi7GEPeWkfllLvl1m2W_pNzP0PtC=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipM1zNMQmAd-zFrUV6GrwnqkW5UKKrqRTtNPtNSt=w408-h544-k-no"
+  },
+  {
+    "name": "Almodobar Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer d'en Grassot, 36, Gràcia, 08025 Barcelona",
+    "website": "grupalmodobar.com",
+    "phone": "932073855",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "2.2",
+    "num_reviews": "867",
+    "description": "Bar de copas y cócteles con música actual y karaoke de sofás naranjas y escenario en discoteca de dos plantas.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPwupffv7ygmQhySl7MmnDbu0XU7IDGntzP9gbu=w80-h118-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNlYhGg4dcfh9LhWsG53MLGhE5U53uVQ6bDRDCj=w408-h306-k-no"
+  },
+  {
+    "name": "Canela Dance Club",
+    "category": "Discoteca",
+    "address": "Carrer de Ca l'Alegre de Dalt, 55, Gràcia, 08024 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "595",
+    "description": "Taburetes bajos, ambiente de baile e iluminación de colores en discoteca con rumba y música colombiana.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMTEPz1yvFec1gmj_hrfU8nwjg2IVmArR1zgnqV=w163-h92-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipM-moP7V9z86qFrM5LgaS6Rydb_H4rATFmiRMVV=w408-h789-k-no"
+  },
+  {
+    "name": "CASA FIGARI // Bar de Jazz",
+    "category": "Club de jazz",
+    "address": "Carrer del Torrent de l'Olla, 141, Gràcia, 08012 Barcelona",
+    "website": "casafigari.com",
+    "phone": "930049975",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.5",
+    "num_reviews": "534",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–2:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPcERVJDOHsq-6wkk0aZnMnAMIU8_0Rob_Rdoo2=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOAafYc60Eu8x_KVJG251InVTXD537PB6V1cBhp=w426-h240-k-no"
+  },
+  {
+    "name": "Soda Acústic",
+    "category": "Club de jazz",
+    "address": "Carrer de les Guilleries, 6, Gràcia, 08012 Barcelona",
+    "website": "soda.cat",
+    "phone": "930165590",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "616",
+    "description": "Bar acogedor de estilo retro con conciertos de artistas locales de jazz, blues y otros géneros musicales.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMH2VRDrBjcW0Wo3s4ub84ev6qHyIP-fqr8JmeY=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOfIKKDD9CbnIpfkG4W5sHYoSJnD3ALztJ4dWIq=w408-h272-k-no"
+  },
+  {
+    "name": "Maison Close Barcelona",
+    "category": "Club de entretenimiento para adultos",
+    "address": "Pg. de Gràcia, 123, bajos, Gracia, 08008 Barcelona",
+    "website": "maisonclose.com",
+    "phone": "626242275",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.3",
+    "num_reviews": "57",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPY_uTw-ao25SOJPBoUpK05uFANoKsAQi7UE2Yo=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPY_uTw-ao25SOJPBoUpK05uFANoKsAQi7UE2Yo=w408-h272-k-no"
+  },
+  {
+    "name": "Vertigo Club",
+    "category": "Discoteca",
+    "address": "Carrer de Còrsega, 327, Gràcia, 08037 Barcelona",
+    "website": "instagram.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "39",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipM1w9KNKZz985Tib2ZTDurng8pVAd7aJb___rlH=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipM1w9KNKZz985Tib2ZTDurng8pVAd7aJb___rlH=w408-h272-k-no"
+  },
+  {
+    "name": "Bobby Gin",
+    "category": "Coctelería",
+    "address": "Carrer de Francisco Giner, 47, Gràcia, 08012 Barcelona",
+    "website": "bobbygin.com",
+    "phone": "933681892",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.3",
+    "num_reviews": "1105",
+    "description": "Sus gin-tonics con ginebra infusionada casera son el principal reclamo de este pub sofisticado y bohemio.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOnyHB4_MeWjNkG7rOF42V-DCexqKmBGjUkMMb5=w92-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPSIefA6-wWIOeVk1PWXBZrr_hnKGVKtPP50rPF=w408-h408-k-no"
+  },
+  {
+    "name": "Musical Maria",
+    "category": "Bar",
+    "address": "Carrer de Maria, 5, Gràcia, 08012 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.5",
+    "num_reviews": "845",
+    "description": "Carteles y fotografías de músicos en bar de copas rockero con empanadas y pizza, trivial musical y billar.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOwgr656KE_uyM6mlWWVDrk1RYKaper2Q2vDyOK=w143-h92-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipNPwEmmgo2fsKbTDjIyUhme95STv8NkMqy-LcIH=w408-h240-k-no-pi0-ya300-ro0-fo100"
+  },
+  {
+    "name": "Sala Imperator",
+    "category": "Discoteca",
+    "address": "Carrer de Còrsega, 327, Bajos, Gracia, 08037 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "47",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:30–22:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:30–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:30–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPvU2sqhmqzHFbfJASGbCuN70ciL289Ea0PU0P3=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPvU2sqhmqzHFbfJASGbCuN70ciL289Ea0PU0P3=w408-h544-k-no"
+  },
+  {
+    "name": "ELEPHANTA GINBAR COCTELERIA",
+    "category": "Coctelería",
+    "address": "Carrer del Torrent d'En Vidalet, 37, Gràcia, 08012 Barcelona",
+    "website": "elephanta.cat",
+    "phone": "932376906",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.6",
+    "num_reviews": "1159",
+    "description": "Bar vistoso con toques de estilo retro y piedra vista, donde se ofrecen cócteles artesanales con ginebra.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–23:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNI6XeK2LpErUlmml5Dm-voyknlNXeIE9fOUra5=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipO0Fv9t8dfAD6sMWY9DCL0cW5TfvxVN9nVdQ0LI=w408-h271-k-no"
+  },
+  {
+    "name": "SAWU",
+    "category": "Lounge",
+    "address": "Travessera de Gràcia, 276, Gràcia, 08025 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–2:30"
+      }
+    ],
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yH5IAudRzbyhbJYzvWsmTA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=166.83261&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yH5IAudRzbyhbJYzvWsmTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.83261&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "Plan B | Culture club",
+    "category": "Asociación sociocultural",
+    "address": "Carrer de l'Or, 25, Gràcia, 08012 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.8",
+    "num_reviews": "24",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "lunes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNTTeWENPxdGooit2s9JtaUvzUNqObh6A1cBKI4=w271-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNTTeWENPxdGooit2s9JtaUvzUNqObh6A1cBKI4=w708-h240-k-no"
+  },
+  {
+    "name": "Bar Falstaff",
+    "category": "Bar musical",
+    "address": "Carrer de Venus, 3, Gràcia, 08012 Barcelona",
+    "website": "barfalstaff.com",
+    "phone": "695866246",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.2",
+    "num_reviews": "398",
+    "description": "Bar musical de estilo informal con actuaciones en directo, bailes los fines de semana, cervezas artesanales y elaborados cócteles.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:30–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:30–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOi1E72TKFdA-AKLXjqxAUEp2jVHgCcNnk7of9C=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPiu5_31g3ltjqmfIx1XHKvG4vuYm4D4eRxmmYP=w408-h544-k-no"
+  },
+  {
+    "name": "Bobby Gin",
+    "category": "Coctelería",
+    "address": "Carrer de Francisco Giner, 47, Gràcia, 08012 Barcelona",
+    "website": "bobbygin.com",
+    "phone": "933681892",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.3",
+    "num_reviews": "1105",
+    "description": "Sus gin-tonics con ginebra infusionada casera son el principal reclamo de este pub sofisticado y bohemio.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOnyHB4_MeWjNkG7rOF42V-DCexqKmBGjUkMMb5=w92-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPSIefA6-wWIOeVk1PWXBZrr_hnKGVKtPP50rPF=w408-h408-k-no"
+  },
+  {
+    "name": "ELEPHANTA GINBAR COCTELERIA",
+    "category": "Coctelería",
+    "address": "Carrer del Torrent d'En Vidalet, 37, Gràcia, 08012 Barcelona",
+    "website": "elephanta.cat",
+    "phone": "932376906",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.6",
+    "num_reviews": "1159",
+    "description": "Bar vistoso con toques de estilo retro y piedra vista, donde se ofrecen cócteles artesanales con ginebra.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–23:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNI6XeK2LpErUlmml5Dm-voyknlNXeIE9fOUra5=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipO0Fv9t8dfAD6sMWY9DCL0cW5TfvxVN9nVdQ0LI=w408-h271-k-no"
+  },
+  {
+    "name": "Bar Falstaff",
+    "category": "Bar musical",
+    "address": "Carrer de Venus, 3, Gràcia, 08012 Barcelona",
+    "website": "barfalstaff.com",
+    "phone": "695866246",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.2",
+    "num_reviews": "398",
+    "description": "Bar musical de estilo informal con actuaciones en directo, bailes los fines de semana, cervezas artesanales y elaborados cócteles.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:30–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:30–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOi1E72TKFdA-AKLXjqxAUEp2jVHgCcNnk7of9C=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPiu5_31g3ltjqmfIx1XHKvG4vuYm4D4eRxmmYP=w408-h544-k-no"
+  },
+  {
+    "name": "Bar Pietro",
+    "category": "Bar de tapas",
+    "address": "Travessera de Gràcia, 197, Gràcia, 08012 Barcelona",
+    "website": "instagram.com",
+    "phone": "935251143",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.5",
+    "num_reviews": "965",
+    "description": "Desayuno, tapas clásicas y licores como vermú en un pequeño bar animado.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:00–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "11:00–17:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–15:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–23:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–23:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–23:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPZAZAQFn5fbkYq9ohVKH-PkS0kKMV6lguVAD_j=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOAHIRMkNlJvvMZf3c5i0FetPg7HV80gbkdKZ8S=w408-h306-k-no"
+  },
+  {
+    "name": "Saint Tropez Cocktails | Barcelona",
+    "category": "Coctelería",
+    "address": "Travessera de Gràcia, 276, Gràcia, 08025 Barcelona",
+    "website": "facebook.com",
+    "phone": "932539604",
+    "city": "Barcelona",
+    "auxiliar": "Planta 0 · ImpulsBarcelona",
+    "reviews_rating": "4.6",
+    "num_reviews": "227",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "21:30–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipP-2HxyY0QAsLFvnl4HYT7JTaViIEqze7Kpq6Uv=w141-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipM4SwjumHM5fdxqGs_wHMFqul5MEy76p2cRYA_z=w408-h272-k-no"
+  },
+  {
+    "name": "Canela Dance Club",
+    "category": "Discoteca",
+    "address": "Carrer de Ca l'Alegre de Dalt, 55, Gràcia, 08024 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "595",
+    "description": "Taburetes bajos, ambiente de baile e iluminación de colores en discoteca con rumba y música colombiana.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMTEPz1yvFec1gmj_hrfU8nwjg2IVmArR1zgnqV=w163-h92-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipM-moP7V9z86qFrM5LgaS6Rydb_H4rATFmiRMVV=w408-h789-k-no"
+  },
+  {
+    "name": "Bar Bodega Quimet",
+    "category": "Bar",
+    "address": "Carrer de Vic, 23, Gràcia, 08006 Barcelona",
+    "website": "barbodegaquimet.weebly.com",
+    "phone": "932184189",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "1259",
+    "description": "Bar acogedor y tradicional de tapas, frecuentado por lugareños, que sirve vinos de Cataluña y vermú casero.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "10:00–16:0018:00–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "11:00–16:0018:00–23:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "11:00–16:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "10:00–16:00"
+      },
+      {
+        "day": "martes",
+        "hours": "10:00–16:0018:00–23:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "10:00–16:0018:00–23:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "10:00–16:0018:00–23:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOD_wZcT-NJTb6biE4JJM-vj55k8YzcCOeHqz99=w199-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOlhXWxZy_3YtFVzYvWIV1ELQq_jg8Hhcy0Vm2d=w408-h575-k-no"
+  },
+  {
+    "name": "Vertigo Club",
+    "category": "Discoteca",
+    "address": "Carrer de Còrsega, 327, Gràcia, 08037 Barcelona",
+    "website": "instagram.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "39",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipM1w9KNKZz985Tib2ZTDurng8pVAd7aJb___rlH=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipM1w9KNKZz985Tib2ZTDurng8pVAd7aJb___rlH=w408-h272-k-no"
+  },
+  {
+    "name": "Bloody Mary Cocktail Bar",
+    "category": "Coctelería",
+    "address": "Carrer de Ferrer de Blanes, 3, Gràcia, 08012 Barcelona",
+    "website": "bloodymarybcn.es",
+    "phone": "934613985",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.7",
+    "num_reviews": "1088",
+    "description": "Combinados clásicos y creativos, brochetas y raciones en una coctelería acogedora de aire retro.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "16:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMJep_JmBaqbIKmCvlV-8CC9_HGlsn-sd4D69yo=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPjdK7uVD3JW7muI5AWQKTbMfdBnQEBjY-r9vDZ=w408-h272-k-no"
+  },
+  {
+    "name": "Sol de NIT",
+    "category": "Bar",
+    "address": "Plaça del Sol, 9, Gràcia, 08012 Barcelona",
+    "website": "sol-de-nit.eltenedor.rest",
+    "phone": "932373937",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "3.6",
+    "num_reviews": "976",
+    "description": "Tapas, ensaladas, raciones y cócteles en un estrecho bar con decoración ecléctica, que trabaja con ingredientes de temporada.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "11:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "11:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "11:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN7tss2UvxziZ1XCSAiVIPeqG1RE-2sLccsC4Y_=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPe76G3KDvEm4mcVRS1osni7-o2lNqahszKiN8b=w493-h240-k-no"
+  },
+  {
+    "name": "Bar Raïm",
+    "category": "Bar",
+    "address": "Carrer de Siracusa, 4, Gràcia, 08012 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "465",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "22:00–2:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:00–2:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "22:00–1:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPTSSzrcYDhReHUc9MxOO4ahibHgqrYLbmAti_e=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMhUD9gC05LBIhauLvlwNhNQglcSoVs0_lvvCHS=w408-h320-k-no"
+  },
+  {
+    "name": "De Copas",
+    "category": "Bar",
+    "address": "Carrer de Bruniquer, 65, Gràcia, 08024 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "469",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPi9mxcZbcjPmHG9DYlCO6BXwNVisLQwIG6GA52=w80-h102-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPQfBUR62CaOL9h-hgLLzwbd6k0TGCoCct6c4bC=w408-h884-k-no"
+  },
+  {
+    "name": "WOODY",
+    "category": "Bar",
+    "address": "Plaça del Sol, 7, Gràcia, 08012 Barcelona",
+    "website": "facebook.com",
+    "phone": "625597645",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "3.0",
+    "num_reviews": "75",
+    "description": "Música jazz y cócteles en bar de copas revestido en madera con carteles de cine que sirve también tapas.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–1:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPn7C81fdFP0rGHX77ZnfaEqayMipOuACneTNzy=w80-h93-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMzoFzck1yPsVKTGr5rAP_ONxGX-AAypNjNbdYZ=w408-h544-k-no"
+  },
+  {
+    "name": "Bar El OtrO",
+    "category": "Bar",
+    "address": "Travessera de Gràcia, 167, Gràcia, 08012 Barcelona",
+    "website": "barelotro.com",
+    "phone": "931478833",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "879",
+    "description": "Cócteles, incluidas opciones congeladas, cervezas y tapas servidos en un bar bohemio pintado de colores vivos.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNdtQKD_qSIn1HIBp6ZYxoyUztfSbJrCxM2DKPA=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipN_w91uV9yvl3EvsQMUhNPyMaK_gm-Zzhfb3G59=w408-h505-k-no"
+  },
+  {
+    "name": "Tilllate.com Holding",
+    "category": "Consultora de marketing",
+    "address": "Reclamar esta empresa",
+    "website": "Pg. de Gràcia, 118, Gràcia, 08012 Barcelona",
+    "phone": "683576171",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "1",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "9:00–13:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–17:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–17:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–17:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–17:00"
+      }
+    ],
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ITNQ_Q9MR1gmA2euIRwL3g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=46.319504&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ITNQ_Q9MR1gmA2euIRwL3g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=46.319504&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "14 De La Rosa",
+    "category": "Bar",
+    "address": "Carrer de Martínez de la Rosa, 14, Gràcia, 08012 Barcelona",
+    "website": "14delarosa.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.8",
+    "num_reviews": "508",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–1:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–1:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPUawqydTNJAIesh-UnqkmHy1sAJIm5To1LXJg7=w128-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipO33jr3OUHobHCdS5z_5MaZsHFxlbvthtVezXrQ=w408-h544-k-no"
+  },
+  {
+    "name": "The PubCrawl Company BARCELONA",
+    "category": "Atracción turística",
+    "address": "Carrer de Còrsega, 373, Gràcia, 08037 Barcelona",
+    "website": "thepubcrawlcompany.com",
+    "phone": "636415999",
+    "city": "Barcelona",
+    "auxiliar": "Se encuentra en: Generator Hostel Barcelona",
+    "reviews_rating": "4.6",
+    "num_reviews": "18",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "22:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "22:00–3:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMj6YKQOtOyl7U2uqwT5V7ct0sBBpC0unoz-oCg=w92-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMhCcRO-mM2HARDWsiAWQsG_uUvWIYDbYdjeMg4=w457-h240-k-no"
+  },
+  {
+    "name": "Bar Virreina",
+    "category": "Bar",
+    "address": "Plaça de la Virreina, 1, Gràcia, 08024 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.6",
+    "num_reviews": "1161",
+    "description": "Cervezas internacionales y vermú en cafetería con mesas redondas y terraza que sirve bocadillos y sándwiches.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "9:30–13:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:30–13:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "9:30–13:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPGAlOOoZnJfSsub6cmWDhXWIUnG-B-cuca2xPC=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNUiIWYigFiZFt2KVs4f4TlA2rvTOIKV9qRJNnP=w408-h306-k-no"
+  },
+  {
+    "name": "La Rovira",
+    "category": "Bar de tapas",
+    "address": "Carrer de Rabassa, 23, Gràcia, 08024 Barcelona",
+    "website": "facebook.com",
+    "phone": "934638788",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "2696",
+    "description": "Taberna acogedora, con terraza y cervezas artesanales, que sirve tapas y bocadillos durante todo el día.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "9:00–1:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–1:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "9:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipP3urKlxuKx1VZZ0XwNFUgtbAC8s2jObPhGmTh9=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPDXjrYG1yylkjE5SAvPmSsMJZ0zrcpAWpcjOBF=w427-h240-k-no"
+  },
+  {
+    "name": "Bar Viu",
+    "category": "Bar",
+    "address": "Carrer de la Perla, 26, Gràcia, 08012 Barcelona",
+    "website": "m.facebook.com",
+    "phone": "937609458",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.5",
+    "num_reviews": "493",
+    "description": "Local pequeño y animado lleno de cuadros, donde tomar tapas clásicas, cerveza y vino con música en directo.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–1:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipM4Uhp0DyTtzvPip_9Lr5fcXiEC1anlQcpqQ_Cs=w137-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNp_IFm3mNUZgtXVHsGk1OFjAgGXQtH62ZodRA8=w408-h306-k-no"
+  }
+]

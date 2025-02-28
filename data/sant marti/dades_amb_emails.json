@@ -1,0 +1,1077 @@
+[
+  {
+    "name": "Canapé Premium Music Bar",
+    "category": "Bar musical",
+    "address": "Carrer de la Muntanya, 34, Sant Martí, 08026 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "428",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–3:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–3:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN98eEjtc1dsgIjLeSMQuLs6zBwP9f91KGDHRXl=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPLLv4N4pGo9s5SGQN4orr2yk2JX70GCaD95tE-=w408-h306-k-no"
+  },
+  {
+    "name": "The Secret Garden Restaurant & Lounge Club",
+    "category": "Restaurante",
+    "address": "Carrer de Salvador Espriu, 79, Sant Martí, 08005 Barcelona",
+    "website": "thesecretgardenbcn.es",
+    "phone": "641464872",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.7",
+    "num_reviews": "456",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–3:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMvahzYYwLAsP6wBC31fXCRIqbjH29uMDXmjhtb=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNKHnU7Aonh4iTTBaHkr3gctuZC7p7FcHgidRpG=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "NIGHT & DAY",
+    "category": "Pub",
+    "address": "Carrer dels Almogàvers, 62, Sant Martí, 08018 Barcelona",
+    "website": "linktr.ee",
+    "phone": "622380323",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.2",
+    "num_reviews": "410",
+    "description": "Discoteca con zona de sofás tipo chill out más cachimbas y música de bachata, reggaeton, salsa o house.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "20:00–4:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–4:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–3:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMoPGXoK07YAwfGkppjnc-z7vU668b9bLHODRgl=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMoPGXoK07YAwfGkppjnc-z7vU668b9bLHODRgl=w408-h306-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Los Panda Lounge",
+    "category": "Lounge",
+    "address": "Carrer de la Independència, 326, Sant Martí, 08026 Barcelona",
+    "website": "facebook.com",
+    "phone": "634244970",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.8",
+    "num_reviews": "60",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "11:00–14:0016:00–22:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–22:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "16:00–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "11:00–14:0016:00–22:00"
+      },
+      {
+        "day": "martes",
+        "hours": "11:00–14:0016:00–22:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "11:00–14:0016:00–22:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "11:00–14:0016:00–22:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMjPKymWpu-UhLq21P3EySw7LfkSnnLojTy0-RB=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMjPKymWpu-UhLq21P3EySw7LfkSnnLojTy0-RB=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Sala Razzmatazz",
+    "category": "Discoteca",
+    "address": "Carrer dels Almogàvers, 122, Sant Martí, 08018 Barcelona",
+    "website": "salarazzmatazz.com",
+    "phone": "933208200",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "20729",
+    "description": "Cervezas y copas en una animada discoteca que ofrece conciertos y sesiones de DJs.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "1:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "1:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:30–5:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN4W2xUHaRaS7UTGvRonJzAIJ_jD7g4io8LyeiR=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMIjj9qvuGCfMqHoisRmAVOazbH4APvsH2WrEwJ=w408-h306-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Wolf Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer dels Almogàvers, 88, Sant Martí, 08018 Barcelona",
+    "website": "wolfbarcelona.com",
+    "phone": "672707844",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.3",
+    "num_reviews": "7674",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPA8FIGB5yFfIdDYr1TofDfoucYiMAFIBpfgpY=w154-h92-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipOyB3XWW8Y6T4aX1d4PqBz9kuLXoB0egzMWOzpp=w426-h240-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Nave La Pau",
+    "category": "Club nocturno",
+    "address": "Rambla de Prim, 263, Sant Martí, 08020 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "1",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tDMdktUE-OzBlo2t2PchtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=199.92218&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tDMdktUE-OzBlo2t2PchtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.92218&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "GIN CLUB SCOTCH",
+    "category": "Club nocturno",
+    "address": "Carrer de Mallorca, 579, Sant Martí, 08026 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "2.5",
+    "num_reviews": "4",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–5:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–5:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNE6Nyda6-Z9UR52ux1A321nsmX-CZLwlcwkiqY=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNE6Nyda6-Z9UR52ux1A321nsmX-CZLwlcwkiqY=w408-h544-k-no"
+  },
+  {
+    "name": "Touch Music Karaoke BARCELONA",
+    "category": "Karaoke",
+    "address": "Carrer de Joan Miró, 8, Sant Martí, 08005 Barcelona",
+    "website": "karaokebcn.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "Cerrado ⋅ Apertura: 22:00",
+    "reviews_rating": "4.5",
+    "num_reviews": "3733",
+    "description": "Bar karaoke con un escenario tradicional al fondo, curiosos efectos de luz y una amplia carta de canciones.",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOfxlKsz4vKMQc9Kua-z5Joir2_llUfhzTfnTQ5=w184-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNF9WixMtWfMtDEkHA1CqlJ52u9c96XE9UunKi5=w408-h306-k-no",
+    "email": "touchmusic@karaokebarcelona.com"
+  },
+  {
+    "name": "56 Lounge Bar",
+    "category": "Lounge",
+    "address": "Carrer de la Marina, 56, Sant Martí, 08005 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.0",
+    "num_reviews": "149",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOlih7y2RphCnGQeZF2HACA6Kbt3kVAEflmg_fx=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNnwphCUMs2IvcmmB23Neu9dnTCohYDuHcmvipE=w408-h544-k-no"
+  },
+  {
+    "name": "Arena Experience",
+    "category": "Discoteca",
+    "address": "Rda. de Sant Pere, 21, Eixample, 08010 Barcelona",
+    "website": "grupoarena.com",
+    "phone": "934875140",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.8",
+    "num_reviews": "1066",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:0023:59–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:0023:59–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–5:0023:59–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:0023:59–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJ8-5p2W5McplJHASyGkNBZ_hi73i3g5eMK-4=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPB2gY9oL-id58RqFOIM68bW2lAIl4Ds96yqRws=w533-h240-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Garage 442",
+    "category": "Bar musical",
+    "address": "Av. Diagonal, 442, L'Eixample, 08037 Barcelona",
+    "website": "garage442.com",
+    "phone": "934152231",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.3",
+    "num_reviews": "227",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "22:30–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:30–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "22:30–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "22:30–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN9Hs7InPi1VLdLQivNZGr5X_DzUJXF9xm0xXAV=w137-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPtkzABuZhlG3N4ex__tH79qaIO8qHakycMM5GA=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Magic Barcelona",
+    "category": "Club de música rock",
+    "address": "Passeig de Picasso, 40, Ciutat Vella, 08003 Barcelona",
+    "website": "magic-club.net",
+    "phone": "933107267",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "1115",
+    "description": "Mítica y concurrida sala de conciertos donde suena el rock y la música indie.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–4:4523:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMLuxEKDIvcRilnFey6D0Hnqo4LfixxfTpdrV-E=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNSVBwsHY3cmZWKbNjUUTs6YqpdJ0PDEBNetoQE=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Otto Zutz Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Lincoln, 15, Sarrià-Sant Gervasi, 08006 Barcelona",
+    "website": "ottozutz.com",
+    "phone": "669266410",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.2",
+    "num_reviews": "4982",
+    "description": "Discoteca con varias salas e iluminación ambiental, especializada en R&B, hiphop y reguetón.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0018:30–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:55–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMoN29MIXnuoQuLnBgZ9IrX78aeFFfItTY1cIOO=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOGeCBGZ56xQOPgFJN9r3_2aUvVxJnOLvZAvgOD=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Blue Space Aragó",
+    "category": "Bar musical",
+    "address": "Carrer d'Aragó, 595, Sant Martí, 08026 Barcelona",
+    "website": "facebook.com",
+    "phone": "605153636",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "281",
+    "description": "Bar animado, con DJ, narguiles y cócteles clásicos, donde se pueden pedir botellas enteras.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–3:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–3:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPnDPV32k3ByQcwdhZFhsL-6SbAnASR2qF5kTdK=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipN8b0Ltrh8WpcWyBDGaD1T6lzjlSH63P8bmE_uH=w408-h271-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "El Cinco Club Barcelona",
+    "category": "Discoteca",
+    "address": "Plaça de Joan Llongueras, 5, Sarrià-Sant Gervasi, 08021 Barcelona",
+    "website": "elcinco.barcelona",
+    "phone": "938580813",
+    "city": "NO_CITY",
+    "auxiliar": "Reservar una mesa",
+    "reviews_rating": "3.8",
+    "num_reviews": "361",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:55–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:55–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNR1EwxMhXIQ3_w36MkcXEIvjzoLL3pMuabfrfe=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOSJk4Wa1ywEvBGbrqBRz0RONLVgb8pc2DVSKjC=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Club La Bombonera",
+    "category": "Club nocturno",
+    "address": "Carrer de Nàpols, 173, L'Eixample, 08013 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.5",
+    "num_reviews": "29",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–4:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNm8ah2r0bZN5E2Y38R8FFLaWDdilkkDcItU47z=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNm8ah2r0bZN5E2Y38R8FFLaWDdilkkDcItU47z=w426-h240-k-no"
+  },
+  {
+    "name": "Madame George Lounge Bar",
+    "category": "Coctelería",
+    "address": "Carrer de Pujades, 179, Sant Martí, 08005 Barcelona",
+    "website": "madamegeorgebar.com",
+    "phone": "935005151",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.4",
+    "num_reviews": "802",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOtu6xP70sMAywpFuQ1F8n4hf671L5eQBrR64gB=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMVgh-O0-Kcn3klNdQL-Kp3lD72XbFF-Qd0gNLW=w408-h373-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Bar Caramelo",
+    "category": "Bar musical",
+    "address": "Carrer Bassols, 13, Sant Martí, 08018 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.7",
+    "num_reviews": "14",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "17:00–2:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMdympXwkif4Yciwv82fWGyJYky2YqAxmdNGa8X=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMdympXwkif4Yciwv82fWGyJYky2YqAxmdNGa8X=w408-h544-k-no"
+  },
+  {
+    "name": "Sky Rojo",
+    "category": "Bar de alterne",
+    "address": "Carrer de Biscaia, 442, Sant Andreu, 08027 Barcelona",
+    "website": "skyrojobcn.com",
+    "phone": "632159263",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "19:00–5:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "19:00–4:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–4:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOxPBjx2eHjqK1BEZaNcRUqATdcXibIhYcz7NUV=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOxPBjx2eHjqK1BEZaNcRUqATdcXibIhYcz7NUV=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Bóveda",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Pallars, 97, Sant Martí, 08018 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "2",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_I_OhZcxe6Mj2cwNcnf2OA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=300.43204&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_I_OhZcxe6Mj2cwNcnf2OA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.43204&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "GREENSTATION BCN",
+    "category": "NOT_FOUND",
+    "address": "Carrer del Consell de Cent, 597, Sant Martí, 08026 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "1",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iFhRCb-cT55UZKhNQl0Omg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=326.0522&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iFhRCb-cT55UZKhNQl0Omg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=326.0522&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "PARTY HARD",
+    "category": "NOT_FOUND",
+    "address": "Sant Martí, 08005 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Im2Qybwu4seHuzDFOPSTvg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.47935&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Im2Qybwu4seHuzDFOPSTvg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.47935&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "Casa Vir",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Llull, 248, Sant Martí, 08005 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8R4Y47-7TcCu8oUcz0PfMw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=147.57893&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8R4Y47-7TcCu8oUcz0PfMw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=147.57893&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "Knightcube",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Pallars, 65, Sant Martí, 08018 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5e_uQ8N-Q0cBaPJRC1gaYQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=314.17313&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5e_uQ8N-Q0cBaPJRC1gaYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.17313&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "TerrazaCampe",
+    "category": "NOT_FOUND",
+    "address": "Reclamar esta empresa",
+    "website": "Ptge. de Joan Goula, 1, Sant Martí, 08018 Barcelona",
+    "phone": "622662541",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2VGoLsVIHx1NYlYtOGhtw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=306.13354&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2VGoLsVIHx1NYlYtOGhtw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=306.13354&pitch=0&thumbfov=100",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Sala Rasmatazz",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Pamplona, Sant Martí, 08018 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://maps.gstatic.com/tactile/pane/result-no-thumbnail-1x.png",
+    "img2": "https://maps.gstatic.com/tactile/pane/default_geocode-1x.png"
+  },
+  {
+    "name": "\"",
+    "category": "NOT_FOUND",
+    "address": "Carrer de Ramon Turró, 220, Sant Martí, 08005 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=htXNAsIagSAQs7U17FYdcQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=116.64209&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=htXNAsIagSAQs7U17FYdcQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=116.64209&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "salón de narguile",
+    "category": "Lounge",
+    "address": "Carrer de Mallorca, 535, Sant Martí, 08026 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "12:00–3:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "12:00–3:00"
+      }
+    ],
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZVdBJJ8pVhrt-p07wBYEHQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=316.20132&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZVdBJJ8pVhrt-p07wBYEHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=316.20132&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "Almirall",
+    "category": "Bar",
+    "address": "Carrer d'Aragó, 625, Sant Martí, 08026 Barcelona",
+    "website": "facebook.com",
+    "phone": "677575868",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "3.8",
+    "num_reviews": "540",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:30–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–2:30"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "martes",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:30–23:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMIC20clmsCX-SUJnFYjVEhJUllyRhPO62myAps=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMNRquXkiX-CxqXWwgPa1exXSkdsS5WomIK0PuJ=w408-h306-k-no",
+    "email": "NO_EMAIL"
+  }
+]

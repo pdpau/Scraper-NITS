@@ -76,7 +76,22 @@ async function nits_scraper(query) {
                     console.log(name);
                 }
 
-                /* --- Click into the element to get the local details --- */
+                /* -- Main image in div.FQ2IWe.p0Hhde -- */
+                let img1Element = await e.$("div.SpFAAb");
+                if (img1Element) {
+                    let img1tag = await img1Element.$("img");
+                    if (img1tag) {
+                        let img1src = await img1tag.evaluate(img => img.src || img.getAttribute('src'));
+                        local.img1 = img1src;
+                        console.log("Image URL: ", img1src);
+                    } else {
+                        local.img1 = "NOT_FOUND";
+                    }
+                } else {
+                    local.img1 = "NOT_FOUND";
+                }
+
+                /* -- Click into the element to get the local details -- */
                 if (e) {
                     await Promise.all([
                         e.click(),
@@ -86,6 +101,21 @@ async function nits_scraper(query) {
                     console.log("Element not found");
                 }
                 await sleep(4000);
+
+                /* -- Get the second image -- */
+                let img2Element = await page.$("div.RZ66Rb.FgCUCc");
+                if (img2Element) {
+                    let img2tag = await img2Element.$("img");
+                    if (img2tag) {
+                        let img2src = await img2tag.evaluate(img => img.src || img.getAttribute('src'));
+                        local.img2 = img2src;
+                        console.log("Image URL 2: ", img2src);
+                    } else {
+                        local.img2 = "NOT_FOUND";
+                    }
+                } else {
+                    local.img2 = "NOT_FOUND";
+                }
 
                 /* -- Get the category of the local -- */
                 let categoryElement = await page.$("button.DkEaL");

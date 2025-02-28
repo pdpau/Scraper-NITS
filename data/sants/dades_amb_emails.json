@@ -1,0 +1,1140 @@
+[
+  {
+    "name": "Bar Restaurante la Cabaña Y Club Don Royal",
+    "category": "Club nocturno",
+    "address": "Carrer de Béjar, 51, Sants-Montjuïc, 08014 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "43",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w124-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w408-h302-k-no"
+  },
+  {
+    "name": "Undead Dark Club",
+    "category": "Discoteca",
+    "address": "Carrer Violant d'Hongria, 128, Distrito de Sants-Montjuïc, 08028 Barcelona",
+    "website": "undeadarkclub.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "199",
+    "description": "Oscuro local decorado con estatuas y armaduras especializado en música gothic rock o post punk.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipP1rAL22QPemLDgYwO5EXXJFEUHdFT4nUugsYnE=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNRP1Sq4hLFHv6gWGbU9HnfaFd8R-lFSXln2Rfg=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "M7 Club Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Mèxic, 7, Sants-Montjuïc, 08004 Barcelona",
+    "website": "m7club.net",
+    "phone": "697341656",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "1092",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:3023:45–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:3023:45–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:3023:45–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:30"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:45–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNJoT1uMmzI7hlNjtGhHgbDi1qxILMsa-FDGCXR=w80-h106-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipMDsProsAJ92_576nOzy5fve6DXKy-wehLjhb8b=w429-h240-k-no",
+    "email": "m7club@europe.com"
+  },
+  {
+    "name": "Coyotes Disco Pub Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Tenor Masini, 65, Sants-Montjuïc, 08028 Barcelona",
+    "website": "coyotes.eatbu.com",
+    "phone": "622045829",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "4.0",
+    "num_reviews": "276",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNkWMDU8p9lvh--cI5YzhBLy2lJyySfWTeseIby=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMwQodsFX9jEXj06HxSn43ZwrIlr3j6TuS3g4G-=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Safari Disco Club Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
+    "website": "safaridiscoclub.com",
+    "phone": "934878342",
+    "city": "Barcelona",
+    "auxiliar": "Cerrado ⋅ Apertura: 23:59",
+    "reviews_rating": "3.8",
+    "num_reviews": "2494",
+    "description": "Discoteca animada, que abre toda la noche, con dos pistas de bailes y fiestas temáticas.",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNFuwmnpTP29aNomW5zbdIT-O_Z4rAvZGoTWVL9=w137-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOpeBEz6oiqIIA06_lo-9yQsVu7FdXvYu9RHWhT=w408-h306-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Mandarina Deluxe Vintage",
+    "category": "Discoteca",
+    "address": "Carrer d'Alcolea, 98, Sants-Montjuïc, 08014 Barcelona",
+    "website": "m.facebook.com",
+    "phone": "695922053",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "320",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipM5oLF6JHc7yID9bHf-jRbw2h0IkfKxIx3YZsD5=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPEn0fNIOiUgNQY81iGSub-wUxutxZVqD7g6TfN=w408-h408-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Ramblas",
+    "category": "Club nocturno",
+    "address": "Carrer Daoiz i Velarde, 11-1, Sants-Montjuïc, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "20",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w426-h240-k-no"
+  },
+  {
+    "name": "Sala Taro",
+    "category": "Bar musical",
+    "address": "Carrer de Rossend Arús, 9, Sants-Montjuïc, 08014 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.5",
+    "num_reviews": "224",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "21:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMpybo7rHWbYLn73djJVIK_vHYSoFU6q2cERxUp=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPmrhIbtEMQhKW-ixBPcJir8OtyyNs6BOMi-LsG=w408-h306-k-no"
+  },
+  {
+    "name": "Hellfire Metal Club",
+    "category": "Club nocturno",
+    "address": "Carrer de Violant d'Hongria Reina d'Aragó, 128, Sants-Montjuïc, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "16",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w408-h544-k-no"
+  },
+  {
+    "name": "Disco Bar Mami",
+    "category": "Discoteca",
+    "address": "Carrer de Sants, 443, Sants-Montjuïc, 08028 Barcelona",
+    "website": "m.facebook.com",
+    "phone": "671296949",
+    "city": "Barcelona",
+    "auxiliar": "Reservar una mesa",
+    "reviews_rating": "3.1",
+    "num_reviews": "212",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "22:30–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0022:30–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0022:30–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:0022:30–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:0022:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–5:0022:30–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJFXydPw6OfGQvZRISduBTaGfK7WTc335x1Ivk=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipMY2csack0C58TMsalSBl22LlTHm9gvi5S90voP=w408-h292-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Casa SOLER",
+    "category": "Club nocturno",
+    "address": "Carrer de Miquel Àngel, 19, Sants-Montjuïc, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "10",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGsXhv3qCGAcxfR1GQq7rw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.3653&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGsXhv3qCGAcxfR1GQq7rw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.3653&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "Input - High Fidelity Dance Club",
+    "category": "Club nocturno",
+    "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona",
+    "website": "inputbcn.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "822",
+    "description": "Sesiones de DJs internacionales en una discoteca con proyectores, láseres y un sistema de sonido potente.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Margaritas Xavi",
+    "category": "Club nocturno",
+    "address": "Carrer de Mèxic, 28, Sants-Montjuïc, 08004 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "14",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OTsCiuHMevUfb-IRI1cN4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=241.73903&pitch=0&thumbfov=100",
+    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OTsCiuHMevUfb-IRI1cN4g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.73903&pitch=0&thumbfov=100"
+  },
+  {
+    "name": "POPair Party",
+    "category": "Club nocturno",
+    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
+    "website": "popairparty.com",
+    "phone": "610857817",
+    "city": "Barcelona",
+    "auxiliar": "Se encuentra en: Safari Disco Club Barcelona",
+    "reviews_rating": "4.5",
+    "num_reviews": "16",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Sala Club Renfe",
+    "category": "Lounge",
+    "address": "Se encuentra en: Barcelona-Sants",
+    "website": "Pl. dels Països Catalans, s/n, Sants-Montjuïc, 08014 Barcelona",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.3",
+    "num_reviews": "35",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "6:30–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "martes",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "5:30–22:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Karaoke Nick",
+    "category": "Karaoke",
+    "address": "Av. de Madrid, 160, Sants-Montjuïc, 08028 Barcelona",
+    "website": "discotecanick.com",
+    "phone": "661886508",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "1443",
+    "description": "Banco corrido, luces de neón y billar en bar-karaoke que también ofrece servicio de restaurante.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–6:0022:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0022:00–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–6:0023:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPImstVqKFYFPMqCqZXP4OHMGaLIg6vzPGMexx8=w184-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNcnjx6hHjKxFuoTcqRLpxje-GCQdW-NYqV-K2n=w408-h725-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "YASS! Barcelona | LGTBIQ+ Gay Party",
+    "category": "Discoteca",
+    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
+    "website": "yassparty.com",
+    "phone": "934878342",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.6",
+    "num_reviews": "66",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:45–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w408-h725-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Sala Plataforma Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer Nou de la Rambla, 145, Sants-Montjuïc, 08004 Barcelona",
+    "website": "salaplataforma.com",
+    "phone": "607249478",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.5",
+    "num_reviews": "2035",
+    "description": "Discoteca animada, con una singular decoración de aire industrial, sesiones de DJs, conciertos en directo y cócteles.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:01–7:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPTiXMYvc93P9g2VFZThCSuJezt7stsFmjqmDMi=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNXMaOGJda9y1leqiNJq_-9Ux0MGndk5pyWYSst=w408-h544-k-no",
+    "email": "support@readymag.com"
+  },
+  {
+    "name": "Bar Enka 3",
+    "category": "Lounge",
+    "address": "Carrer de Sants, 384, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.5",
+    "num_reviews": "133",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:00–1:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "9:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–24:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w92-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w408-h408-k-no"
+  },
+  {
+    "name": "Bananas Party",
+    "category": "Club nocturno",
+    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
+    "website": "bananasparty.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.8",
+    "num_reviews": "20",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJEPbQK1o2DrUp6OAWV3fFChOWsAAIBBU3noTy=w92-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOWTZZg3jXNPa-tnH5sDGVJQOMReGLfPxw7m1Gg=w408-h408-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Matinée Barcelona Events",
+    "category": "Empresa de organización de eventos",
+    "address": "Poble Espanyol de Montjuïc, Av. de Francesc Ferrer i Guàrdia, 13, Distrito de Sants-Montjuïc, 08038 Barcelona",
+    "website": "matineegroup.com",
+    "phone": "934530510",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "4.0",
+    "num_reviews": "24",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNg0D2l7VivXR5B_9DWndsU2ImCOAtLuuWH48wm=w80-h173-k-no",
+    "img2": "https://lh3.googleusercontent.com/p/AF1QipO2oTkQ1X9VUch1iLEuiHp05xWY8sABaj0hXTbT=w408-h725-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "YASS! Barcelona | LGTBIQ+ Gay Party",
+    "category": "Discoteca",
+    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
+    "website": "yassparty.com",
+    "phone": "934878342",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.6",
+    "num_reviews": "66",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:45–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w408-h725-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Input - High Fidelity Dance Club",
+    "category": "Club nocturno",
+    "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona",
+    "website": "inputbcn.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "822",
+    "description": "Sesiones de DJs internacionales en una discoteca con proyectores, láseres y un sistema de sonido potente.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Beat Lab House & Techno",
+    "category": "Organizador de eventos",
+    "address": "CLUB, Carrer de Mèxic, 7, M7, Distrito de Sants-Montjuïc, 08004 Barcelona",
+    "website": "es.ra.co",
+    "phone": "622742662",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "2",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "domingo",
+        "hours": "23:45–5:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMbFJIjyk9fdnCBB8lkqvNVr7JWUwGjHyupZ0u7=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNwlVQWe6Egw94czBgN3ZOk0WW3kKf0Lm4lLISx=w408-h272-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Disco Bar Joes",
+    "category": "Bar musical",
+    "address": "Se encuentra en: Restaurante Hoja Verde",
+    "website": "Pg. Sant Antoni, 19, Sants-Montjuïc, 08014 Barcelona",
+    "phone": "674451291",
+    "city": "Barcelona",
+    "auxiliar": "facebook.com",
+    "reviews_rating": "3.8",
+    "num_reviews": "195",
+    "description": "Cócteles y música en una coctelería informal con iluminación tenue y ambiente distendido.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipMnW52MaRHTd-dLE8qbon_sa6-RkvwHxa7vuRYF=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipO_fMkP84JTAFdw3P_IEFGVg4NVRRT7fT3g_e_T=w408-h544-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Sala París",
+    "category": "Lounge",
+    "address": "Carrer d'Arístides Maillol, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "32",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "lunes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNLYXW_ArWMcJuXW4MVapZUsUCFgTeYPvbM7AVs=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipNfviIIFLPiiz8GezkPmwE8E2lcuRSgyL5sB18m=w408-h271-k-no"
+  },
+  {
+    "name": "Sala Apolo Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer Nou de la Rambla, 113, Sants-Montjuïc, 08004 Barcelona",
+    "website": "sala-apolo.com",
+    "phone": "934414001",
+    "city": "Barcelona",
+    "auxiliar": "Servicios",
+    "reviews_rating": "4.2",
+    "num_reviews": "11007",
+    "description": "Gran sala de conciertos de 2 niveles, con 2 bares, fiestas con DJ semanales, actuaciones musicales y eventos.",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "17:00–5:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNBkSW4ySClg5yDT1AD7sA94KTe8obUgxTlKVp6=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOsWYcXAEJtiHzAodsujWhnPWoSmsAakDqwu5DK=w408-h397-k-no",
+    "email": "curriculum@sala-apolo.com"
+  },
+  {
+    "name": "Sala Upload Barcelona",
+    "category": "Sala de conciertos",
+    "address": "Planta G · Poble Espanyol de Barcelona",
+    "website": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "1160",
+    "description": "Actuaciones de músicos independientes modernos y sesiones de DJs en una sala dentro del histórico museo Poble Espanyol.",
+    "schedule": "NOT_FOUND",
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipPolrdusUtQLEUfDSXJAlxldH-2BANZP5V54t0G=w163-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipO79oQFrsLXN8-GtzxDevIRIN5k4vZ1No5n5DZS=w408-h306-k-no",
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "BASSHAUS",
+    "category": "Discoteca",
+    "address": "Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.7",
+    "num_reviews": "20",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipOEhMRoxMxUWMJStgm9mQt6YF-305xC21zrAJS8=w138-h92-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipOTVkDLuKv4A9vHQsJ_bgzl0oUBwd4lNJ1ykfqz=w408-h272-k-no"
+  },
+  {
+    "name": "Bar restaurante Bar-celona",
+    "category": "Bar",
+    "address": "Carrer del Vallespir, 81, Sants-Montjuïc, 08014 Barcelona",
+    "website": "gastrobarcelona.com",
+    "phone": "639363549",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "281",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "viernes",
+        "hours": "8:00–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:00–16:00"
+      },
+      {
+        "day": "domingo",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–22:00"
+      }
+    ],
+    "img1": "https://lh5.googleusercontent.com/p/AF1QipNBdzvildOFICUkN02RijUKkP4Cl71Wzx0Fz6u1=w80-h106-k-no",
+    "img2": "https://lh5.googleusercontent.com/p/AF1QipPK5J6Negr0Jjurq2yzHEGGX__fpNXDwie46Lq3=w426-h240-k-no",
+    "email": "barcelonasants308@gmail.com"
+  }
+]

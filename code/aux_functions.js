@@ -73,6 +73,9 @@ function data_cleaning(local) {
 
     cleanSchedule = local.schedule;
 
+    cleanImg1 = local.img1;
+    cleanImg2 = local.img2;
+
 
     /* -- Exchange data stored in the wrong place -- */
     // Address
@@ -189,7 +192,9 @@ function data_cleaning(local) {
         reviews_rating: cleanReviewsRating,
         num_reviews: cleanNumReviews,
         description: cleanDescription,
-        schedule: cleanSchedule
+        schedule: cleanSchedule,
+        img1: cleanImg1,
+        img2: cleanImg2
     };
 };
 /* -- End of clean data -- */
