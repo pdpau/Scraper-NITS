@@ -73,8 +73,7 @@ function data_cleaning(local) {
 
     cleanSchedule = local.schedule;
 
-    cleanImg1 = local.img1;
-    cleanImg2 = local.img2;
+    cleanImagesArray = local.images;
 
 
     /* -- Exchange data stored in the wrong place -- */
@@ -193,8 +192,7 @@ function data_cleaning(local) {
         num_reviews: cleanNumReviews,
         description: cleanDescription,
         schedule: cleanSchedule,
-        img1: cleanImg1,
-        img2: cleanImg2
+        images: cleanImagesArray
     };
 };
 /* -- End of clean data -- */

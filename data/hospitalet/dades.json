@@ -1,150 +1,22 @@
 [
   {
     "name": "Lennon's Club",
-    "category": "Discoteca",
-    "address": "Av. Fabregada, 91, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "lennonsclub.com",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.8",
-    "num_reviews": "120",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0021:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN_pjesaYgDr7_tCVmnepo04aIB1O5SCH1AxMVC=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOvDhXFfWAQf6zUxuP-ndv0_vFfb8JFJuoD3z_6=w408-h296-k-no"
-  },
-  {
-    "name": "Bar Odisea 5.0",
-    "category": "Bar musical",
-    "address": "Carrer de Barcelona, 49, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "wa.link",
-    "phone": "689024401",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.2",
-    "num_reviews": "576",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "21:00–2:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–2:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOc4924CZu19ORaK3M3F2SbPvk9pPd4krk9dXOH=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPUM1hc0SjoH6TAH-PNGyoP2iMYq0BKlsciEDYc=w408-h544-k-no"
-  },
-  {
-    "name": "Karaoke Rooms Barcelona",
-    "category": "Karaoke",
-    "address": "Reservar una mesa",
-    "website": "Av. del Carrilet, 237, 08907 L'Hospitalet de Llobregat, Barcelona",
-    "phone": "675923826",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.6",
-    "num_reviews": "393",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "10:00–2:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "10:00–2:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "10:00–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "9:00–17:00"
-      },
-      {
-        "day": "martes",
-        "hours": "10:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "10:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "10:00–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMsCjh9G20qci8QQ-pUYfhPCUM8oVdz5NVG_spi=w124-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOZ3gEh88jeQiJ_LDWSBPelTDFyUUQidzI-u5wI=w408-h272-k-no"
-  },
-  {
-    "name": "KRAW CLUB",
-    "category": "Discoteca",
-    "address": "Passatge Can Polític, 13, 08907 L'Hospitalet de Llobregat, Barcelona",
-    "website": "instagram.com",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "5.0",
-    "num_reviews": "1",
+    "num_reviews": "123",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipONDWEZdj8cqC_SN5mi0g63kR-IPwUGXWNO-O-U=w80-h106-k-no",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0wzWoPWdGihLFKe8gcEVQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=64.09623&pitch=0&thumbfov=100"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN_pjesaYgDr7_tCVmnepo04aIB1O5SCH1AxMVC=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ms-rljDUxfJybmyGyk8oRVYEODC6du-sYgNmQYMg3RmTnDowD3Kk26K_PNrJaDit17wvpFA62qxujh_Wk1Yjmm7hR5K3cSgcVAYppGjuhbkSDzDpwUN76y-qzr284Bu_m1V1CIg=w203-h147-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-p0sE_za14-rIAVo1gyXN3FvhggzhlE5K8TECIvSxSwyDRI23MVGZ0hf_FcGSGa2x0k7qpjzEvfP27_mSpZjkK4Ed9hFutxYbsnd5k2SleH7k0WjxderU-Zn4FF4C4nPAOvi6Aeg=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9t4910JTwOoJxQ3cAn12LgEoC2Wtzubgcz_RZ9Nxh_xeySinaYmeAkKo9tDgQIdHu64Iia7wFAmq5L03QcbH7wq9L9pYinlI59Gbs5qLdhS4h5x0kXNs90-e0tljhGO3tDZ_xtCw=w203-h152-k-no"
+    }
   },
   {
     "name": "Bar 1×2",
@@ -159,14 +31,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "10:00–23:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "10:00–23:00"
-      },
-      {
         "day": "domingo",
         "hours": "10:00–23:00"
       },
@@ -179,339 +43,28 @@
         "hours": "10:00–23:00"
       },
       {
-        "day": "miércoles",
-        "hours": "10:00–23:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "10:00–23:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "10:00–23:00"
-      }
-    ],
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A0AhZLABbtqG_nK4qfp65w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=32.476707&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A0AhZLABbtqG_nK4qfp65w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=32.476707&pitch=0&thumbfov=100"
-  },
-  {
-    "name": ".",
-    "category": "Bar",
-    "address": "Carrer de la Pubilla Cases, 18, 08906 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.1",
-    "num_reviews": "41",
-    "description": "NOT_FOUND",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "6:00–1:00"
+        "hours": "10:00–23:00"
       },
       {
         "day": "sábado",
-        "hours": "6:00–1:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "6:00–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–1:006:00–1:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "6:00–1:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "6:00–1:00"
+        "hours": "10:00–23:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPTG3QjfAX94tfwuJ3Sb4qel-lLTbJHemi6K5Qs=w80-h139-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPTG3QjfAX94tfwuJ3Sb4qel-lLTbJHemi6K5Qs=w408-h711-k-no"
-  },
-  {
-    "name": "Casablanca Hospitalet",
-    "category": "Bar musical",
-    "address": "Carrer de Rodés, 32, 34, 08901 L'HOSPITALET, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.1",
-    "num_reviews": "274",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPs1Hh_2kRphwAHS0IxyOM6D0KYme7ugWb2Lom8=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPyiBr16wdbsyri5_PdRjkz7PXYs54xv5h7Bdev=w408-h306-k-no"
-  },
-  {
-    "name": "Bar Anubis",
-    "category": "Lounge",
-    "address": "Carrer de Rafael Campalans, 166, 08903 L'Hospitalet de Llobregat, Barcelona",
-    "website": "facebook.com",
-    "phone": "933325692",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "58",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "martes",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "8:00–22:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "8:00–22:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMSUvbU9OvG6Wgk_2NfHXqZKzXhoHKoriv6ohCF=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMSUvbU9OvG6Wgk_2NfHXqZKzXhoHKoriv6ohCF=w408-h306-k-no"
-  },
-  {
-    "name": "Vermuteria Ermita",
-    "category": "Club nocturno",
-    "address": "Planta G · Parroquia de Nuestra Señora de Bellvitge",
-    "website": "Av. Mare de Déu de Bellvitge, 3, 08907 L'Hospitalet de Llobregat, Barcelona",
-    "phone": "935417321",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "Reclamar esta empresa",
-    "reviews_rating": "5.0",
-    "num_reviews": "1",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://maps.gstatic.com/tactile/pane/result-no-thumbnail-1x.png",
-    "img2": "https://maps.gstatic.com/tactile/pane/default_geocode-1x.png"
-  },
-  {
-    "name": "Bar Terraza",
-    "category": "Lounge",
-    "address": "Carrer del Molí, 23, 08906 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "47",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "8:30–23:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "8:30–23:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "9:00–23:30"
-      },
-      {
-        "day": "lunes",
-        "hours": "8:30–23:30"
-      },
-      {
-        "day": "martes",
-        "hours": "8:30–23:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "8:30–23:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM8tkZiTQP6nYVDcRTkOXMGZOqgFLAsbqK7WQQ9=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM8tkZiTQP6nYVDcRTkOXMGZOqgFLAsbqK7WQQ9=w408-h544-k-no"
-  },
-  {
-    "name": "L'Oncle Jack Music & Cocktail Bar",
-    "category": "Bar musical",
-    "address": "Carrer de les Roselles, 32, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "mizuwaricocktailbar.es",
-    "phone": "692123697",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "652",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "17:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "17:00–22:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "18:00–2:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:00–2:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOniT6KKlwoTF7eiMINmXt3J2B12wFsipo-txbZ=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM9__E9xsN82MIUwhKrXccSVGd_7RRmwvoqDxMX=w426-h240-k-no"
-  },
-  {
-    "name": "Juanchito",
-    "category": "Discoteca",
-    "address": "Carrer d'Enric Prat de la Riba, 61, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "496",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–17:0023:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–17:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipO6ec-IT7YRMI_g3f5goc7Sc777X0jshEnO4pAZ=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM6xDhlidUzrBdSvHONQ2N0FqK9nVi2kLTUVuQ_=w408-h544-k-no"
-  },
-  {
-    "name": "Albaicín",
-    "category": "Bar",
-    "address": "Carrer de Josep Pla, 6, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.3",
-    "num_reviews": "136",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "6:15–23:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "7:30–23:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "6:15–23:00"
-      },
-      {
-        "day": "martes",
-        "hours": "6:15–23:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "6:15–23:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "6:15–23:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w80-h142-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w408-h725-k-no"
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U3-2sN0ttZyz_UBJ_ZYggw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=70.40755&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
   },
   {
     "name": "LOUNGE LA LIBERTAD 2",
@@ -526,14 +79,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "17:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "17:00–3:00"
-      },
-      {
         "day": "domingo",
         "hours": "17:00–2:30"
       },
@@ -546,163 +91,402 @@
         "hours": "17:00–2:30"
       },
       {
-        "day": "miércoles",
-        "hours": "17:00–2:30"
+        "day": "miércoles(Día del Padre)",
+        "hours": "17:00–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "17:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipP2NB6ypIdgjHXh6dD1I8MTeMB1djRYpQ2px8gk=w204-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPXczci3pA_MdYAMEHjVrG0cB0UM1txh9VNBGqf=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP2NB6ypIdgjHXh6dD1I8MTeMB1djRYpQ2px8gk=w204-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPXczci3pA_MdYAMEHjVrG0cB0UM1txh9VNBGqf=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMLMEbqjjQgyeZgUNIAl_xq6d7wWMX-UEKR8jK7=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipN1L_4q1mgN42VRF4ZmDSfwRSCNEECaodGm3FLx=w203-h199-k-no"
+    }
+  },
+  {
+    "name": "KRAW CLUB",
+    "category": "Discoteca",
+    "address": "Passatge Can Polític, 13, 08907 L'Hospitalet de Llobregat, Barcelona",
+    "website": "instagram.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "1",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipONDWEZdj8cqC_SN5mi0g63kR-IPwUGXWNO-O-U=w80-h106-k-no",
+      "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0wzWoPWdGihLFKe8gcEVQQ&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=64.09623&pitch=0&thumbfov=100",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipONDWEZdj8cqC_SN5mi0g63kR-IPwUGXWNO-O-U=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPwenXA8L6PghPtUoIyuwLZjirxCAhXJ4Hapnjt=w203-h286-k-no"
+    }
+  },
+  {
+    "name": "Karaoke Rooms Barcelona",
+    "category": "Karaoke",
+    "address": "Reservar una mesa",
+    "website": "Av. del Carrilet, 237, 08907 L'Hospitalet de Llobregat, Barcelona",
+    "phone": "675923826",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.6",
+    "num_reviews": "398",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "10:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "martes",
+        "hours": "10:00–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "10:00–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "10:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "10:00–2:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "10:00–2:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMOWD0lVXtHy_HgHo3L0uopMt0dSdsgvvM7Rayd=w148-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOZ3gEh88jeQiJ_LDWSBPelTDFyUUQidzI-u5wI=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9RvkCWFwozoDsK2My-wtch4IdY9SFaLcxLenHaiXbDrA5g1iEx7CIVQJ41FpPN9f3zymnOr4bRWCmTLGJXigeRe4WUz-Nszj70MdvcX5YTqHOnirS92oR9eKtNkaCX2BXmDrpE=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMgdoThjOlCt6MzeROMnJqv9wggyCbzYwd3xASo=w203-h126-k-no"
+    }
+  },
+  {
+    "name": "Bar Odisea 5.0",
+    "category": "Bar musical",
+    "address": "Carrer de Barcelona, 49, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "wa.link",
+    "phone": "689024401",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.2",
+    "num_reviews": "576",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "21:00–2:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–2:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "21:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOc4924CZu19ORaK3M3F2SbPvk9pPd4krk9dXOH=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPUM1hc0SjoH6TAH-PNGyoP2iMYq0BKlsciEDYc=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMKlKHMBk4IRU9Emd6FautZ-dFHTGTshouVPddi=w203-h361-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOxyPsIq2GqCoJLxRCuLVQ139Jp6ps_UCzStl2S=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Bar Anubis",
+    "category": "Lounge",
+    "address": "Carrer de Rafael Campalans, 166, 08903 L'Hospitalet de Llobregat, Barcelona",
+    "website": "facebook.com",
+    "phone": "933325692",
+    "city": "L'Hospitalet de Llobregat",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "58",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:00–22:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "8:00–22:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:00–22:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMSUvbU9OvG6Wgk_2NfHXqZKzXhoHKoriv6ohCF=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMSUvbU9OvG6Wgk_2NfHXqZKzXhoHKoriv6ohCF=w203-h152-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipN0svbYt4OofTceJRD0L4rbolVW0_QwRX-OXkVS=w246-h100-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPoJerEbSxWmagITbUAE12Efl_MvuCNfVrqTxTI=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "Bar Terraza",
+    "category": "Lounge",
+    "address": "Carrer del Molí, 23, 08906 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "47",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "martes",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:30–23:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "8:30–23:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:30–23:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM8tkZiTQP6nYVDcRTkOXMGZOqgFLAsbqK7WQQ9=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipM8tkZiTQP6nYVDcRTkOXMGZOqgFLAsbqK7WQQ9=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNgd3iRxRA-1LJ26AMtmBafKdmq81hrNnp6Vr4M=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOZ9nyXRdjbJz5Xa_JvGHKwZ_mnAS4Sijle2lnT=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "L'Oncle Jack Music & Cocktail Bar",
+    "category": "Bar musical",
+    "address": "Carrer de les Roselles, 32, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "mizuwaricocktailbar.es",
+    "phone": "692123697",
+    "city": "L'Hospitalet de Llobregat",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.6",
+    "num_reviews": "654",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "17:00–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOniT6KKlwoTF7eiMINmXt3J2B12wFsipo-txbZ=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN1y23zeEmUvSjCpmA7QoAICJA-3cJZ7Zk1Pjzf=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMfxdVcx05WOnbNFzAkbY2Unyhrhzq9Xkd237fi=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipM3Vxb2TDsRNPitAenWh4SN6dWm9euOcpLUISNm=w216-h100-k-no"
+    }
+  },
+  {
+    "name": "Vermuteria Ermita",
+    "category": "Club nocturno",
+    "address": "Planta G · Parroquia de Nuestra Señora de Bellvitge",
+    "website": "Av. Mare de Déu de Bellvitge, 3, 08907 L'Hospitalet de Llobregat, Barcelona",
+    "phone": "935417321",
+    "city": "L'Hospitalet de Llobregat",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "5.0",
+    "num_reviews": "1",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPrhleE2uX31Tr1wdJa7DJJE-YvAVTey92XDKTW=w80-h142-k-no",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Casablanca Hospitalet",
+    "category": "Bar musical",
+    "address": "Carrer de Rodés, 32, 34, 08901 L'HOSPITALET, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "276",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPs1Hh_2kRphwAHS0IxyOM6D0KYme7ugWb2Lom8=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPyiBr16wdbsyri5_PdRjkz7PXYs54xv5h7Bdev=w203-h152-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOxVz5hS8oFV95hzHHpUfjgGxMcDZDblKsATeRm=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOxDQuiEZDP0anFZgWx1bVoLX8i4wxB10OBJbsM=w203-h247-k-no"
+    }
   },
   {
     "name": "Skyfall Cocktail Club",
     "category": "Club nocturno",
     "address": "Avinguda de la Granvia de l’Hospitalet, 144, 08907 L'Hospitalet de Llobregat, Barcelona",
     "website": "skyfallbcn.com",
-    "phone": "613012610",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "Planta 0 · Restaurant Terrum",
-    "reviews_rating": "3.9",
-    "num_reviews": "1029",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "17:00–1:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "martes",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "19:00–2:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOYEU9cYzQT5lvYfvm0dIn5pTQ3ee0JYsqah2uM=w128-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPDlLhjoEN2P2yqJB_0ktV1Wo0E0dJehgZZ_FDf=w408-h271-k-no"
-  },
-  {
-    "name": "Sala River",
-    "category": "Bar con música en directo",
-    "address": "Carrer Santa Anna, 14, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "136",
+    "city": "L'Hospitalet de Llobregat",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.8",
+    "num_reviews": "1049",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "23:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:30–3:00"
-      },
-      {
         "day": "domingo",
-        "hours": "Cerrado"
+        "hours": "17:00–24:00"
       },
       {
         "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "20:00–1:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM4cFs5ezUid_YP-ZGspYJOkkfVQqatjjMfUECK=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNir7FF0IS9MrBTbmuAvTHWtW2_G30bljikewnN=w408-h306-k-no"
-  },
-  {
-    "name": "L'Oncle Jack Music & Cocktail Bar",
-    "category": "Bar de alterne",
-    "address": "Carrer de les Roselles, 32, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "mizuwaricocktailbar.es",
-    "phone": "692123697",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.7",
-    "num_reviews": "324",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPQlrSMO_Mlo1bOrA7T3a-TREuqQjfX2xCaO6wy=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipP847JDRX2xFN-qC-QpGymeqotJpu2mHuy6DetZ=w427-h240-k-no"
-  },
-  {
-    "name": "Cocktelería Mary Pickford",
-    "category": "Coctelería",
-    "address": "Carrer d'Enric Prat de la Riba, 246, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "facebook.com",
-    "phone": "933379165",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "565",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "domingo",
         "hours": "19:00–2:00"
       },
       {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
         "day": "martes",
-        "hours": "Cerrado"
+        "hours": "19:00–2:00"
       },
       {
-        "day": "miércoles",
-        "hours": "19:00–2:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "19:00–2:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "19:00–2:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:30"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMu0NoFG4pk6r7LNDuNl_d8m3Y9Ub8CoIxdoxWA=w122-h92-k-no",
-    "img2": "https://lh3.googleusercontent.com/p/AF1QipN7jEuRu2Gjhg6TSclI7D8hw-2JEDba66LBuBRk=w408-h240-k-no-pi0-ya60-ro0-fo100"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOYEU9cYzQT5lvYfvm0dIn5pTQ3ee0JYsqah2uM=w128-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPDlLhjoEN2P2yqJB_0ktV1Wo0E0dJehgZZ_FDf=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB81G26NbK0vRRvgpXRq5Ex45lq9gR3i-IovHGV-16UEmrdTFtnVoDO8dXreD_jZYgiX-NjuCso1ziLca3lK-6YOsNs7n9cj43DfQ2WXj-B9EBd-PBrH15oCZLx8MLgVxI1ldTAU=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-aaEHYIaR3wvhS6hQ22Tqqv-igbZH7FS7JD7jVhHWrSuvo57a1_Piol-CbhMoPnQTcTfpvnaBjF3TTzzNvJnWxXhtc5qimlXZafJ8vJjebH3UzcPmtYONdbCGgSKXYVhc3eefy=w203-h270-k-no"
+    }
   },
   {
     "name": "Pacheco",
@@ -717,14 +501,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "8:30–22:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "8:30–22:30"
-      },
-      {
         "day": "domingo",
         "hours": "15:00–23:00"
       },
@@ -737,148 +513,28 @@
         "hours": "8:30–22:30"
       },
       {
-        "day": "miércoles",
-        "hours": "8:30–22:30"
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:30–22:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "8:30–22:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPT83JdNZ4rc0YOo8nTFGBtkX9FAAFFBgA5u8Kz=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPT83JdNZ4rc0YOo8nTFGBtkX9FAAFFBgA5u8Kz=w408-h544-k-no"
-  },
-  {
-    "name": "Bar Salvador",
-    "category": "Lounge",
-    "address": "Plaça del Repartidor, 08901 Hospitalet de Llobregat (L'), Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.2",
-    "num_reviews": "41",
-    "description": "NOT_FOUND",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "7:00–24:00"
+        "hours": "8:30–22:30"
       },
       {
         "day": "sábado",
-        "hours": "7:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "7:00–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "7:00–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "7:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "7:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "7:00–24:00"
+        "hours": "8:30–22:30"
       }
     ],
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZKfpicT7AolWeNpPd12c9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=3.097971&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZKfpicT7AolWeNpPd12c9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.097971&pitch=0&thumbfov=100"
-  },
-  {
-    "name": "El Sueño",
-    "category": "Bar de tapas",
-    "address": "Carrer de les Aigües del Llobregat, 110B, 08906 L'Hospitalet de Llobregat, Barcelona",
-    "website": "instagram.com",
-    "phone": "937043141",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.3",
-    "num_reviews": "1205",
-    "description": "Amplio menú con gran variedad de tapas caseras de cocina española en un restaurante informal regentado por gente de la zona.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "11:30–16:0019:00–23:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "11:30–16:0019:00–23:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "11:30–16:0019:00–23:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "11:30–16:0019:00–23:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "11:30–16:0019:00–23:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "11:30–16:0019:00–23:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMAZp3SQlI0XLXQDZG2zOt3tTeRpTJW9wQrYxBw=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOc23Dy6J6mvW9-cxknDPjLbTSnUAZNi9-O4yJ0=w426-h240-k-no"
-  },
-  {
-    "name": "Skyfall Cocktail Club",
-    "category": "Club nocturno",
-    "address": "Avinguda de la Granvia de l’Hospitalet, 144, 08907 L'Hospitalet de Llobregat, Barcelona",
-    "website": "skyfallbcn.com",
-    "phone": "613012610",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "Planta 0 · Restaurant Terrum",
-    "reviews_rating": "3.9",
-    "num_reviews": "1029",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "17:00–1:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "martes",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "19:00–2:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOYEU9cYzQT5lvYfvm0dIn5pTQ3ee0JYsqah2uM=w128-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPDlLhjoEN2P2yqJB_0ktV1Wo0E0dJehgZZ_FDf=w408-h271-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPT83JdNZ4rc0YOo8nTFGBtkX9FAAFFBgA5u8Kz=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPT83JdNZ4rc0YOo8nTFGBtkX9FAAFFBgA5u8Kz=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMCP7WHoEVaK4JupquIrLJOag0E6iLHppsygJVf=w203-h270-k-no",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZZ_52CNo9auyxqs2AB1--g&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=98.27877&pitch=0&thumbfov=100"
+    }
   },
   {
     "name": "Juanchito",
@@ -889,17 +545,9 @@
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.9",
-    "num_reviews": "496",
+    "num_reviews": "499",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–17:0023:00–24:00"
-      },
       {
         "day": "domingo",
         "hours": "0:00–17:00"
@@ -913,16 +561,431 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–17:0023:00–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipO6ec-IT7YRMI_g3f5goc7Sc777X0jshEnO4pAZ=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM6xDhlidUzrBdSvHONQ2N0FqK9nVi2kLTUVuQ_=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipO6ec-IT7YRMI_g3f5goc7Sc777X0jshEnO4pAZ=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_LRQHU0aM_gfyqmsNN8Lt1HbKhX2sqBlvvrGc1-u3UjvzOqyUo0VUY6TrCz6_j5tieduvrM5GtUYsivWOPKx0Eg91heimdq5Q6VIjt4FWINdJhvpdHoA2dEuTxSJ1ot7YlZX0R=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9QBA792bpAhtWl0gpKtLCFdu4gniHU-iq0x85on-7lHW78V3EPCCLQOvW9vUupa2GdiKiij3WEk8mWyNIuD01Qara9ZPNISUe4FM5psgP8tgsJhgv6GAojjBpqqHIDyE7TSWaWig=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB99BtOBPm7NtdSdGwmrH_1qdXlZvawsr6bYgDv9oOID3wRWWg4RX30K5nTaCJdhmfLlQ-naT0cENAAwHxQJV-F-tS3nRnKhFpBWMwgdbPMBKBnMf32cAWea51sqwNa-yZwMYTw=w203-h149-k-no"
+    }
+  },
+  {
+    "name": "Bar Salvador",
+    "category": "Lounge",
+    "address": "Plaça del Repartidor, 08901 Hospitalet de Llobregat (L'), Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.2",
+    "num_reviews": "42",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "7:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "7:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "7:00–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "7:00–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "7:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZKfpicT7AolWeNpPd12c9g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=3.097971&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Sala River",
+    "category": "Bar con música en directo",
+    "address": "Carrer Santa Anna, 14, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "136",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:30–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM4cFs5ezUid_YP-ZGspYJOkkfVQqatjjMfUECK=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNir7FF0IS9MrBTbmuAvTHWtW2_G30bljikewnN=w203-h152-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipPG4j6-D3f_-ezyBxEScrHyZTFt-yu65PJA4YON=w203-h203-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPWplO4y8U1Dan0wWdfyBZZDe-_mK6WOasM0GL4=w203-h203-k-no"
+    }
+  },
+  {
+    "name": "Albaicín",
+    "category": "Bar",
+    "address": "Carrer de Josep Pla, 6, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "136",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "martes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "6:15–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:30–23:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w80-h142-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w203-h360-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMKsDcczWI18KAU62Zi9uL2Js1Y9B9ZJlEKMZs-=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPT3pIJECWWtlEOgPMASUg36hARHMzg1LODXxGu=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "El ANTRO",
+    "category": "Bar",
+    "address": "Carrer de Terra Baixa, 65, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.8",
+    "num_reviews": "9",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "9:00–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–23:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNi4JLJz-QLVFIrx9JfyxoukKED3QESVn1Pqgue=w80-h142-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNi4JLJz-QLVFIrx9JfyxoukKED3QESVn1Pqgue=w203-h360-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMoiWdS2UoK1_WMXBcGVKKoOmDFogQ9tejS5L9a=w203-h152-k-no",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nyFITKwriLQE9w7HdApJDA&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=156.20654&pitch=0&thumbfov=100"
+    }
+  },
+  {
+    "name": "On The Vas",
+    "category": "Bar musical",
+    "address": "Carrer Tarragona, 19, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "439",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:15–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:15–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPezJpliI__TQd2Lc_Eg4oG1dteJ5WbEmtY4iR0=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMVtQfZN9BTxSnqUXoY6eWm-9E4G2PbOr6KMwNa=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOvyRK6JpewJIgI36KnSkhAEL8_C8ZLfhNHNNs1=w203-h135-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOrMn4e8W1wWPeG9gOKGBVvR7GPEXiwiiGyR8Te=w203-h135-k-no"
+    }
+  },
+  {
+    "name": "Cocktelería Mary Pickford",
+    "category": "Coctelería",
+    "address": "Carrer d'Enric Prat de la Riba, 246, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "facebook.com",
+    "phone": "933379165",
+    "city": "L'Hospitalet de Llobregat",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "566",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "19:00–2:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMruxrZdbBOSr3H-I3mSbDdqqmpJKFHQIeRz4X_=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/p/AF1QipN7jEuRu2Gjhg6TSclI7D8hw-2JEDba66LBuBRk=w203-h100-k-no-pi0-ya60-ro0-fo100",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMJTNqRMPBTd3N2CORhf5yDByah4RWrdImjzzOe=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPOrfIVwDGt8qMPeJommiKWHZI7aDfqMG16ZiQv=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Albaicín",
+    "category": "Bar",
+    "address": "Carrer de Josep Pla, 6, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "136",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "martes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "6:15–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "6:15–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:30–23:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w80-h142-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMNA0W6E3EffVp3QdYisf52_aXgako5Z-gLotXU=w203-h360-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMKsDcczWI18KAU62Zi9uL2Js1Y9B9ZJlEKMZs-=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPT3pIJECWWtlEOgPMASUg36hARHMzg1LODXxGu=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "Abuelita sin cola",
+    "category": "Club nocturno",
+    "address": "Rambla Just Oliveras, 1, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MzV48jQqX8kU_Km5ipmBJA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=318.9751&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Juanchito",
+    "category": "Discoteca",
+    "address": "Carrer d'Enric Prat de la Riba, 61, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "499",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–17:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–17:0023:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipO6ec-IT7YRMI_g3f5goc7Sc777X0jshEnO4pAZ=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_LRQHU0aM_gfyqmsNN8Lt1HbKhX2sqBlvvrGc1-u3UjvzOqyUo0VUY6TrCz6_j5tieduvrM5GtUYsivWOPKx0Eg91heimdq5Q6VIjt4FWINdJhvpdHoA2dEuTxSJ1ot7YlZX0R=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9QBA792bpAhtWl0gpKtLCFdu4gniHU-iq0x85on-7lHW78V3EPCCLQOvW9vUupa2GdiKiij3WEk8mWyNIuD01Qara9ZPNISUe4FM5psgP8tgsJhgv6GAojjBpqqHIDyE7TSWaWig=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB99BtOBPm7NtdSdGwmrH_1qdXlZvawsr6bYgDv9oOID3wRWWg4RX30K5nTaCJdhmfLlQ-naT0cENAAwHxQJV-F-tS3nRnKhFpBWMwgdbPMBKBnMf32cAWea51sqwNa-yZwMYTw=w203-h149-k-no"
+    }
   },
   {
     "name": "Shisha Lounge Dejavu - Shisha Hospitalet del Llobregat",
@@ -937,14 +1000,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "20:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "20:00–3:00"
-      },
-      {
         "day": "domingo",
         "hours": "20:00–3:00"
       },
@@ -957,16 +1012,76 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "20:00–2:30"
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "20:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJWvNVENpxTl-yyDHwp0EMlee_qF5tZ1ZffVrs=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNm86PUZl6KlYJtAubHAjBPZItrQnTP671mBkyI=w427-h240-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPJWvNVENpxTl-yyDHwp0EMlee_qF5tZ1ZffVrs=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNm86PUZl6KlYJtAubHAjBPZItrQnTP671mBkyI=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOWVW7f7VovGb0V3bfF2PwsAJWmIkhRrTy4CNq3=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOh_7XSKRrAuWFWvMPq3KlETivb1PyVM8aeAz9d=w203-h361-k-no"
+    }
+  },
+  {
+    "name": "Bar Alcala Cool",
+    "category": "Bar",
+    "address": "Carrer Joventut, 64, 08904 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.8",
+    "num_reviews": "8",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "14:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "16:00–3:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "14:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNQdFnbE2XafapYZB5WQxwzEISn7IQsohbhRUEF=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOc6OgRElxIJJgLerp4ZwP4PhbCAYkfKg3XS5I0=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8bXpY6TYG5bRjiUsIIwYShTzaBHgNKIpzpv-BNUXb4zZOqnE0aiMVUy4fpr2tj0QAlEmDDzKPwYlIDbZjab_Nd-RY7PGmvdbYsTTysuKgAKgJE4JR-pJb7Q9KpUqnM9KE55nyU=w203-h270-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9azPbtvs96tl8Wo0LIc64jaceD9E7rLEMpZu7Lh65sp5x-k08xN3-_w8Nsw77aVUgzHMP09seaFvTtN88tghPnDDahSVbojFOwOsvz7gL3Bw7cAZVaEXKQPPE7s85dLDUshYCY=w203-h270-k-no"
+    }
   },
   {
     "name": "Bar Lugo",
@@ -981,14 +1096,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "19:00–3:00"
-      },
-      {
         "day": "domingo",
         "hours": "19:00–2:30"
       },
@@ -1001,16 +1108,47 @@
         "hours": "19:00–2:30"
       },
       {
-        "day": "miércoles",
-        "hours": "19:00–2:30"
+        "day": "miércoles(Día del Padre)",
+        "hours": "19:00–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "19:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPW9KZdDAOmlr2HZWcS1mBPf_TylwA5AvVfsyOY=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNsFGJg0jgt1IbBtuygi6LPHLScGS_4KzCOKd6w=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPW9KZdDAOmlr2HZWcS1mBPf_TylwA5AvVfsyOY=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNsFGJg0jgt1IbBtuygi6LPHLScGS_4KzCOKd6w=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipPD9t2iu2VvX1Y80CHjvSxtOLTCLumZ3zyNkFw7=w203-h233-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMtT8xEhvVaITCkYfLKYunWePoBEn1L81sAt37D=w203-h203-k-no"
+    }
+  },
+  {
+    "name": "Bar musical gotham",
+    "category": "Bar",
+    "address": "C Mas, 44, 08903 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.5",
+    "num_reviews": "2",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6l1BkEoluWBtc7mqQI44cg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=290.4455&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
   },
   {
     "name": "Bar Musical Luna",
@@ -1025,14 +1163,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–3:00"
-      },
-      {
         "day": "domingo",
         "hours": "18:00–3:00"
       },
@@ -1045,75 +1175,95 @@
         "hours": "18:00–3:00"
       },
       {
-        "day": "miércoles",
-        "hours": "18:00–3:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–3:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "18:00–3:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPmKq6dufKnM_ria5Uhlpwfa1g6R8rYyhWrUdeE=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPmKq6dufKnM_ria5Uhlpwfa1g6R8rYyhWrUdeE=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPmKq6dufKnM_ria5Uhlpwfa1g6R8rYyhWrUdeE=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPmKq6dufKnM_ria5Uhlpwfa1g6R8rYyhWrUdeE=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNvnfanGgNhDyd_HkyziLH82YEm1KNy8ViWJ6rG=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipP1M2dKdIp9SikRDqAyKk3VYI5bRWeFFhjQvx2H=w203-h270-k-no"
+    }
   },
   {
-    "name": "Bar musical gotham",
+    "name": "Bodega Juan Carlos",
     "category": "Bar",
-    "address": "C Mas, 44, 08903 L'Hospitalet de Llobregat, Barcelona",
+    "address": "Carrer de Castelao, 28, 08902 L'Hospitalet de Llobregat, Barcelona",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "4.5",
-    "num_reviews": "2",
+    "num_reviews": "262",
     "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6l1BkEoluWBtc7mqQI44cg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=290.4455&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6l1BkEoluWBtc7mqQI44cg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=290.4455&pitch=0&thumbfov=100"
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–15:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "7:30–20:30"
+      },
+      {
+        "day": "martes",
+        "hours": "7:30–20:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "7:30–20:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:30–20:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "7:30–20:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–15:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMy5j3e7to0t6n5BipGrvvZbJ8Gz1hceSmpM2GW=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMy5j3e7to0t6n5BipGrvvZbJ8Gz1hceSmpM2GW=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMZKzdWhjqN1Zz68TgF1oUV1ypTwjvqgk4XZ7og=w203-h203-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMcxXrJmB7uJhygNQ6OTKK9i4pu-DTAqgdyMzUk=w203-h152-k-no"
+    }
   },
   {
-    "name": "Bar Serra",
-    "category": "Bar",
-    "address": "Carrer Santa Eulàlia, 100, 08902 L'Hospitalet de Llobregat, Barcelona",
+    "name": "Bar Restaurante la Cabaña Y Club Don Royal",
+    "category": "Club nocturno",
+    "address": "Carrer de Béjar, 51, Sants-Montjuïc, 08014 Barcelona",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.9",
-    "num_reviews": "708",
+    "num_reviews": "43",
     "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "7:00–0:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "9:00–22:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "9:00–17:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "7:00–0:30"
-      },
-      {
-        "day": "martes",
-        "hours": "7:00–0:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "7:00–0:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "7:00–0:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNDAawLncnj3z25sJHIg37W2I4voIFsN-xxcM7i=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPH5BSrseTnM7hDjdc3Lg_stDCrcHhgXQzdwllB=w426-h240-k-no"
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w124-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w203-h150-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMUJTfRpFZE-5HG3geFvZOIvFy4SnL5ymjP6iU9=w203-h369-k-no",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_zKOxCu93rF4iDuth0kZ-g&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=255.57169&pitch=0&thumbfov=100"
+    }
   },
   {
     "name": "Bar Musical Punta Dulce 2",
@@ -1128,14 +1278,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "20:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "20:00–3:00"
-      },
-      {
         "day": "domingo",
         "hours": "20:00–3:00"
       },
@@ -1148,60 +1290,47 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "20:00–3:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–3:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "20:00–3:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "20:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:00"
       }
     ],
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DDHe5Hb7O7dZOWHvEYVKMg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.931&pitch=0&thumbfov=100",
-    "img2": "https://lh3.googleusercontent.com/p/AF1QipMb2LzQj6HGV9bPGDYEzUpOvNCJwYyOQ_rJpn7l=w408-h730-k-no"
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DDHe5Hb7O7dZOWHvEYVKMg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=269.931&pitch=0&thumbfov=100",
+      "img1": "https://lh3.googleusercontent.com/p/AF1QipMb2LzQj6HGV9bPGDYEzUpOvNCJwYyOQ_rJpn7l=w203-h363-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPNFNpskbu0NBH9Ie9YkpeTJBqUGnxKkJ_Np4LI=w203-h360-k-no",
+      "img3": "//:0"
+    }
   },
   {
-    "name": "Tatos bar",
-    "category": "Bar de tapas",
-    "address": "Carrer de Barcelona, 84, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "name": "Apricots Camp Nou Escorts",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.7",
-    "num_reviews": "179",
+    "reviews_rating": "4.9",
+    "num_reviews": "15",
     "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "12:30–16:0018:30–23:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "12:30–16:0018:30–23:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "12:00–16:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "18:30–23:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:30–23:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPrd0VnQuL5h4IA_mhhB9lScqz8vR9n8FjOmGal=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPrd0VnQuL5h4IA_mhhB9lScqz8vR9n8FjOmGal=w408-h544-k-no"
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP3sqh3wxGwouLhHtqcfzEV-mrc0oy9DsEqBR1I=w177-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipP3sqh3wxGwouLhHtqcfzEV-mrc0oy9DsEqBR1I=w203-h105-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOvqz3aKorHHqcGuR5ts6SOI_QIHdOK_7mmRAQ4=w203-h100-k-no-pi-20-ya350-ro-0-fo100",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EsEyEn435CBP1PmVOdfuJQ&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=77.85633&pitch=0&thumbfov=100"
+    }
   },
   {
     "name": "Bar Cervecería El Coto",
@@ -1212,17 +1341,9 @@
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "4.3",
-    "num_reviews": "1165",
+    "num_reviews": "1170",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "8:30–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "9:00–24:00"
-      },
       {
         "day": "domingo",
         "hours": "9:00–18:00"
@@ -1236,46 +1357,28 @@
         "hours": "8:30–23:00"
       },
       {
-        "day": "miércoles",
-        "hours": "8:30–23:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:30–23:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "8:30–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "8:30–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNEx8QBefZ2_2lJb8o_4xnSgx2QUXL5du0DnbNl=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM0MC5GZ0ZSCzBtWQ_7qVu0_vKFuG-jgf3m-ZfZ=w408-h545-k-no"
-  },
-  {
-    "name": "Bar Restaurante la Cabaña Y Club Don Royal",
-    "category": "Club nocturno",
-    "address": "Carrer de Béjar, 51, Sants-Montjuïc, 08014 Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "43",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w124-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w408-h302-k-no"
-  },
-  {
-    "name": "Sala Salamandra",
-    "category": "Sala de conciertos",
-    "address": "Av. del Carrilet, 235, 08907 L'Hospitalet de Llobregat, Barcelona",
-    "website": "salamandra.cat",
-    "phone": "933370602",
-    "city": "L'Hospitalet de Llobregat",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.2",
-    "num_reviews": "4231",
-    "description": "Conciertos en vivo y sesiones de DJ en una espaciosa discoteca con barriles de aceite en la pista de baile.",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOz4ZTCYg196iVl0H-FBA1wq9xJ-OD5EjE_wcIY=w204-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOg0j-lFAfZlQm8-5-XBvt9fa0Ib9ls71rC7RBn=w415-h240-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNEx8QBefZ2_2lJb8o_4xnSgx2QUXL5du0DnbNl=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipM0MC5GZ0ZSCzBtWQ_7qVu0_vKFuG-jgf3m-ZfZ=w203-h271-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipPbGGofQ0F0Wug6zV2cIN0u7xcvikzv6VXjrD7l=w203-h269-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNB1hc-FXDnbHwhMP7IMKIJp-EonybyC0gWMXo3=w203-h152-k-no"
+    }
   },
   {
     "name": "Armonia",
@@ -1290,14 +1393,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "7:00–21:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "7:00–21:00"
-      },
-      {
         "day": "domingo",
         "hours": "7:00–21:00"
       },
@@ -1310,40 +1405,92 @@
         "hours": "7:00–21:00"
       },
       {
-        "day": "miércoles",
-        "hours": "7:00–21:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "7:00–21:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "7:00–21:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "7:00–21:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "7:00–21:00"
       }
     ],
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bzHmOjqchLC7vSscGgB8XQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.0563&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bzHmOjqchLC7vSscGgB8XQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.0563&pitch=0&thumbfov=100"
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bzHmOjqchLC7vSscGgB8XQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=287.86557&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
   },
   {
-    "name": "Queen's",
-    "category": "Discoteca",
-    "address": "Amigable con la comunidad LGTBI+",
-    "website": "Pg. dels Ferrocarrils Catalans, 117, 08940 Cornellà de Llobregat, Barcelona",
-    "phone": "695798627",
-    "city": "Cornellà de Llobregat",
+    "name": "Bar de tapas",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "219",
+    "reviews_rating": "4.7",
+    "num_reviews": "27",
     "description": "NOT_FOUND",
     "schedule": [
       {
+        "day": "domingo",
+        "hours": "10:00–23:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–23:00"
+      },
+      {
+        "day": "martes",
+        "hours": "10:00–23:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "10:00–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "10:00–23:00"
+      },
+      {
         "day": "viernes",
-        "hours": "23:00–24:00"
+        "hours": "10:00–23:00"
       },
       {
         "day": "sábado",
-        "hours": "0:00–6:0023:00–24:00"
-      },
+        "hours": "10:00–23:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOaK5dNccRQ6j6YgH-KD27o8uspWs1gNRMtYv3-=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOaK5dNccRQ6j6YgH-KD27o8uspWs1gNRMtYv3-=w203-h152-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNSFwqp53Kgrrce08aP9pMYM5GBJOhyj4EgmnGW=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipONfupGxmJZuNbJxG4uiU--xkInTz0IXImbNZtG=w203-h203-k-no"
+    }
+  },
+  {
+    "name": "Tatos bar",
+    "category": "Bar de tapas",
+    "address": "Carrer de Barcelona, 84, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.7",
+    "num_reviews": "180",
+    "description": "NOT_FOUND",
+    "schedule": [
       {
         "day": "domingo",
-        "hours": "0:00–6:0015:00–24:00"
+        "hours": "12:00–16:00"
       },
       {
         "day": "lunes",
@@ -1354,90 +1501,161 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:30–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:30–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "12:30–16:0018:30–23:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:30–16:0018:30–23:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPrd0VnQuL5h4IA_mhhB9lScqz8vR9n8FjOmGal=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPrd0VnQuL5h4IA_mhhB9lScqz8vR9n8FjOmGal=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9xlStcMznpPj8xSGv25adXOxyr0BTonf4CIacMyCvcD2t7IDgVKghj9L5envO5Wvs_l-cQjjvIRBasYTGnAQ8uHHdHDLLgzvbO3KgeARCoFXEhS8t3lZgMLWEYo_snkpWnZGGc=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPCCfg9Res-mZdB2fz7XCaXMDZ5uFgBY2iNlDmO=w203-h360-k-no"
+    }
+  },
+  {
+    "name": "Sala París",
+    "category": "Lounge",
+    "address": "Carrer d'Arístides Maillol, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "33",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "lunes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Abierto 24 horas El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNLYXW_ArWMcJuXW4MVapZUsUCFgTeYPvbM7AVs=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNfviIIFLPiiz8GezkPmwE8E2lcuRSgyL5sB18m=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipO9ExZ1I_ENQPeBNxqH0eE_lgHAsw233ZoX2RGD=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNCoklgEDfc9uRmm35vc7tSR8DlFA9W2p2G_p-T=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Coyotes Disco Pub Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Tenor Masini, 65, Sants-Montjuïc, 08028 Barcelona",
+    "website": "coyotes.eatbu.com",
+    "phone": "622045829",
+    "city": "Barcelona",
+    "auxiliar": "Reclamar esta empresa",
+    "reviews_rating": "4.0",
+    "num_reviews": "280",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
         "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPMEQrCWc1sAt4VAPXvvnoUF2OVhDnkr8FdeeVs=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPBVFLx2scKwoMZj4O49O_i3AxaJiAB4m_ndXn-=w513-h240-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNkWMDU8p9lvh--cI5YzhBLy2lJyySfWTeseIby=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMwQodsFX9jEXj06HxSn43ZwrIlr3j6TuS3g4G-=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipP-oaIs901jpWKMtIR577p2vj-kdsPFNx2DlxXh=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNOG2gbYY3g0Zw4RHzASElQN0W1ka-vnOCi6r7d=w203-h152-k-no"
+    }
   },
   {
-    "name": "Satisfaction Music Club",
+    "name": "Espai d'Oci",
     "category": "NOT_FOUND",
-    "address": "Carrer d'Enric Prat de la Riba, 80, 08901 L'Hospitalet de Llobregat, Barcelona",
+    "address": "NO_ADDRESS",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.8",
-    "num_reviews": "5",
+    "reviews_rating": "3.9",
+    "num_reviews": "152",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMC1z5IS6wKgeCs08CuucmiCOaqBALEvKN3sIs=w80-h133-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMC1z5IS6wKgeCs08CuucmiCOaqBALEvKN3sIs=w408-h680-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNXX0s04GCInbnB-JyiAXEZq7nQBNRZ-alVgYle=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN7J8Kypexvnegsiba9bt_ymcbPSnfLLgzUJN17=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMKpOX4fsvHOt3Xx0G2BTY_GB_06p8dtLUDhdqb=w203-h270-k-no",
+      "img3": "//:0"
+    }
   },
   {
-    "name": "Sarao",
-    "category": "NOT_FOUND",
-    "address": "Carrer de L'Estrella, 2, 12, 08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
+    "name": "Sala Salamandra",
+    "category": "Sala de conciertos",
+    "address": "Av. del Carrilet, 235, 08907 L'Hospitalet de Llobregat, Barcelona",
+    "website": "salamandra.cat",
+    "phone": "933370602",
+    "city": "L'Hospitalet de Llobregat",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "NOT_FOUND",
-    "num_reviews": "",
-    "description": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "4254",
+    "description": "Conciertos en vivo y sesiones de DJ en una espaciosa discoteca con barriles de aceite en la pista de baile.",
     "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RCRdNnGTAZSEhFoFW8KYdQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=145.83762&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RCRdNnGTAZSEhFoFW8KYdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=145.83762&pitch=0&thumbfov=100"
-  },
-  {
-    "name": "Souds Good",
-    "category": "NOT_FOUND",
-    "address": "Carrer del Mestre Carbó, 16, 08902 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "NOT_FOUND",
-    "num_reviews": "",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dbkQk2i_2H99VYoky1110w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=332.68488&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dbkQk2i_2H99VYoky1110w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=332.68488&pitch=0&thumbfov=100"
-  },
-  {
-    "name": "Arileft",
-    "category": "NOT_FOUND",
-    "address": "08901 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "NOT_FOUND",
-    "num_reviews": "",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iC93J-lA_zLU2AaY24YPsg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=105.00071&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iC93J-lA_zLU2AaY24YPsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.00071&pitch=0&thumbfov=100"
-  },
-  {
-    "name": "Bar Café",
-    "category": "Cafetería",
-    "address": "Carrer de Vallparda, 11, 08904 L'Hospitalet de Llobregat, Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.0",
-    "num_reviews": "10",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FugoH_NgvoqHk8AMyPLRFw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=109.96384&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FugoH_NgvoqHk8AMyPLRFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.96384&pitch=0&thumbfov=100"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOz4ZTCYg196iVl0H-FBA1wq9xJ-OD5EjE_wcIY=w204-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOg0j-lFAfZlQm8-5-XBvt9fa0Ib9ls71rC7RBn=w203-h117-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_m8aRa3FSPbFJuFjl7DU5AhYlOxCQODetoyplpgernunojzo4HmsSSpJYUyxfhFqo2maF3YRhrfqEN9v3TVZoYNyIqzezSm6EvzC11C0RHH__nC-3_QTZP4F_u8kLnn6Xubi9A2g=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9c3m-uCYouv0h8eZd2EYYYdrs9ec0pkrrWIgKpAVoHyXKxvEqlI_mSbYW_6BX08h6RwtaUCLz5_g_dDkL1zEO5nQcvMWke-gWOmPt6FPl-5dbm9wWHFsyfZuDvcgfjl0LmLdyH=w203-h114-k-no"
+    }
   }
 ]

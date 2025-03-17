@@ -1,8 +1,46 @@
 [
   {
+    "name": "Undead Dark Club",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "203",
+    "description": "Oscuro local decorado con estatuas y armaduras especializado en música gothic rock o post punk.",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "NOT_FOUND",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNRP1Sq4hLFHv6gWGbU9HnfaFd8R-lFSXln2Rfg=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNfcj8daa8uRFDxBEcqglH4pMHoNZG1d-dA_HhF=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipP1rAL22QPemLDgYwO5EXXJFEUHdFT4nUugsYnE=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Safari Disco Club Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "2499",
+    "description": "Discoteca animada, que abre toda la noche, con dos pistas de bailes y fiestas temáticas.",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNFuwmnpTP29aNomW5zbdIT-O_Z4rAvZGoTWVL9=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOpeBEz6oiqIIA06_lo-9yQsVu7FdXvYu9RHWhT=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOJxPFcHtosuwdJZHJWxZA_ChOcaLidQ5QVCBQC=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipP7izaiH48DjsDhSvModi5cX9X_EoWEk14EuZNy=w203-h270-k-no"
+    }
+  },
+  {
     "name": "Bar Restaurante la Cabaña Y Club Don Royal",
-    "category": "Club nocturno",
-    "address": "Carrer de Béjar, 51, Sants-Montjuïc, 08014 Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
@@ -11,96 +49,12 @@
     "num_reviews": "43",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w124-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w408-h302-k-no"
-  },
-  {
-    "name": "Undead Dark Club",
-    "category": "Discoteca",
-    "address": "Carrer Violant d'Hongria, 128, Distrito de Sants-Montjuïc, 08028 Barcelona",
-    "website": "undeadarkclub.com",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.3",
-    "num_reviews": "199",
-    "description": "Oscuro local decorado con estatuas y armaduras especializado en música gothic rock o post punk.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:30–6:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipP1rAL22QPemLDgYwO5EXXJFEUHdFT4nUugsYnE=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNRP1Sq4hLFHv6gWGbU9HnfaFd8R-lFSXln2Rfg=w408-h544-k-no"
-  },
-  {
-    "name": "M7 Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Mèxic, 7, Sants-Montjuïc, 08004 Barcelona",
-    "website": "m7club.net",
-    "phone": "697341656",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.4",
-    "num_reviews": "1092",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–5:3023:45–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:3023:45–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:3023:45–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:30"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "23:45–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNJoT1uMmzI7hlNjtGhHgbDi1qxILMsa-FDGCXR=w80-h106-k-no",
-    "img2": "https://lh3.googleusercontent.com/p/AF1QipMDsProsAJ92_576nOzy5fve6DXKy-wehLjhb8b=w429-h240-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w124-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMYodTeO5KP105FSmzW9HC51h5X00szeMFsrfGZ=w203-h150-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMUJTfRpFZE-5HG3geFvZOIvFy4SnL5ymjP6iU9=w203-h369-k-no",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_zKOxCu93rF4iDuth0kZ-g&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=255.57169&pitch=0&thumbfov=100"
+    }
   },
   {
     "name": "Coyotes Disco Pub Barcelona",
@@ -111,17 +65,9 @@
     "city": "Barcelona",
     "auxiliar": "Reclamar esta empresa",
     "reviews_rating": "4.0",
-    "num_reviews": "276",
+    "num_reviews": "280",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -135,75 +81,28 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNkWMDU8p9lvh--cI5YzhBLy2lJyySfWTeseIby=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMwQodsFX9jEXj06HxSn43ZwrIlr3j6TuS3g4G-=w408-h272-k-no"
-  },
-  {
-    "name": "Safari Disco Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
-    "website": "safaridiscoclub.com",
-    "phone": "934878342",
-    "city": "Barcelona",
-    "auxiliar": "Cerrado ⋅ Apertura: 23:59",
-    "reviews_rating": "3.8",
-    "num_reviews": "2494",
-    "description": "Discoteca animada, que abre toda la noche, con dos pistas de bailes y fiestas temáticas.",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNFuwmnpTP29aNomW5zbdIT-O_Z4rAvZGoTWVL9=w137-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOpeBEz6oiqIIA06_lo-9yQsVu7FdXvYu9RHWhT=w408-h306-k-no"
-  },
-  {
-    "name": "Mandarina Deluxe Vintage",
-    "category": "Discoteca",
-    "address": "Carrer d'Alcolea, 98, Sants-Montjuïc, 08014 Barcelona",
-    "website": "m.facebook.com",
-    "phone": "695922053",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.8",
-    "num_reviews": "320",
-    "description": "NOT_FOUND",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "23:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:00–24:00"
-      },
-      {
-        "day": "domingo",
         "hours": "0:00–6:00"
       },
       {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
+        "day": "sábado",
+        "hours": "0:00–6:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM5oLF6JHc7yID9bHf-jRbw2h0IkfKxIx3YZsD5=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPEn0fNIOiUgNQY81iGSub-wUxutxZVqD7g6TfN=w408-h408-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNkWMDU8p9lvh--cI5YzhBLy2lJyySfWTeseIby=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMwQodsFX9jEXj06HxSn43ZwrIlr3j6TuS3g4G-=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipP-oaIs901jpWKMtIR577p2vj-kdsPFNx2DlxXh=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNOG2gbYY3g0Zw4RHzASElQN0W1ka-vnOCi6r7d=w203-h152-k-no"
+    }
   },
   {
     "name": "Ramblas",
@@ -213,56 +112,16 @@
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "20",
+    "reviews_rating": "4.5",
+    "num_reviews": "24",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w426-h240-k-no"
-  },
-  {
-    "name": "Sala Taro",
-    "category": "Bar musical",
-    "address": "Carrer de Rossend Arús, 9, Sants-Montjuïc, 08014 Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.5",
-    "num_reviews": "224",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "21:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMpybo7rHWbYLn73djJVIK_vHYSoFU6q2cERxUp=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPmrhIbtEMQhKW-ixBPcJir8OtyyNs6BOMi-LsG=w408-h306-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNCCgrxiN6CTgzmBMOxJML5r9a20k0Se-0vgQL0=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipPJ1kPCvlLgAQQI8ZuBbEew2Bck4jJFFZ5HWb1q=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMWKtiqf16X15LZ2_TsYhMBoMXVv4eZdsl9nsDD=w203-h360-k-no"
+    }
   },
   {
     "name": "Hellfire Metal Club",
@@ -277,14 +136,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
-      {
         "day": "domingo",
         "hours": "Cerrado"
       },
@@ -297,60 +148,172 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMfWu_LNpd2tUEdCsNsLdQBGUeF8fYhQZuAyk_r=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMtfEwSylrLU63D6XQBDBrje69l0T5l1QNVcYBr=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOZ3HmHqjNbz-ishx8wghICLBp3pqa9IVcYatsB=w203-h152-k-no"
+    }
   },
   {
-    "name": "Disco Bar Mami",
-    "category": "Discoteca",
-    "address": "Carrer de Sants, 443, Sants-Montjuïc, 08028 Barcelona",
-    "website": "m.facebook.com",
-    "phone": "671296949",
-    "city": "Barcelona",
-    "auxiliar": "Reservar una mesa",
-    "reviews_rating": "3.1",
-    "num_reviews": "212",
+    "name": "Sala Club Renfe",
+    "category": "Lounge",
+    "address": "Se encuentra en: Barcelona-Sants",
+    "website": "Pl. dels Països Catalans, s/n, Sants-Montjuïc, 08014 Barcelona",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "36",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "22:30–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0022:30–24:00"
-      },
-      {
         "day": "domingo",
-        "hours": "0:00–6:0022:30–24:00"
+        "hours": "6:30–22:00"
       },
       {
         "day": "lunes",
-        "hours": "0:00–5:0022:30–24:00"
+        "hours": "5:30–22:00"
       },
       {
         "day": "martes",
-        "hours": "0:00–5:0022:00–24:00"
+        "hours": "5:30–22:00"
       },
       {
-        "day": "miércoles",
-        "hours": "0:00–5:0022:30–24:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "5:30–22:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "0:00–5:00"
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "5:30–22:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "5:30–22:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJFXydPw6OfGQvZRISduBTaGfK7WTc335x1Ivk=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMY2csack0C58TMsalSBl22LlTHm9gvi5S90voP=w408-h292-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipO61c4nbmxc2cJS92JMlt06_YyignVnomGzS0Pg=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMuPvJEhMJtjHvskuWggQpJyGh1444RuoJ12pRr=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "M7 Club Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Mèxic, 7, Sants-Montjuïc, 08004 Barcelona",
+    "website": "m7club.net",
+    "phone": "697341656",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.4",
+    "num_reviews": "1097",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:3023:45–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:30"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:45–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–5:3023:45–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:3023:45–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNJoT1uMmzI7hlNjtGhHgbDi1qxILMsa-FDGCXR=w80-h106-k-no",
+      "img1": "https://lh3.googleusercontent.com/p/AF1QipMDsProsAJ92_576nOzy5fve6DXKy-wehLjhb8b=w203-h113-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPXp_9Gj-z-Ka-WeEehkL61x3uuxA-oWc76B7xW=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipNj2NSO7UU3ewoJzArBq8uwv-FlXtRoQXvcx_qj=w203-h113-k-no"
+    }
+  },
+  {
+    "name": "Mandarina Deluxe Vintage",
+    "category": "Discoteca",
+    "address": "Carrer d'Alcolea, 98, Sants-Montjuïc, 08014 Barcelona",
+    "website": "m.facebook.com",
+    "phone": "695922053",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "321",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM5oLF6JHc7yID9bHf-jRbw2h0IkfKxIx3YZsD5=w80-h106-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-96X5qh6YeLd5fF-caHjY7qWSPdB7wnzSMPW30D_Pt3fPcteePN9m1Eqb5ILh8TZ2V0yg0IHuXKN-g_YQaN26urGWt410E2yzviiYs6kj_VZ5XttWUKrDRwZZPOX-NtwwMusOG8g=w203-h203-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMit1iR6rUWpd6tqiA1YtKGz_vP83FR_SkJQZmt=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9q6je768lOhqfdpLN2NDkQs4OF34s6CwJ9ZgACUMfIOHKwTdWgieQrCp5MuXZ3P3cGFIGGyJs-yTg--mvmtUARwCfLiPtW412_7PRxOrsBySCpIVHShc-y-RZeLlmy0gHBL8dz=w203-h152-k-no"
+    }
   },
   {
     "name": "Casa SOLER",
@@ -364,52 +327,79 @@
     "num_reviews": "10",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGsXhv3qCGAcxfR1GQq7rw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.3653&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGsXhv3qCGAcxfR1GQq7rw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.3653&pitch=0&thumbfov=100"
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vGsXhv3qCGAcxfR1GQq7rw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=170.3653&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
   },
   {
-    "name": "Input - High Fidelity Dance Club",
-    "category": "Club nocturno",
-    "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona",
-    "website": "inputbcn.com",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.1",
-    "num_reviews": "822",
-    "description": "Sesiones de DJs internacionales en una discoteca con proyectores, láseres y un sistema de sonido potente.",
+    "name": "Disco Bar Mami",
+    "category": "Discoteca",
+    "address": "Carrer de Sants, 443, Sants-Montjuïc, 08028 Barcelona",
+    "website": "m.facebook.com",
+    "phone": "671296949",
+    "city": "Barcelona",
+    "auxiliar": "Reservar una mesa",
+    "reviews_rating": "3.1",
+    "num_reviews": "213",
+    "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
         "day": "domingo",
-        "hours": "0:00–6:00"
+        "hours": "0:00–6:0022:30–24:00"
       },
       {
         "day": "lunes",
-        "hours": "Cerrado"
+        "hours": "0:00–5:0022:30–24:00"
       },
       {
         "day": "martes",
-        "hours": "Cerrado"
+        "hours": "0:00–5:0022:00–24:00"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–5:0022:30–24:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "Cerrado"
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "22:30–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0022:30–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w408-h272-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPJFXydPw6OfGQvZRISduBTaGfK7WTc335x1Ivk=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipM7avACww6K5vXjJWvQWxMbCyTVF5yq0fPqug3C=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNzroHIiLI0MKcVJbP8s_ClFAQWcxs8dstexU5b=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPEpJJweOEg-FjJaPxfwOz04wWWf8PUcCgV79v1=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Karl's",
+    "category": "Club nocturno",
+    "address": "Carrer del Vallespir, 25, Bajo 2do, Distrito de Sants-Montjuïc, 08014 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipO4Hp5ObD8k0SQ3SmUig_l9etQSVVsBPkw6Mjeu=w91-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipO4Hp5ObD8k0SQ3SmUig_l9etQSVVsBPkw6Mjeu=w203-h204-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNIjVtsAB9M07kiP6PniXG7coUqz4tGt74-DIh8=w203-h204-k-no",
+      "img3": "NOT_FOUND"
+    }
   },
   {
     "name": "Margaritas Xavi",
@@ -423,8 +413,108 @@
     "num_reviews": "14",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OTsCiuHMevUfb-IRI1cN4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=241.73903&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OTsCiuHMevUfb-IRI1cN4g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.73903&pitch=0&thumbfov=100"
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OTsCiuHMevUfb-IRI1cN4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=241.73903&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Bar Enka 3",
+    "category": "Lounge",
+    "address": "Carrer de Sants, 384, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.5",
+    "num_reviews": "134",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:00–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "8:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:00–1:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w92-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w203-h203-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipN5DS8QxUnqSIkHOv6-KkdyNSOUMsvwWNcBhCRX=w203-h203-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPELwRw2D10sMNY_7It2NnMhC8EAsJM7KSs9XQH=w203-h203-k-no"
+    }
+  },
+  {
+    "name": "Karaoke Nick",
+    "category": "Karaoke",
+    "address": "Av. de Madrid, 160, Sants-Montjuïc, 08028 Barcelona",
+    "website": "discotecanick.com",
+    "phone": "661886508",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "1447",
+    "description": "Banco corrido, luces de neón y billar en bar-karaoke que también ofrece servicio de restaurante.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–6:0023:00–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:0022:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0022:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPImstVqKFYFPMqCqZXP4OHMGaLIg6vzPGMexx8=w184-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ZpkSChZnTRM4JlFXBN1mAAbNWXMkc7xHyXpuxIxkCvC1x9vhYs0GhupXHT29JLrNIhwTJ-LEByOvXwGXjy2nxOYuaVVyroBC4zZgJMkuMRFSvc_gtOrYHZTwsYfFqhILW5x4=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Di5q3qlLI5nogTAARBJ0aYLC-DrJHqW0MaJfi56VxGEKjsWdlkk8X_2JoSZ_L_GKH3x5lSH_MO9r8c_LqcB6kDS11eFOvNrX_BD2049vmcGhngJ90NxyYtCZwijOWFflsyRU=w203-h111-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9LsoHtF19FuCJCPRTQGBuaXfZA0q-Rtn30aS6kWEeu0M1J6cpyO6U8SYE-a3SYy0yW5IJ-SMShfcFZeYOunf415k2lSlyrvw6A4Y1ah93HKeeGucYGXsBcmSViegFKH5r5crpz=w203-h114-k-no"
+    }
   },
   {
     "name": "POPair Party",
@@ -439,124 +529,184 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
         "day": "viernes",
         "hours": "0:30–6:00"
       },
       {
         "day": "sábado",
         "hours": "Cerrado"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN7kOLEIffdkTb0PJBtLkMc9iOwp7g4MxSZF_I8=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipP8ixu3Q58LY9Ez8NVt2fZZC9PtpYHRqxwF9NIY=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipO5HMQba9TjwaFnVpZ19AuiuCZjpuc5CCgdmc4y=w203-h203-k-no"
+    }
   },
   {
-    "name": "Sala Club Renfe",
-    "category": "Lounge",
-    "address": "Se encuentra en: Barcelona-Sants",
-    "website": "Pl. dels Països Catalans, s/n, Sants-Montjuïc, 08014 Barcelona",
+    "name": "Can Parats",
+    "category": "Club nocturno",
+    "address": "Travessera de les Corts, 165, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.3",
-    "num_reviews": "35",
+    "reviews_rating": "4.9",
+    "num_reviews": "13",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "5:30–22:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "5:30–22:00"
-      },
-      {
         "day": "domingo",
-        "hours": "6:30–22:00"
+        "hours": "20:00–1:00"
       },
       {
         "day": "lunes",
-        "hours": "5:30–22:00"
+        "hours": "Cerrado"
       },
       {
         "day": "martes",
-        "hours": "5:30–22:00"
+        "hours": "20:00–1:00"
       },
       {
-        "day": "miércoles",
-        "hours": "5:30–22:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–1:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "5:30–22:00"
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–1:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN8EMsG-ZKc1vfpKIbrGkcS6gGJkpJnoMgKNuU=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMDpAjBUj2gfe3AsFtnHStvV5bGcr3kvFmM4DrV=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMDpAjBUj2gfe3AsFtnHStvV5bGcr3kvFmM4DrV=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipP7SBIH_3fVMrTLaC4lM21SGgrC78F7575t0Dld=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPi6JU20UkXwPudFmf46AVV22grqzE6eOUHBHVU=w203-h270-k-no"
+    }
   },
   {
-    "name": "Karaoke Nick",
-    "category": "Karaoke",
-    "address": "Av. de Madrid, 160, Sants-Montjuïc, 08028 Barcelona",
-    "website": "discotecanick.com",
-    "phone": "661886508",
-    "city": "Barcelona",
+    "name": "El Monumento Bar",
+    "category": "Lounge",
+    "address": "Carrer del Farell, 25, Sants-Montjuïc, 08014 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.4",
-    "num_reviews": "1443",
-    "description": "Banco corrido, luces de neón y billar en bar-karaoke que también ofrece servicio de restaurante.",
+    "reviews_rating": "3.8",
+    "num_reviews": "76",
+    "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "0:00–6:0022:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0022:00–24:00"
-      },
-      {
         "day": "domingo",
-        "hours": "0:00–6:0023:00–24:00"
+        "hours": "18:00–2:30"
       },
       {
         "day": "lunes",
-        "hours": "0:00–6:0023:00–24:00"
+        "hours": "18:00–2:30"
       },
       {
         "day": "martes",
-        "hours": "0:00–6:0023:00–24:00"
+        "hours": "18:00–2:30"
       },
       {
-        "day": "miércoles",
-        "hours": "0:00–6:0023:00–24:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "0:00–6:0023:00–24:00"
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPImstVqKFYFPMqCqZXP4OHMGaLIg6vzPGMexx8=w184-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNcnjx6hHjKxFuoTcqRLpxje-GCQdW-NYqV-K2n=w408-h725-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMkgkbjUDRTZ_liYszxiWRmU8kx9Ip43QQjz6hl=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9_37TX31aUxn7ETnAJDVxREpIuecYEwnlwjVWRUr7RajjN356m037dEY284jZsJhwn-ft878dONoyrIyi5GLsssBvD5flhCmqpQi8TBVxAJQyqa3M0nqIR1T8EF_0HqS_AktrzpQ=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9rE_1KGCh_Kq3n0y8uLjXbPpHKQI2nSRCrsNuZmXG_XeDzIXN2yeXDnIme5dVUwWgCUao5HQ1KOb1K-YP22DGFSiKoqIOihAXrZOuofSJyo0mzoCLUiwgraFA1-omLNfblmBAM=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_qPSqgX6JhgbJqNR-gYAP3DYkVXiQVED9ZR21hfazSGrf8N_V9DVjPR-dEI8QBy1j37xNP8VrOPXW7lQ5BqmHzhY4Ec27OZFBklnPRApMwZYhDkuoKpE-iCg2GbkYg_HUtqiatxQ=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Input - High Fidelity Dance Club",
+    "category": "Club nocturno",
+    "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona",
+    "website": "inputbcn.com",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "840",
+    "description": "Sesiones de DJs internacionales en una discoteca con proyectores, láseres y un sistema de sonido potente.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-qZB4C81hdSSh5XdkneKpi9s_8riijHO1k7xmXagR3uyuvuUBj-3Nhf3zLLf0FdEBn8__kAHs3Kv12TQFravyTpepIY7HMMORQBGw2yFVCW8P3WkppbJqa6K0E6xg51CvIL6s=w222-h100-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9x2NiIivnuOJIoMXaaEmyzpWKuJXrJhv37lorzRbeaNUNUO_eLNUh80rQk0Ctn-SL6ugvzMc6K5GR1RtigN0ZdG-_lK7NgXQy58ZPJZ6bCfk7NCbbCAxX9e7lbmBpjUjm1IuMCfw=w203-h152-k-no"
+    }
   },
   {
     "name": "YASS! Barcelona | LGTBIQ+ Gay Party",
@@ -566,10 +716,30 @@
     "phone": "934878342",
     "city": "Barcelona",
     "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.6",
-    "num_reviews": "66",
+    "reviews_rating": "3.0",
+    "num_reviews": "91",
     "description": "NOT_FOUND",
     "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
       {
         "day": "viernes",
         "hours": "Cerrado"
@@ -577,118 +747,14 @@
       {
         "day": "sábado",
         "hours": "23:45–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w408-h725-k-no"
-  },
-  {
-    "name": "Sala Plataforma Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer Nou de la Rambla, 145, Sants-Montjuïc, 08004 Barcelona",
-    "website": "salaplataforma.com",
-    "phone": "607249478",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.5",
-    "num_reviews": "2035",
-    "description": "Discoteca animada, con una singular decoración de aire industrial, sesiones de DJs, conciertos en directo y cócteles.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:01–7:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPTiXMYvc93P9g2VFZThCSuJezt7stsFmjqmDMi=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNXMaOGJda9y1leqiNJq_-9Ux0MGndk5pyWYSst=w408-h544-k-no"
-  },
-  {
-    "name": "Bar Enka 3",
-    "category": "Lounge",
-    "address": "Carrer de Sants, 384, Les Corts, 08028 Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.5",
-    "num_reviews": "133",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "8:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "8:00–1:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "9:00–1:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "8:00–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "8:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "8:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "8:00–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w92-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNkMQvzADRPaYQEB500NKhbktOYtuwzWPOAcVne=w408-h408-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOvaH0WonufFXnKNBjJI_W7hsn2MkLuAclUHxGm=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNFD99ul3DqhyaPZpGmFN-QkrjHcdNGmUC5UzSK=w203-h360-k-no"
+    }
   },
   {
     "name": "Bananas Party",
@@ -699,17 +765,9 @@
     "city": "Barcelona",
     "auxiliar": "Amigable con la comunidad LGTBI+",
     "reviews_rating": "4.8",
-    "num_reviews": "20",
+    "num_reviews": "21",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
       {
         "day": "domingo",
         "hours": "Cerrado"
@@ -723,16 +781,172 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJEPbQK1o2DrUp6OAWV3fFChOWsAAIBBU3noTy=w92-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOWTZZg3jXNPa-tnH5sDGVJQOMReGLfPxw7m1Gg=w408-h408-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPJEPbQK1o2DrUp6OAWV3fFChOWsAAIBBU3noTy=w92-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOWTZZg3jXNPa-tnH5sDGVJQOMReGLfPxw7m1Gg=w203-h203-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMYMb_xbtaCuLHFSzQT1XM0IzzKNC7XfHXtHkik=w203-h198-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMmlxgw3fAmA7UAyQ-GswWOpk_eqnf05ZnSQrao=w203-h203-k-no"
+    }
+  },
+  {
+    "name": "Shisha Hookha Barcelona Marrakech",
+    "category": "Lounge",
+    "address": "Carrer de Béjar, 66, Sants-Montjuïc, 08014 Barcelona",
+    "website": "wa.link",
+    "phone": "653717818",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.9",
+    "num_reviews": "73",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "14:30–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "14:30–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "14:30–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "14:30–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "14:30–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "14:30–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "14:30–2:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM1zzWffsvwNItDBL2fomPe6ZrIMLOct_wXE1jC=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNc3bxFUsByE6kNuHVzpSWGBeJMSMydPjrKRPj7=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOei7x2GPCCNJ-4Zjbu2stpR41R_b_wfVuw8qak=w203-h203-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNg3xdPIftb4En6jAVUmlr6iXDVBhvvD_yhYGHz=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Can Parats",
+    "category": "Club nocturno",
+    "address": "Travessera de les Corts, 165, Les Corts, 08028 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.9",
+    "num_reviews": "13",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–1:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "20:00–1:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–1:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMDpAjBUj2gfe3AsFtnHStvV5bGcr3kvFmM4DrV=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMDpAjBUj2gfe3AsFtnHStvV5bGcr3kvFmM4DrV=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipP7SBIH_3fVMrTLaC4lM21SGgrC78F7575t0Dld=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPi6JU20UkXwPudFmf46AVV22grqzE6eOUHBHVU=w203-h270-k-no"
+    }
+  },
+  {
+    "name": "Karaoke Nick",
+    "category": "Karaoke",
+    "address": "Av. de Madrid, 160, Sants-Montjuïc, 08028 Barcelona",
+    "website": "discotecanick.com",
+    "phone": "661886508",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "1447",
+    "description": "Banco corrido, luces de neón y billar en bar-karaoke que también ofrece servicio de restaurante.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–6:0023:00–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–6:0023:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:0022:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0022:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPImstVqKFYFPMqCqZXP4OHMGaLIg6vzPGMexx8=w184-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-ZpkSChZnTRM4JlFXBN1mAAbNWXMkc7xHyXpuxIxkCvC1x9vhYs0GhupXHT29JLrNIhwTJ-LEByOvXwGXjy2nxOYuaVVyroBC4zZgJMkuMRFSvc_gtOrYHZTwsYfFqhILW5x4=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9Di5q3qlLI5nogTAARBJ0aYLC-DrJHqW0MaJfi56VxGEKjsWdlkk8X_2JoSZ_L_GKH3x5lSH_MO9r8c_LqcB6kDS11eFOvNrX_BD2049vmcGhngJ90NxyYtCZwijOWFflsyRU=w203-h111-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9LsoHtF19FuCJCPRTQGBuaXfZA0q-Rtn30aS6kWEeu0M1J6cpyO6U8SYE-a3SYy0yW5IJ-SMShfcFZeYOunf415k2lSlyrvw6A4Y1ah93HKeeGucYGXsBcmSViegFKH5r5crpz=w203-h114-k-no"
+    }
   },
   {
     "name": "Matinée Barcelona Events",
@@ -746,8 +960,12 @@
     "num_reviews": "24",
     "description": "NOT_FOUND",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNg0D2l7VivXR5B_9DWndsU2ImCOAtLuuWH48wm=w80-h173-k-no",
-    "img2": "https://lh3.googleusercontent.com/p/AF1QipO2oTkQ1X9VUch1iLEuiHp05xWY8sABaj0hXTbT=w408-h725-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNg0D2l7VivXR5B_9DWndsU2ImCOAtLuuWH48wm=w80-h173-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-vGL7rKbqeMp-wm2asIJs48swepc2j3maJ80ncGPatdIBeNFLz0kKMVEEQ0XRrWfB9uIS9R7MoOajF-aNvI9S9PIJTqptbnLIrLlrA3BuosSb-MMaxZWoT1hV0Qwm__lY_6oP-=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-WwQXymmcrCO9-frJ-mcQllSfpWFs3gYpdEaamLig3265EH0Nk2G-Lz1sr3UcXA5WcyFUzzPfN2nT0lwf0gaVDJMBYBHlpAuGvRfH1tJKAXMgQND6p2tSIbvBhvUrp17TWi4YH=w203-h360-k-no",
+      "img3": "//:0"
+    }
   },
   {
     "name": "YASS! Barcelona | LGTBIQ+ Gay Party",
@@ -757,18 +975,10 @@
     "phone": "934878342",
     "city": "Barcelona",
     "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.6",
-    "num_reviews": "66",
+    "reviews_rating": "3.0",
+    "num_reviews": "91",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "sábado",
-        "hours": "23:45–24:00"
-      },
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -782,16 +992,124 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:45–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w408-h725-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN-dLfCApdXbmYlHbsp7nhbxiuaVaK3w1DX2fbq=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOoGPn_QDHyro9VMx7CHBRqFlWvbdToQOXJhUU=w203-h360-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOvaH0WonufFXnKNBjJI_W7hsn2MkLuAclUHxGm=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNFD99ul3DqhyaPZpGmFN-QkrjHcdNGmUC5UzSK=w203-h360-k-no"
+    }
+  },
+  {
+    "name": "Gavin | Bar restaurante",
+    "category": "Vinoteca",
+    "address": "Carrer de la Creu Coberta, 33, Sants-Montjuïc, 08014 Barcelona",
+    "website": "gavinbar.com",
+    "phone": "931051559",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.0",
+    "num_reviews": "161",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "10:30–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "11:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "11:00–2:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "11:00–2:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMwfubiyc_KKlo-7ID6uzu22L1EZIT4KZwbdt2z=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPoRpeudH_Sook4l3olIime7keHu4FNpwl8P9_9=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPzbFxvPGlXvHnfj3tQR-3dglS_VI4GZpzWiQKO=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMAhop9AH9kGolKlYwdCYzbz_wLP-CNp8qCv3HR=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Felina Barcelona Escorts",
+    "category": "Club de entretenimiento para adultos",
+    "address": "Carrer de Can Bruixa, 42b, Les Corts, 08014 Barcelona",
+    "website": "felinabcn.com",
+    "phone": "630333111",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.1",
+    "num_reviews": "83",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "lunes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Abierto 24 horas Horario en festivo"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNV2xMc6jsYn82-I43ZmoBtJ84Ki22SLzVmh1jv=w152-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNV2xMc6jsYn82-I43ZmoBtJ84Ki22SLzVmh1jv=w203-h122-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipN4ay7KzD_8xxRUIlp9aXerbim4JjXF3qEPlJ8a=w203-h135-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipNZl61_3et9v3W-wQQ0ECFdqTsdgXf2ov5tPz_z=w203-h100-k-no-pi-20-ya55.999992-ro-0-fo100"
+    }
   },
   {
     "name": "Input - High Fidelity Dance Club",
@@ -802,17 +1120,9 @@
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "4.1",
-    "num_reviews": "822",
+    "num_reviews": "840",
     "description": "Sesiones de DJs internacionales en una discoteca con proyectores, láseres y un sistema de sonido potente.",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -826,16 +1136,28 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w408-h272-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNCjBWy99B9gt3JUTMMIaVuaCg58oRcV01cJkP8=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPOrryIorisW5otYBI-IKkbXnsbgQrrxifCXwQq=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-qZB4C81hdSSh5XdkneKpi9s_8riijHO1k7xmXagR3uyuvuUBj-3Nhf3zLLf0FdEBn8__kAHs3Kv12TQFravyTpepIY7HMMORQBGw2yFVCW8P3WkppbJqa6K0E6xg51CvIL6s=w222-h100-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9x2NiIivnuOJIoMXaaEmyzpWKuJXrJhv37lorzRbeaNUNUO_eLNUh80rQk0Ctn-SL6ugvzMc6K5GR1RtigN0ZdG-_lK7NgXQy58ZPJZ6bCfk7NCbbCAxX9e7lbmBpjUjm1IuMCfw=w203-h152-k-no"
+    }
   },
   {
     "name": "Beat Lab House & Techno",
@@ -850,14 +1172,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "sábado",
-        "hours": "Cerrado"
-      },
-      {
         "day": "domingo",
         "hours": "23:45–5:00"
       },
@@ -870,60 +1184,76 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMbFJIjyk9fdnCBB8lkqvNVr7JWUwGjHyupZ0u7=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNwlVQWe6Egw94czBgN3ZOk0WW3kKf0Lm4lLISx=w408-h272-k-no"
-  },
-  {
-    "name": "Disco Bar Joes",
-    "category": "Bar musical",
-    "address": "Se encuentra en: Restaurante Hoja Verde",
-    "website": "Pg. Sant Antoni, 19, Sants-Montjuïc, 08014 Barcelona",
-    "phone": "674451291",
-    "city": "Barcelona",
-    "auxiliar": "facebook.com",
-    "reviews_rating": "3.8",
-    "num_reviews": "195",
-    "description": "Cócteles y música en una coctelería informal con iluminación tenue y ambiente distendido.",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "18:00–3:00"
+        "hours": "Cerrado"
       },
       {
         "day": "sábado",
-        "hours": "18:00–3:00"
-      },
+        "hours": "Cerrado"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMbFJIjyk9fdnCBB8lkqvNVr7JWUwGjHyupZ0u7=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNwlVQWe6Egw94czBgN3ZOk0WW3kKf0Lm4lLISx=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOzN3W5DSOsv8YbIGoO7Zh2PVAS1-FAg53QBE_l=w203-h135-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMbFJIjyk9fdnCBB8lkqvNVr7JWUwGjHyupZ0u7=w203-h135-k-no"
+    }
+  },
+  {
+    "name": "La Mestressa",
+    "category": "Bar de tapas",
+    "address": "Pl. d'Osca, 7, Sants-Montjuïc, 08014 Barcelona",
+    "website": "lamestressa.com",
+    "phone": "934323862",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "2420",
+    "description": "Tapas y cócteles en un acogedor bar de tapas con decoración ecléctica, famoso por sus huevos estrellados.",
+    "schedule": [
       {
         "day": "domingo",
-        "hours": "18:00–2:30"
+        "hours": "13:00–24:00"
       },
       {
         "day": "lunes",
-        "hours": "9:00–17:00"
+        "hours": "18:00–23:30"
       },
       {
         "day": "martes",
-        "hours": "0:30–5:00"
+        "hours": "18:00–23:30"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–23:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "18:00–2:30"
+        "hours": "18:00–23:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "13:00–1:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMnW52MaRHTd-dLE8qbon_sa6-RkvwHxa7vuRYF=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipO_fMkP84JTAFdw3P_IEFGVg4NVRRT7fT3g_e_T=w408-h544-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPSZi4NCUAh0PLs5XnhbWblovbkdS0u3kdHEMV8=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPSZi4NCUAh0PLs5XnhbWblovbkdS0u3kdHEMV8=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMs5VEtZj3zOjfewwbP7VC8VZH9LWZYinzRKVF6=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNYHtUSd7wQIj36PIlCyAUYojpO2pO1B_Aqt_Sf=w203-h203-k-no"
+    }
   },
   {
     "name": "Sala París",
@@ -934,18 +1264,10 @@
     "city": "Barcelona",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "4.4",
-    "num_reviews": "32",
+    "num_reviews": "33",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "sábado",
-        "hours": "Abierto 24 horas"
-      },
-      {
         "day": "domingo",
         "hours": "Abierto 24 horas"
       },
@@ -958,60 +1280,124 @@
         "hours": "Abierto 24 horas"
       },
       {
-        "day": "miércoles",
-        "hours": "Abierto 24 horas"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Abierto 24 horas El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNLYXW_ArWMcJuXW4MVapZUsUCFgTeYPvbM7AVs=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNfviIIFLPiiz8GezkPmwE8E2lcuRSgyL5sB18m=w408-h271-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNLYXW_ArWMcJuXW4MVapZUsUCFgTeYPvbM7AVs=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNfviIIFLPiiz8GezkPmwE8E2lcuRSgyL5sB18m=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipO9ExZ1I_ENQPeBNxqH0eE_lgHAsw233ZoX2RGD=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNCoklgEDfc9uRmm35vc7tSR8DlFA9W2p2G_p-T=w203-h152-k-no"
+    }
   },
   {
-    "name": "Sala Apolo Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer Nou de la Rambla, 113, Sants-Montjuïc, 08004 Barcelona",
-    "website": "sala-apolo.com",
-    "phone": "934414001",
+    "name": "Apricots Camp Nou Escorts",
+    "category": "Club nocturno",
+    "address": "Carrer d'Arizala, 74a, Les Corts, 08028 Barcelona",
+    "website": "apricots.es",
+    "phone": "677854136",
     "city": "Barcelona",
-    "auxiliar": "Servicios",
-    "reviews_rating": "4.2",
-    "num_reviews": "11007",
-    "description": "Gran sala de conciertos de 2 niveles, con 2 bares, fiestas con DJ semanales, actuaciones musicales y eventos.",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.9",
+    "num_reviews": "15",
+    "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–5:00"
-      },
-      {
         "day": "domingo",
-        "hours": "17:00–5:00"
+        "hours": "Abierto 24 horas"
       },
       {
         "day": "lunes",
-        "hours": "Cerrado"
+        "hours": "Abierto 24 horas"
       },
       {
         "day": "martes",
-        "hours": "0:00–5:00"
+        "hours": "Abierto 24 horas"
       },
       {
-        "day": "miércoles",
-        "hours": "0:00–5:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Abierto 24 horas El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "0:00–5:00"
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNBkSW4ySClg5yDT1AD7sA94KTe8obUgxTlKVp6=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOsWYcXAEJtiHzAodsujWhnPWoSmsAakDqwu5DK=w408-h397-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP3sqh3wxGwouLhHtqcfzEV-mrc0oy9DsEqBR1I=w177-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipP3sqh3wxGwouLhHtqcfzEV-mrc0oy9DsEqBR1I=w203-h105-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOvqz3aKorHHqcGuR5ts6SOI_QIHdOK_7mmRAQ4=w203-h100-k-no-pi-20-ya350-ro-0-fo100",
+      "img3": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EsEyEn435CBP1PmVOdfuJQ&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=77.85633&pitch=0&thumbfov=100"
+    }
+  },
+  {
+    "name": "Chut",
+    "category": "Restaurante",
+    "address": "Carrer del Vallespir, 190, Les Corts, 08014 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "99",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "9:00–23:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "9:00–23:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMVzpYofgvscKnK5RbQoOiT76ftHf5B4nmMMFHs=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMVzpYofgvscKnK5RbQoOiT76ftHf5B4nmMMFHs=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNj6LdAP8KM-xepGoQP2d4PAzvwMwBe6X1OmYwq=w203-h451-k-no",
+      "img3": "//:0"
+    }
   },
   {
     "name": "Sala Upload Barcelona",
@@ -1022,35 +1408,127 @@
     "city": "Barcelona",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "4.3",
-    "num_reviews": "1160",
+    "num_reviews": "1165",
     "description": "Actuaciones de músicos independientes modernos y sesiones de DJs en una sala dentro del histórico museo Poble Espanyol.",
     "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPolrdusUtQLEUfDSXJAlxldH-2BANZP5V54t0G=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipO79oQFrsLXN8-GtzxDevIRIN5k4vZ1No5n5DZS=w408-h306-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPolrdusUtQLEUfDSXJAlxldH-2BANZP5V54t0G=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipO79oQFrsLXN8-GtzxDevIRIN5k4vZ1No5n5DZS=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNoSto2YlaZBZXq7izbZJcwLRbbY_8GCJ_886pj=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPqcRqJ_VHCd3WUzz50jTGe6Pavf2v8EcQ5HEJ1=w203-h360-k-no"
+    }
   },
   {
-    "name": "BASSHAUS",
-    "category": "Discoteca",
-    "address": "Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona",
+    "name": "Sants Beer",
+    "category": "Bar de tapas",
+    "address": "Carrer de Sants, 89, Sants-Montjuïc, 08014 Barcelona",
+    "website": "santsbeer.com",
+    "phone": "933318554",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.0",
+    "num_reviews": "3101",
+    "description": "Esta acogedora taberna, con taburetes altos, dispone de carta de cervezas y ofrece un bufé libre de tapas.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "8:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "8:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "8:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "8:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:30–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "7:30–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "8:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMEQEBme92XrnXzau5C63ACIjX4Jj0g3XW6VFzM=w204-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPBJ9FDvjBYI0kthhxzRo3cNJxaxqn4TdHItpYa=w203-h203-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB--G01_UyG3327Q4Qne-vqQNsZP-fGJhw9g0WBiIMNVnlImmvIRK7UL-kvVOXGubOhjTumpExzGiFV1HV5DyevQyOCA_sHKcLds1Ta7y3cIc17Arr1RnyKw_WYcRHQKcUWBZn6P=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-n13R59etL7Gfeb3osZhCZmMcvaKXDikC77sZ2qdR-5eFAE_H9fVqtJM4gim9vY-jLkhMOoIZtBDiZwuIGzxchX0Bh6_XGECZVf_AUocCLPAYQ5CxiM7N3w1k7INF2oZN0ADrg=w205-h100-k-no"
+    }
+  },
+  {
+    "name": "Sala Roma",
+    "category": "Lounge",
+    "address": "Carrer d'Arístides Maillol, 12, Les Corts, 08028 Barcelona",
+    "website": "fcbarcelona.cat",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "Se encuentra en: Spotify Camp Nou",
+    "reviews_rating": "4.3",
+    "num_reviews": "130",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "17:00–22:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–22:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "10:00–23:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "10:00–23:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "10:00–23:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "10:00–23:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipORhNCZDJZLErCdwax4aSq8jEgH5tejcdxkYK9E=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMON4S94-l0fJ7NhDYgipWNplQUWJ7sXRva7WcG=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipP3ZZ5onUM27V5LA3sBKtME5reCGabLWqsNoIjc=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNlBkGJBCKCYIu3fE2VHPTA7iYeiM-7QjjTviDo=w203-h135-k-no"
+    }
+  },
+  {
+    "name": "Enigma Music Bar",
+    "category": "Club nocturno",
+    "address": "Carrer del Taquígraf Garriga, 106, Les Corts, 08029 Barcelona",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.7",
-    "num_reviews": "20",
-    "description": "NOT_FOUND",
+    "reviews_rating": "4.1",
+    "num_reviews": "207",
+    "description": "Bar de moda que ofrece cócteles, cachimbas y pista de baile en un local acogedor.",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
         "day": "domingo",
-        "hours": "0:00–6:00"
+        "hours": "Cerrado"
       },
       {
         "day": "lunes",
@@ -1061,59 +1539,123 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "Cerrado"
+        "hours": "23:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "23:00–3:30"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOEhMRoxMxUWMJStgm9mQt6YF-305xC21zrAJS8=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOTVkDLuKv4A9vHQsJ_bgzl0oUBwd4lNJ1ykfqz=w408-h272-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOmC0ZJQzmZ5rSeP9XA_9e4Ev2nqGpdtV4teVZw=w138-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/p/AF1QipOzBXnHtikEqg9cqqMNEezZ6CvQT8BxizVwq5wv=w203-h111-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMvpukgy4LIz_0xAEw_zOF5bppAFUydDWlzLGpO=w203-h115-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPnrWUb7abeL1lyvIYw57b_-4x5vvx-mztTn9o-=w203-h270-k-no"
+    }
   },
   {
-    "name": "Bar restaurante Bar-celona",
-    "category": "Bar",
-    "address": "Carrer del Vallespir, 81, Sants-Montjuïc, 08014 Barcelona",
-    "website": "gastrobarcelona.com",
-    "phone": "639363549",
-    "city": "Barcelona",
+    "name": "Sala Marabú Barcelona",
+    "category": "Discoteca",
+    "address": "Gran Via de les Corts Catalanes, 419, 421, Eixample, 08015 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.2",
-    "num_reviews": "281",
-    "description": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "113",
+    "description": "Sala de fiestas con música de los 80 o latina, entre otros, en local con escenario y zona de sofás.",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "8:00–23:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "8:00–16:00"
-      },
-      {
         "day": "domingo",
-        "hours": "8:00–22:00"
+        "hours": "18:00–4:00"
       },
       {
         "day": "lunes",
-        "hours": "8:00–22:00"
+        "hours": "Cerrado"
       },
       {
         "day": "martes",
-        "hours": "8:00–22:00"
+        "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "8:00–22:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "8:00–22:00"
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–4:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNBdzvildOFICUkN02RijUKkP4Cl71Wzx0Fz6u1=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPK5J6Negr0Jjurq2yzHEGGX__fpNXDwie46Lq3=w426-h240-k-no"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOn05IEcfG5c9Dx1V0hCjJk4XGWQ5_leS8MYXwN=w163-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9aluvUCm1tXBbEESK0e-3HcnIFu4uP2dBsjm82Hfyige_1e0QUr5V-v1K8PGy9-DdBY-TngV8CR7rV35rxRT4pC7e0Rx96JCU440QoKZdOrq9UgTPvqAKB88Sp1LrVup0DA0D6Ww=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8L10L7miXnUMVlAxHS0fhLYC6fodDij9hwYSXjADNh6P2Keqvk5jvgtllZmndTuc1peu39yVyBiahajfBGJqNqFdYvO9O2-zWujseC_2UCnTRyFllG323hNIrz9L3D8un8OwWjZw=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB9q8aCrREjF9b4dH2K3bEWoq_ezrq2_BVpx6sSHD4EXgIZzeWTSlZtSOIuqpCw5iTVj0ngatIVRhXN7ox3f9tDZP2llZCKKnwgiyoE_6pimxfWfPON-jJHyC1nAKVETFQEJ-mQT=w203-h143-k-no"
+    }
+  },
+  {
+    "name": "Libert Swinger Club",
+    "category": "Club nocturno",
+    "address": "Carrer de Sepúlveda, 31, L'Eixample, 08015 Barcelona",
+    "website": "libertbcn.com",
+    "phone": "934233635",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.6",
+    "num_reviews": "312",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "17:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "15:00–3:00"
+      },
+      {
+        "day": "martes",
+        "hours": "15:00–3:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "11:00–3:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "15:00–3:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "15:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–5:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN5LdRQrkj78juH9be5CKJZG2mWD1aaso3MyEW-=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN5LdRQrkj78juH9be5CKJZG2mWD1aaso3MyEW-=w203-h152-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMsL5mMmgzB2qr99eRrc2j-7tNHJTc17GPIWQ0v=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNUeyPjlhiRBwtF-m_bpjCR1ddqgN_dufhuS0le=w203-h152-k-no"
+    }
   }
 ]

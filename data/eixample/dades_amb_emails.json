@@ -1,16 +1,55 @@
 [
   {
+    "name": "Lounge Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.6",
+    "num_reviews": "38",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "NOT_FOUND",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNSw2x5RmzoSCWRnWx6-sudu3B9tbOu7j-eaJnv=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMIFGHvZByxARDUMI8CauVV-NhqaUKnHxu7fG4d=w203-h203-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPPZyHGPNZdCyGMCWpz5KQjB9G3zmhE_lIFnonJ=w203-h135-k-no"
+    }
+  },
+  {
     "name": "Hyde Club Barcelona",
-    "category": "Discoteca",
-    "address": "Passatge de Domingo, 3, L'Eixample, 08007 Barcelona",
-    "website": "hydebcn.com",
-    "phone": "654201006",
-    "city": "Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.8",
-    "num_reviews": "1759",
+    "num_reviews": "1763",
     "description": "Discoteca moderna con sesiones de DJ y un escenario pequeño con espectáculos en directo, cócteles, sushi y piscolabis.",
     "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–24:00"
+      },
       {
         "day": "viernes",
         "hours": "0:00–3:0021:00–24:00"
@@ -18,346 +57,14 @@
       {
         "day": "sábado",
         "hours": "0:00–6:0021:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNXBRQfJ6MxwqkoZMQQx6E_39zK-aYmvYaD9ELP=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMMmUgy9QFCC8oCTOB3mte_EDj4ZHhyrBSyFX05=w408-h271-k-no",
-    "email": "infohyde@gmail.com"
-  },
-  {
-    "name": "DISCO CITY HALL BARCELONA",
-    "category": "Discoteca",
-    "address": "Rambla de Catalunya, 2, 4, Eixample, 08007 Barcelona",
-    "website": "cityhallbarcelona.com",
-    "phone": "667166789",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "4.0",
-    "num_reviews": "2616",
-    "description": "Bebidas, baile y música house, techno y hiphop en una discoteca con sótano, decoración de lujo y una terraza apacible.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNenv4WTODHqA6kjR1udMw4IHrK_0Xd042PvHX3=w80-h112-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN7PGz9fshALz0ORCYwJNxVSu9I35aZDg0Af7A=w426-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Lounge Barcelona",
-    "category": "Club nocturno",
-    "address": "Carrer de Còrsega, 257, L'Eixample, 08036 Barcelona",
-    "website": "loungebarcelona.com",
-    "phone": "637148339",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "4.6",
-    "num_reviews": "38",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "sábado",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "domingo",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "lunes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "martes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "jueves",
-        "hours": "Abierto 24 horas"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNSw2x5RmzoSCWRnWx6-sudu3B9tbOu7j-eaJnv=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNSw2x5RmzoSCWRnWx6-sudu3B9tbOu7j-eaJnv=w408-h271-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Topxi music",
-    "category": "Club musical",
-    "address": "Carrer de València, 358, L'Eixample, 08029 Barcelona",
-    "website": "topximusic.com",
-    "phone": "NO_PHONE",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.7",
-    "num_reviews": "275",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:30–6:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:30–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:30–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNQyapqCDj6f5x0hLcC8ZbklEf8ec0qBmxwR-Kd=w80-h142-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPcUlqKDSY8XpLR5JeUrEoFxgUMA7i-Z4fHsKoF=w408-h306-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Slow Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de París, 186, L'Eixample, 08036 Barcelona",
-    "website": "slowbarcelona.es",
-    "phone": "933681455",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.5",
-    "num_reviews": "3466",
-    "description": "Cócteles clásicos y personalizados, música en directo y discoteca, en un bar de lujo con decoración inspirada en un bosque.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–5:0019:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0019:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "19:00–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:0019:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:0019:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0019:00–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNnc_RGcgZT-UFIrsc0pc5QtAWRuMzZ7dtTsXxe=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMKa8WrZFWF4yBHbVJBSAkZ7DJTLPexQKGRAdHC=w513-h240-k-no",
-    "email": "info@slowbarcelona.es"
-  },
-  {
-    "name": "RED58",
-    "category": "Club nocturno",
-    "address": "Carrer del Consell de Cent, 280, L'Eixample, 08007 Barcelona",
-    "website": "red58.club",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.2",
-    "num_reviews": "226",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNqr4bGNaXng74wmOA2tvT5O4dg9bEOQgIiVi3o=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNqr4bGNaXng74wmOA2tvT5O4dg9bEOQgIiVi3o=w408-h271-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Illusion Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Provença, 43, L'Eixample, 08029 Barcelona",
-    "website": "illusionbarcelona.com",
-    "phone": "682277321",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.7",
-    "num_reviews": "819",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:55–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:30–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPZBNdVx3rzU2wJ-X6ASeXtzpgkoJaANOxQbTw=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOTuEIgiWuDjiK9IASXEPzCHmH65wQAI7cLdjw=w408-h510-k-no",
-    "email": "Mandarinalalatina@gmail.com."
-  },
-  {
-    "name": "Garage 442",
-    "category": "Bar musical",
-    "address": "Av. Diagonal, 442, L'Eixample, 08037 Barcelona",
-    "website": "garage442.com",
-    "phone": "934152231",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "4.3",
-    "num_reviews": "227",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "22:30–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "22:30–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "22:30–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "22:30–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN9Hs7InPi1VLdLQivNZGr5X_DzUJXF9xm0xXAV=w137-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPtkzABuZhlG3N4ex__tH79qaIO8qHakycMM5GA=w408-h272-k-no",
-    "email": "NO_EMAIL"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNXBRQfJ6MxwqkoZMQQx6E_39zK-aYmvYaD9ELP=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMMmUgy9QFCC8oCTOB3mte_EDj4ZHhyrBSyFX05=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipO0b6jB14bSr_IsjI3jkIeOmDJ3AWpDdY_toKnH=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPoqQbV_HQThyLGsd4aj8z67PNUv-7-8TesKXLr=w203-h135-k-no"
+    }
   },
   {
     "name": "The House of Lords",
@@ -372,14 +79,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "Abierto 24 horas"
-      },
-      {
-        "day": "sábado",
-        "hours": "Abierto 24 horas"
-      },
-      {
         "day": "domingo",
         "hours": "Abierto 24 horas"
       },
@@ -392,37 +91,188 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Abierto 24 horas"
-      }
-    ],
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jpa2W0EKKvvYhqEK0V6s6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=130.61702&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jpa2W0EKKvvYhqEK0V6s6w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=130.61702&pitch=0&thumbfov=100"
-  },
-  {
-    "name": "Twenties Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer del Rosselló, 208, Eixample, 08008 Barcelona",
-    "website": "twentiesbarcelona.com",
-    "phone": "628708158",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.4",
-    "num_reviews": "2901",
-    "description": "Cócteles y ritmos de reguetón y hip hop en una discoteca que recuerda a una cueva, con noches temáticas y espectáculos de luz.",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "0:00–5:0023:55–24:00"
+        "hours": "Abierto 24 horas"
       },
       {
         "day": "sábado",
-        "hours": "0:00–6:0023:55–24:00"
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jpa2W0EKKvvYhqEK0V6s6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=130.61702&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "DISCO CITY HALL BARCELONA",
+    "category": "Discoteca",
+    "address": "Rambla de Catalunya, 2, 4, Eixample, 08007 Barcelona",
+    "website": "cityhallbarcelona.com",
+    "phone": "667166789",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.0",
+    "num_reviews": "2620",
+    "description": "Bebidas, baile y música house, techno y hiphop en una discoteca con sótano, decoración de lujo y una terraza apacible.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–5:00"
       },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–5:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNenv4WTODHqA6kjR1udMw4IHrK_0Xd042PvHX3=w80-h112-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN7PGz9fshALz0ORCYwJNxVSu9I35aZDg0Af7A=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMRq_Fs4PQNmPEZXt0ZzgNkHrCshJiTxa6JD13E=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMSfrFs9LKDgtsyT9BL03Nb5-g6YQd-DfZvPsdF=w203-h152-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Topxi music",
+    "category": "Club musical",
+    "address": "Carrer de València, 358, L'Eixample, 08029 Barcelona",
+    "website": "topximusic.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "279",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:30–5:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:30–6:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPcUlqKDSY8XpLR5JeUrEoFxgUMA7i-Z4fHsKoF=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMJX8AQldfZF3J1fyqfGjOB2lh2JaTrwus9vHxg=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNfnB021ofJhkhOR391bFmFOi3V50rlGq9OmPPW=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMj1pCAdxjVx7o3XN_7frVC9K__TXuZB5loTMcn=w203-h360-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Telephone nightbar",
+    "category": "Club nocturno",
+    "address": "Calle de Aribau, 87, Eixample, 08036 Barcelona",
+    "website": "instagram.com",
+    "phone": "615684688",
+    "city": "Barcelona",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.7",
+    "num_reviews": "98",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "20:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "20:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "20:00–3:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMngpcpP6C61APnwx_6U0ZRlyZCGvAJWCcDHVFY=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMiF3Twmwaf1U_UVRFgJt6O1AZI9rsQz9C_y8gT=w203-h203-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNV8HLmbX0NfkmpToFPjTUo9Cn4KmDL7S5O15Bt=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipN8rULBKsr3FHW7fVmo5edNE2uZQZS82Yb_sW_h=w203-h360-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "RED58",
+    "category": "Club nocturno",
+    "address": "Carrer del Consell de Cent, 280, L'Eixample, 08007 Barcelona",
+    "website": "red58.club",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "229",
+    "description": "NOT_FOUND",
+    "schedule": [
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -436,129 +286,160 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNqr4bGNaXng74wmOA2tvT5O4dg9bEOQgIiVi3o=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNqr4bGNaXng74wmOA2tvT5O4dg9bEOQgIiVi3o=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNeAqsqOoeuYCORG7JcuWo2lY2ez18vKxw90Md_=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOhLo6W1IQfxWeJAV4kehHTTsat7QhE9Ee4vrl6=w203-h152-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Illusion Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Provença, 43, L'Eixample, 08029 Barcelona",
+    "website": "illusionbarcelona.com",
+    "phone": "682277321",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.7",
+    "num_reviews": "846",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
         "hours": "23:55–24:00"
       },
       {
-        "day": "jueves",
-        "hours": "0:00–5:0023:55–24:00"
+        "day": "sábado",
+        "hours": "0:00–6:0023:30–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMb9D1saxAp9gDdW0Ponn43X5d0pUFkMSvWSg97=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOzsDuHxBvJfoehE08Y2q74eDNA5sx44CidEXvr=w408-h612-k-no",
-    "email": "info@twentiesbarcelona.com"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPZBNdVx3rzU2wJ-X6ASeXtzpgkoJaANOxQbTw=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOTuEIgiWuDjiK9IASXEPzCHmH65wQAI7cLdjw=w203-h253-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOBY7xSPEot1167PgPvMtYaYEPtYlla7R7-qU0=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNant58ji4PyqOPKmS0yuS4hwEJcWSGWYIg7CQ=w203-h135-k-no"
+    },
+    "email": "Mandarinalalatina@gmail.com."
   },
   {
-    "name": "The Black Room",
-    "category": "Club nocturno",
-    "address": "Rambla de Catalunya, 4, Eixample, 08007 Barcelona",
-    "website": "facebook.com",
-    "phone": "NO_PHONE",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.4",
-    "num_reviews": "55",
-    "description": "NOT_FOUND",
+    "name": "Slow Barcelona",
+    "category": "NOT_FOUND",
+    "address": "Carrer de París, 186, L'Eixample, 08036 Barcelona",
+    "website": "slowbarcelona.es",
+    "phone": "933681455",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.5",
+    "num_reviews": "3496",
+    "description": "Cócteles clásicos y personalizados, música en directo y discoteca, en un bar de lujo con decoración inspirada en un bosque.",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "9:00–17:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "9:00–17:00"
-      },
-      {
         "day": "domingo",
-        "hours": "9:00–17:00"
+        "hours": "0:00–6:00"
       },
       {
         "day": "lunes",
-        "hours": "9:00–17:00"
+        "hours": "19:00–24:00"
       },
       {
         "day": "martes",
-        "hours": "9:00–17:00"
+        "hours": "0:00–5:0019:00–24:00"
       },
       {
-        "day": "miércoles",
-        "hours": "9:00–17:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–5:0019:00–24:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "9:00–17:00"
+        "hours": "0:00–5:0019:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0019:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0019:00–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w128-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w408-h292-k-no",
-    "email": "NO_EMAIL"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNnc_RGcgZT-UFIrsc0pc5QtAWRuMzZ7dtTsXxe=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMKa8WrZFWF4yBHbVJBSAkZ7DJTLPexQKGRAdHC=w213-h100-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipN8WRAzYAtBBFaKhlxl-92GqhyDQu0Zm_Xf1E4m=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMEw36lJGmWHUoPt3nb6zxLEPBbr-nN1klBHSLc=w203-h270-k-no"
+    },
+    "email": "info@slowbarcelona.es"
+  },
+  {
+    "name": "Garage 442",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "230",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN9Hs7InPi1VLdLQivNZGr5X_DzUJXF9xm0xXAV=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPtkzABuZhlG3N4ex__tH79qaIO8qHakycMM5GA=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOXyAsIEqmRbEcAUJVWpVhs4QRd4C0IFuglkb4C=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMxEB8-KszVv4wHi9JNXNr2iL1AmqEIJJKtuEYp=w203-h270-k-no"
+    }
   },
   {
     "name": "Chica Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer del Rosselló, 217, Eixample, 08008 Barcelona",
-    "website": "chicabcn.cat",
-    "phone": "699232543",
-    "city": "Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.1",
-    "num_reviews": "162",
+    "reviews_rating": "3.2",
+    "num_reviews": "185",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "22:00–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w143-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w408-h261-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Telephone nightbar",
-    "category": "Club nocturno",
-    "address": "Carrer d'Aribau, 87, L'Eixample, 08036 Barcelona",
-    "website": "instagram.com",
-    "phone": "615684688",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.7",
-    "num_reviews": "93",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "20:00–3:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "20:00–3:30"
-      },
-      {
         "day": "domingo",
         "hours": "Cerrado"
       },
@@ -571,128 +452,41 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "20:00–2:30"
+        "day": "miércoles(Día del Padre)",
+        "hours": "22:00–5:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "20:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMngpcpP6C61APnwx_6U0ZRlyZCGvAJWCcDHVFY=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMiF3Twmwaf1U_UVRFgJt6O1AZI9rsQz9C_y8gT=w408-h409-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "SUMMUM Nightbar",
-    "category": "Pub",
-    "address": "Carrer d'Aribau, 66, L'Eixample, 08011 Barcelona",
-    "website": "instagram.com",
-    "phone": "931067089",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "4.2",
-    "num_reviews": "999",
-    "description": "Pub concurrido de aire retro, con patio, que ofrece cócteles clásicos y creativos, cervezas artesanales y vinos, y televisa fútbol.",
-    "schedule": [
+        "hours": "22:00–5:00"
+      },
       {
         "day": "viernes",
-        "hours": "16:00–3:30"
+        "hours": "22:00–5:00"
       },
       {
         "day": "sábado",
-        "hours": "16:00–3:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "16:00–2:30"
-      },
-      {
-        "day": "martes",
-        "hours": "16:00–2:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "16:00–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "16:00–2:30"
+        "hours": "22:00–5:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNMjr4TxaABFbxa_DK_qYzFwuBdxUvHBp9x2UbJ=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPlgyIgWXLTGeiHeUwpdr7ieepsKdY_kb5n3NVW=w408-h279-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Arena Experience",
-    "category": "Discoteca",
-    "address": "Rda. de Sant Pere, 21, Eixample, 08010 Barcelona",
-    "website": "grupoarena.com",
-    "phone": "934875140",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.8",
-    "num_reviews": "1066",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0023:59–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJ8-5p2W5McplJHASyGkNBZ_hi73i3g5eMK-4=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPB2gY9oL-id58RqFOIM68bW2lAIl4Ds96yqRws=w533-h240-k-no",
-    "email": "NO_EMAIL"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w143-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w203-h130-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNm-6yIif7rDoiNzmpXUTtH32Ywurvelo957U_1=w203-h252-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPrzUdFr_iqkJuMf3rZRJPEDTXjtGGyTtWo_0D6=w203-h203-k-no"
+    }
   },
   {
     "name": "DRIPMONDAY",
-    "category": "Club nocturno",
-    "address": "Carrer de Balmes, 32, L'Eixample, 08007 Barcelona",
-    "website": "noplans.net",
-    "phone": "617744798",
-    "city": "Barcelona",
-    "auxiliar": "Reclamar esta empresa",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
     "reviews_rating": "5.0",
     "num_reviews": "11",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "sábado",
-        "hours": "Cerrado"
-      },
       {
         "day": "domingo",
         "hours": "Cerrado"
@@ -706,38 +500,41 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipP4oMjgksw_bmOLRx26aPg23bbvbf8vd6f3dfx0=w138-h92-k-no",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Liwbt5bla31AoE2mrdv_rw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=323.76926&pitch=0&thumbfov=100",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "BLACK BOX",
-    "category": "Discoteca",
-    "address": "Carrer de la Diputació, 233, L'Eixample, 08007 Barcelona",
-    "website": "blackboxdisco.com",
-    "phone": "934878342",
-    "city": "Barcelona",
-    "auxiliar": "Servicios",
-    "reviews_rating": "3.7",
-    "num_reviews": "636",
-    "description": "Remezclas de canciones de los 80 y los 90 en discoteca de ambiente mixta con paredes rojas y columnas.",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "23:59–24:00"
+        "hours": "Cerrado"
       },
       {
         "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
+        "hours": "Cerrado"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP4oMjgksw_bmOLRx26aPg23bbvbf8vd6f3dfx0=w138-h92-k-no",
+      "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Liwbt5bla31AoE2mrdv_rw&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=323.76926&pitch=0&thumbfov=100",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8DuBJg-vxf60u2VkZyELwwn-6V-gFpO5cmDheoCVqRh5kWHKY60Lg5UqEChpkBQBvs0pJ1MrgZfPW_anFL0alggteLB5qYKhIH860V9ER5H6hHYoNJoEC8m_5h4ir_e5eQCdx_=w203-h135-k-no",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Twenties Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Rosselló, 208, Eixample, 08008 Barcelona",
+    "website": "twentiesbarcelona.com",
+    "phone": "628708158",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "2911",
+    "description": "Cócteles y ritmos de reguetón y hip hop en una discoteca que recuerda a una cueva, con noches temáticas y espectáculos de luz.",
+    "schedule": [
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -751,62 +548,29 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "23:55–24:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN1LzZmUPvr1etH43uwFwRDARXsw15iOYfJruo=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMBYrGA4qBznCxrs92L8S2kYqV7ElijuvMFbbDz=w408-h612-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Believe Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Balmes, 56, L'Eixample, 08011 Barcelona",
-    "website": "thebelieve.club",
-    "phone": "679115105",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "3.5",
-    "num_reviews": "577",
-    "description": "NOT_FOUND",
-    "schedule": [
+        "hours": "0:00–5:0023:55–24:00"
+      },
       {
         "day": "viernes",
-        "hours": "0:00–5:0023:00–24:00"
+        "hours": "0:00–5:0023:55–24:00"
       },
       {
         "day": "sábado",
-        "hours": "0:00–6:0023:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:00–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0023:00–24:00"
+        "hours": "0:00–6:0023:55–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNxhjfpQc555KWW3SeQQNQYUYVCPJKhHrr5xMvK=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNz3Kft9eIYp61oPa8SsmsPPmmuOv3kujbxSGNy=w408-h272-k-no",
-    "email": "hola@believegroup.cat"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOl2JIYSdoO3Y5u7vIL4bLwN-_aQxpqNVl3OpBn=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOzsDuHxBvJfoehE08Y2q74eDNA5sx44CidEXvr=w203-h304-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOHosOXIMD9IP-hDKru0t0IEgzn-IykDBG2S6aY=w203-h107-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNDdlwKpViz3xKAmqeSILGZzbjy9Zgm2KXAFexz=w203-h135-k-no"
+    },
+    "email": "info@twentiesbarcelona.com"
   },
   {
     "name": "Mr. French Barcelona",
@@ -821,14 +585,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
         "day": "domingo",
         "hours": "0:00–6:0023:59–24:00"
       },
@@ -841,255 +597,13 @@
         "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "23:59–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w408-h541-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Ocean Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Balmes, 32, L'Eixample, 08007 Barcelona",
-    "website": "oceanbcn.com",
-    "phone": "937155661",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.7",
-    "num_reviews": "206",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
       },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "22:30–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–3:45"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPH7xC9B5KhqGtPKl11tYFYwlu5lqH2XnjiVMzc=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPH7xC9B5KhqGtPKl11tYFYwlu5lqH2XnjiVMzc=w408-h272-k-no",
-    "email": "contact@mysite.com"
-  },
-  {
-    "name": "Chica Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer del Rosselló, 217, Eixample, 08008 Barcelona",
-    "website": "chicabcn.cat",
-    "phone": "699232543",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.1",
-    "num_reviews": "162",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "22:00–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w143-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w408-h261-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Punto BCN",
-    "category": "Bar gay",
-    "address": "C/ de Muntaner, 65, L'Eixample, 08007 Barcelona",
-    "website": "facebook.com",
-    "phone": "934519152",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.9",
-    "num_reviews": "771",
-    "description": "Bar gay animado y espacioso, con música, eventos, cervezas, cócteles, hora feliz y mesas de billar.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN5j4WhYwkcpudSPvKykPMzs8oo_ZOheNfOAlc=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOtzKsSFPXYKTYEH78yN1xMSaVoTN2rOFtYPswF=w408-h272-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Believe Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Balmes, 56, L'Eixample, 08011 Barcelona",
-    "website": "thebelieve.club",
-    "phone": "679115105",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "3.5",
-    "num_reviews": "577",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:00–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:00–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:0023:00–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0023:00–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNxhjfpQc555KWW3SeQQNQYUYVCPJKhHrr5xMvK=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNz3Kft9eIYp61oPa8SsmsPPmmuOv3kujbxSGNy=w408-h272-k-no",
-    "email": "hola@believegroup.cat"
-  },
-  {
-    "name": "JazzMan",
-    "category": "Club de jazz",
-    "address": "Carrer de Roger de Flor, 238, L'Eixample, 08025 Barcelona",
-    "website": "jazzmanbcn.com",
-    "phone": "667618593",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.6",
-    "num_reviews": "735",
-    "description": "Licores y combinados en pequeño y acogedor club de jazz de 1979 con dos ambientes y altillo para los músicos.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "martes",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPWK6LnVXWK-SrlYhwM-6J4VbZquxjuEtSqMPSz=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN78lxmsKwdXgjDihOqnPCFC4kiL84EegvmHO4U=w427-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Mr. French Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer del Comte d'Urgell, 292, L'Eixample, 08036 Barcelona",
-    "website": "instagram.com",
-    "phone": "622865203",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.3",
-    "num_reviews": "54",
-    "description": "NOT_FOUND",
-    "schedule": [
       {
         "day": "viernes",
         "hours": "0:00–6:0023:59–24:00"
@@ -1097,584 +611,14 @@
       {
         "day": "sábado",
         "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "23:59–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w408-h541-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "El Cangrejo Eixample",
-    "category": "Bar gay",
-    "address": "Carrer de Villarroel, 88, L'Eixample, 08011 Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "131",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "22:45–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "22:45–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOk38QZTYBPseRo0hRd8gxrRQS1KFh8HoaG6BoA=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOk38QZTYBPseRo0hRd8gxrRQS1KFh8HoaG6BoA=w426-h240-k-no"
-  },
-  {
-    "name": "Sweet Drinks",
-    "category": "Club",
-    "address": "Carrer de Nàpols, 173, Local 1, Eixample, 08013 Barcelona",
-    "website": "instagram.com",
-    "phone": "631312567",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "5.0",
-    "num_reviews": "6",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "17:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "17:00–5:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "17:00–4:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "17:00–4:00"
-      },
-      {
-        "day": "martes",
-        "hours": "17:00–4:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "17:00–4:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "17:00–4:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipO9tE-7U_isa8ZKsLIJHNHizR5Em6FswkENlwM1=w80-h142-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipO9tE-7U_isa8ZKsLIJHNHizR5Em6FswkENlwM1=w408-h725-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Arena Experience",
-    "category": "Discoteca",
-    "address": "Rda. de Sant Pere, 21, Eixample, 08010 Barcelona",
-    "website": "grupoarena.com",
-    "phone": "934875140",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.8",
-    "num_reviews": "1066",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0023:59–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–5:0023:59–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0023:59–24:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJ8-5p2W5McplJHASyGkNBZ_hi73i3g5eMK-4=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPB2gY9oL-id58RqFOIM68bW2lAIl4Ds96yqRws=w533-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Agua de Luna",
-    "category": "Discoteca",
-    "address": "Carrer de Viladomat, 211, L'Eixample, 08029 Barcelona",
-    "website": "aguadeluna.com",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.7",
-    "num_reviews": "21",
-    "description": "Concurrida discoteca de salsa, merengue, bachata y ritmos latinos con rueda cubana, mojitos y clases de baile.",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM33tv6vfc6igqcRV3zpcWapKJ4O5ipuGnLLdRq=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPcQrP6nI20BJAHkQrsspf0a-dehgNqgRPHyBon=w426-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Night Barcelona",
-    "category": "Bar gay",
-    "address": "Carrer de la Diputació, 161, L'Eixample, 08015 Barcelona",
-    "website": "nightbarcelona.net",
-    "phone": "935031701",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.1",
-    "num_reviews": "409",
-    "description": "Bar gay muy animado, con hora feliz los jueves por la noche, famoso por los cócteles y el cruising.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "lunes",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "martes",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPgJxMbmKdFq2rCanpeafuH7NkV61Man7FAQ8Rh=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipP23f0m5j-mvp9cRlcrYj_OGVVNEFBXYCKcNQKU=w408-h544-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Bling Bling Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Tuset, 8-10, Sarrià-Sant Gervasi, 08006 Barcelona",
-    "website": "blingblingbcn.com",
-    "phone": "664244209",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "3.1",
-    "num_reviews": "3318",
-    "description": "Aperitivos de bar clásicos, champán y narguiles en una glamurosa discoteca de moda con pista de baile.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "0:30–6:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:30–6:0018:00–23:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:30–5:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:30–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOhQUp2ae80kROr8Ff6CUhhqTfcBS-oJD6Bkvg=w137-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOYSBXRKgbhIktKpPKNNOtuwHIhoybapSUloK8=w408-h272-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "La Fira Villarroel",
-    "category": "Discoteca",
-    "address": "Carrer de Villarroel, 216, L'Eixample, 08036 Barcelona",
-    "website": "lafiravillarroel.com",
-    "phone": "676828595",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "3.6",
-    "num_reviews": "1124",
-    "description": "Discoteca vistosa y concurrida con sofás lujosos, mesas que brillan en la oscuridad y bares.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:55–5:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–23:0023:55–5:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMGSJIZ01bK0SU8hjbtHaN2Wx3jCrnh8K6UK9n3=w173-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMNQEGVqTGIVZZMfE7NAnk6cDPvCcoUgymqtSyv=w425-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Plata Cocktail Bar",
-    "category": "Coctelería",
-    "address": "Carrer del Consell de Cent, 233, L'Eixample, 08011 Barcelona",
-    "website": "platabar.com",
-    "phone": "934524636",
-    "city": "Barcelona",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.6",
-    "num_reviews": "1356",
-    "description": "Elaboraciones creativas con originales presentaciones en una coctelería con luces de neón y ambiente acogedor.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–1:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNMQkEu7MrEuIxIJ4ACw8ivWAkQ0VwYHvyLtpWJ=w80-h132-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNMQkEu7MrEuIxIJ4ACw8ivWAkQ0VwYHvyLtpWJ=w408-h674-k-no",
-    "email": "cocktailbar@platabar.com"
-  },
-  {
-    "name": "MutiClub",
-    "category": "Coctelería",
-    "address": "Carrer de Còrsega, 318, L'Eixample, 08037 Barcelona",
-    "website": "instagram.com",
-    "phone": "933885866",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.4",
-    "num_reviews": "293",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "18:00–1:30"
-      },
-      {
-        "day": "lunes",
-        "hours": "20:00–1:30"
-      },
-      {
-        "day": "martes",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "19:00–2:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMd2cIENBooBqnWGGX-UUlG7AtbaGTWI4WwUel1=w204-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNX0e-nx-5czl0MyjDDvpeYu-7GtyWZZsGgxr1W=w408-h371-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Solange Cocktails & Luxury Spirits",
-    "category": "Coctelería",
-    "address": "Carrer d'Aribau, 143, L'Eixample, 08036 Barcelona",
-    "website": "solangecocktail.com",
-    "phone": "931643625",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.5",
-    "num_reviews": "893",
-    "description": "Cócteles sofisticados e innovadores en un bar refinado con temática inspirada en James Bond.",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–2:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "18:00–1:30"
-      },
-      {
-        "day": "lunes",
-        "hours": "18:00–1:30"
-      },
-      {
-        "day": "martes",
-        "hours": "18:00–1:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "18:00–1:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "18:00–1:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM6_sjNtivfO84ZV8n_Dr2JU3t2mcdE5EAmt4Ou=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN_fOI3spjaDEr7Q9_h3mfA9enSHWGpknh26kRM=w426-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Blunit",
-    "category": "Bar",
-    "address": "C/ de Muntaner, 24, L'Eixample, 08011 Barcelona",
-    "website": "blunit.es",
-    "phone": "616799853",
-    "city": "NO_CITY",
-    "auxiliar": "Carta",
-    "reviews_rating": "4.4",
-    "num_reviews": "195",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "21:00–3:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "lunes",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "martes",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "miércoles",
-        "hours": "21:00–2:30"
-      },
-      {
-        "day": "jueves",
-        "hours": "21:00–2:30"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipO3Ovevozk1iLTDMW_scenxKZhx_r6PWybi2W88=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOtZSUmRBmC_j9wWiw2MffjVxydqTCQRKbnhn5j=w408-h272-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Bar Edelweiss",
-    "category": "Lounge",
-    "address": "Carrer de Pau Claris, 107, L'Eixample, 08009 Barcelona",
-    "website": "NO_WEBSITE",
-    "phone": "NO_PHONE",
-    "city": "NO_CITY",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.9",
-    "num_reviews": "35",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "7:00–20:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "domingo",
-        "hours": "8:00–20:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "7:00–20:00"
-      },
-      {
-        "day": "martes",
-        "hours": "7:00–20:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "7:00–20:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "7:00–20:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMJnfE-AqF1h3KXHTFnq-Ar724_li2q_EAi2vCQ=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipMJnfE-AqF1h3KXHTFnq-Ar724_li2q_EAi2vCQ=w408-h544-k-no"
-  },
-  {
-    "name": "Bananas Party",
-    "category": "Club nocturno",
-    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
-    "website": "bananasparty.com",
-    "phone": "NO_PHONE",
-    "city": "Barcelona",
-    "auxiliar": "Amigable con la comunidad LGTBI+",
-    "reviews_rating": "4.8",
-    "num_reviews": "20",
-    "description": "NOT_FOUND",
-    "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPJEPbQK1o2DrUp6OAWV3fFChOWsAAIBBU3noTy=w92-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOWTZZg3jXNPa-tnH5sDGVJQOMReGLfPxw7m1Gg=w408-h408-k-no",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w203-h269-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNv9qREhds7A6x9LSllRgnxcRACsTq3aohQlv9e=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipM9ogZ1a_PK6bFMLh_P3if93f9EKxvw9il22Zya=w203-h151-k-no"
+    },
     "email": "NO_EMAIL"
   },
   {
@@ -1686,17 +630,9 @@
     "city": "Barcelona",
     "auxiliar": "Carta",
     "reviews_rating": "5.0",
-    "num_reviews": "695",
+    "num_reviews": "851",
     "description": "NOT_FOUND",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "18:00–3:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "18:00–3:00"
-      },
       {
         "day": "domingo",
         "hours": "18:00–1:00"
@@ -1710,128 +646,138 @@
         "hours": "18:00–2:00"
       },
       {
-        "day": "miércoles",
-        "hours": "18:00–2:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "18:00–2:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPogVHbp3pTei05SYPbcKpeeVVw1WM0RzKe_OIC=w137-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOhCIqLuB1Swnrgw9CrfWMtT-eVeBdFAulfl90I=w426-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Barcelona NightCard Official Office",
-    "category": "Empresa de organización de eventos",
-    "address": "Carrer de Mallorca, 369, L'Eixample, 08013 Barcelona",
-    "website": "barcelonanightcard.com",
-    "phone": "935111127",
-    "city": "Barcelona",
-    "auxiliar": "Se encuentra en: i-Barcelona Tourist Infopoint & Tickets, locker",
-    "reviews_rating": "3.2",
-    "num_reviews": "18",
-    "description": "NOT_FOUND",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "10:00–20:00"
+        "hours": "18:00–3:00"
       },
       {
         "day": "sábado",
-        "hours": "10:00–16:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "11:00–17:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "10:00–20:00"
-      },
-      {
-        "day": "martes",
-        "hours": "10:00–20:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "10:00–20:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "10:00–20:00"
+        "hours": "18:00–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipMJ1VzNYKN3WZ4MO2Z-9H7K8NpkQuctEkFdUBoZ=w154-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNApkNhm8s5uaBjR957RM9ROOKKJIBlNg5YgPb5=w408-h304-k-no",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPogVHbp3pTei05SYPbcKpeeVVw1WM0RzKe_OIC=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOhCIqLuB1Swnrgw9CrfWMtT-eVeBdFAulfl90I=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOQRM6ARghRi23-Ff_wDNAyYMstc_n-EbE4HPrq=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNrdvtRKzo5ab9jj-I2TwUszwh6Q8pDxw-KHZ5X=w203-h270-k-no"
+    },
     "email": "NO_EMAIL"
   },
   {
-    "name": "La Fira Casanova",
-    "category": "Discoteca",
-    "address": "Carrer de Casanova, 171, Eixample, 08036 Barcelona",
-    "website": "lafiragroup.com",
-    "phone": "699544530",
-    "city": "Barcelona",
+    "name": "SUMMUM Nightbar",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.8",
-    "num_reviews": "719",
-    "description": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "1000",
+    "description": "Pub concurrido de aire retro, con patio, que ofrece cócteles clásicos y creativos, cervezas artesanales y vinos, y televisa fútbol.",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "0:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–5:3018:00–23:00"
-      },
-      {
         "day": "domingo",
-        "hours": "0:00–5:30"
+        "hours": "Cerrado"
       },
       {
         "day": "lunes",
-        "hours": "0:00–17:00"
+        "hours": "16:00–2:30"
       },
       {
         "day": "martes",
-        "hours": "Cerrado"
+        "hours": "16:00–2:30"
       },
       {
-        "day": "miércoles",
-        "hours": "Cerrado"
+        "day": "miércoles(Día del Padre)",
+        "hours": "16:00–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "Cerrado"
+        "hours": "16:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "16:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–3:30"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNlO71ntXsb1EJhv3SiF0XbmsFv0bX81nDqE8z9=w80-h106-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPl5d-3cWYT15Jt5kqTHeCvccaB7gZNG0JW4EGf=w408-h544-k-no",
-    "email": "oficinas@invermik.es"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP1nu-nnRXoMybCdo4ZdM8JfzTc2Vz6qHpFCmmj=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPlgyIgWXLTGeiHeUwpdr7ieepsKdY_kb5n3NVW=w203-h138-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNlp-f0sDDwGrx2Jk685z6o3hckQGQvsRIrBjNw=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipN_s1mdUDba__urP4ytTV7xoo3WHTWlapFTMGRk=w203-h360-k-no"
+    }
   },
   {
-    "name": "Ocean Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Balmes, 32, L'Eixample, 08007 Barcelona",
-    "website": "oceanbcn.com",
-    "phone": "937155661",
-    "city": "Barcelona",
+    "name": "Moeem Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "461",
+    "description": "Bar gay animado, con DJs que pinchan pop y reguetón, sofás acogedores y una larga lista de bebidas con ginebra.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPryXpJ8AArKX49pLn5d2xhdHywwhcIaCpiTYc8=w122-h92-k-no",
+      "img1": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_txhiyN2WybT2Wp0Hd4FFArgUqeWHTahIy3aA0JQc7w4D1ta26A9YXxWsw7inxq-l7IahjgJPy-FB_9ojx4Hu-59EVis6Wj5Zj75xgCHIJbA7X_Fa_5l1_RwCRH5UXNNM99JdkJA=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOFvUc-anZwJqPeREI_tb7I8HkW7lyZaexDV7g7=w203-h136-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNNa-8S3NnlXcHyntA9LQQdZhqJ0IgDE9HPaFrk=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "BLACK BOX",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.7",
-    "num_reviews": "206",
-    "description": "NOT_FOUND",
+    "num_reviews": "643",
+    "description": "Remezclas de canciones de los 80 y los 90 en discoteca de ambiente mixta con paredes rojas y columnas.",
     "schedule": [
-      {
-        "day": "viernes",
-        "hours": "23:59–24:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "0:00–6:0023:59–24:00"
-      },
       {
         "day": "domingo",
         "hours": "0:00–6:00"
@@ -1842,109 +788,1258 @@
       },
       {
         "day": "martes",
-        "hours": "22:30–24:00"
+        "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "0:00–3:45"
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "Cerrado"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipPH7xC9B5KhqGtPKl11tYFYwlu5lqH2XnjiVMzc=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPH7xC9B5KhqGtPKl11tYFYwlu5lqH2XnjiVMzc=w408-h272-k-no",
-    "email": "contact@mysite.com"
-  },
-  {
-    "name": "Karma Discoteca Bar",
-    "category": "Discoteca",
-    "address": "Pl. Reial, 10, Ciutat Vella, 08002 Barcelona",
-    "website": "karmadisco.com",
-    "phone": "933025680",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "3.8",
-    "num_reviews": "658",
-    "description": "Discoteca abierta desde 1978, con música rock desde los 60 hasta la actualidad.",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "0:00–5:0011:30–24:00"
+        "hours": "23:59–24:00"
       },
       {
         "day": "sábado",
-        "hours": "0:00–6:0011:30–24:00"
-      },
-      {
-        "day": "domingo",
-        "hours": "0:00–6:0011:30–24:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "0:00–2:3011:30–24:00"
-      },
-      {
-        "day": "martes",
-        "hours": "0:00–2:3011:30–24:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "0:00–2:3011:30–24:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "0:00–5:0011:30–24:00"
+        "hours": "0:00–6:0023:59–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipO4BMsub3Zsi_U9u21SzXHnGTaLLcPgerWQQKTL=w138-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOf1t-EXubIARliGPnSIBF5DSxSe-5EdUU7ga5g=w408-h306-k-no",
-    "email": "info@karmadisco.com"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN1LzZmUPvr1etH43uwFwRDARXsw15iOYfJruo=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMBYrGA4qBznCxrs92L8S2kYqV7ElijuvMFbbDz=w203-h304-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOaj-34o0Cdja2m5K_I4U85WBnRP_RpUPTgZAXF=w203-h135-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_0hiRlfgZSckIpibzxDbF8MoX0t-pTbKXPTjCedRgwi0qeO__zX6iokTtZ_LypvHHCj3EDejLrv-ry_lcoLo0sHI71Zk2wTRC53A9aQ4XFkc3zOayyaIHGg1vbU0P4BqnQdwPw=w203-h270-k-no"
+    }
   },
   {
-    "name": "Matinee 2000 SLU",
-    "category": "Organizador de eventos",
-    "address": "Carrer de Mallorca, 219, L'Eixample, 08008 Barcelona",
-    "website": "matineegroup.com",
-    "phone": "935000621",
-    "city": "Barcelona",
+    "name": "The Black Room",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.2",
-    "num_reviews": "15",
+    "reviews_rating": "3.4",
+    "num_reviews": "56",
     "description": "NOT_FOUND",
     "schedule": [
       {
+        "day": "domingo",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "9:00–17:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–17:00"
+      },
+      {
         "day": "viernes",
-        "hours": "9:00–14:0015:00–18:00"
+        "hours": "9:00–17:00"
       },
       {
         "day": "sábado",
-        "hours": "Cerrado"
+        "hours": "9:00–17:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w128-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w203-h145-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOWEQEc1yNYSZjj3cbpLM3aeR7aB2_iH6stK_2H=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPxCJI5cl3Jqj4WG8YXh-meDMyAw1iqjQBuhHln=w203-h270-k-no"
+    }
+  },
+  {
+    "name": "YouBarcelona - Lista Isaac",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.9",
+    "num_reviews": "1313",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Abierto 24 horas"
       },
+      {
+        "day": "lunes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Abierto 24 horas El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto 24 horas"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOMFYBmYPcEAE7uVRIEOuq1wUWzCsFVD-UcXUEj=w149-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOMe2tru5G3Kpf6Q3FvELUptNMo1yQtcH7_fUqa=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPVRyR_kQFwPEQgXUKStIp3uFAkkMkOGe49mgzI=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipPEIj0ANMrTNDOTF8_wsvjr29SBrDkPUzQLCZBN=w203-h360-k-no"
+    }
+  },
+  {
+    "name": "Bilmax Shisha Bar",
+    "category": "NOT_FOUND",
+    "address": "Calle de Aribau, 124, Eixample, 08036 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "674538269",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.4",
+    "num_reviews": "101",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOATHUokkQgc9iFpkRZhPckH9w3jLsJlx0OdBUL=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOATHUokkQgc9iFpkRZhPckH9w3jLsJlx0OdBUL=w203-h152-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipO-oGI_eK10i5tk5iekCbDGifWg3xXMBKNHsfmr=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPKaR9LYlVgBBkUxA46usFfm-Bv60iWZ6Hgcvyi=w203-h135-k-no"
+    }
+  },
+  {
+    "name": "A Viva Voz",
+    "category": "Karaoke",
+    "address": "Carrer de Rocafort, 187, L'Eixample, 08029 Barcelona",
+    "website": "barcelonakaraoke.com",
+    "phone": "934194081",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.2",
+    "num_reviews": "1869",
+    "description": "Animado bar de inspiración retro, con karaoke por las noches, cócteles y cerveza.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "20:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "20:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "20:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPrnphShWqsuLwOa-Q6xnW-fFgVqpQE0jxjNM2m=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMjOX9XvkMxthlWpggdgRKuIkF-4gGZ0OLgznEo=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMdFVrBA4I908vAOJBZ8r45959xfPV-u36pwAXz=w203-h114-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipPycHIjDN_HjYmrpHlz-HaMYKfFQItxSddbK_hb=w203-h100-k-no-pi0-ya0-ro0-fo100"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Garage 442",
+    "category": "Bar musical",
+    "address": "Av. Diagonal, 442, L'Eixample, 08037 Barcelona",
+    "website": "garage442.com",
+    "phone": "934152231",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.3",
+    "num_reviews": "230",
+    "description": "NOT_FOUND",
+    "schedule": [
       {
         "day": "domingo",
         "hours": "Cerrado"
       },
       {
         "day": "lunes",
-        "hours": "9:00–14:0015:00–18:00"
+        "hours": "Cerrado"
       },
       {
         "day": "martes",
-        "hours": "9:00–14:0015:00–18:00"
+        "hours": "Cerrado"
       },
       {
-        "day": "miércoles",
-        "hours": "9:00–14:0015:00–18:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "22:30–2:30 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "9:00–14:0015:00–18:00"
+        "hours": "22:30–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "22:30–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:30–3:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipP28bDP1b8Vj8oVLkZuXL0sHqbaDHxWojVEitkc=w119-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipP28bDP1b8Vj8oVLkZuXL0sHqbaDHxWojVEitkc=w408-h314-k-no",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN9Hs7InPi1VLdLQivNZGr5X_DzUJXF9xm0xXAV=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPtkzABuZhlG3N4ex__tH79qaIO8qHakycMM5GA=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOXyAsIEqmRbEcAUJVWpVhs4QRd4C0IFuglkb4C=w203-h270-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMxEB8-KszVv4wHi9JNXNr2iL1AmqEIJJKtuEYp=w203-h270-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Schultz",
+    "category": "Coctelería",
+    "address": "Carrer de Bailèn, 169, L'Eixample, 08037 Barcelona",
+    "website": "facebook.com",
+    "phone": "662570183",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.2",
+    "num_reviews": "349",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "19:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "19:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "19:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipONjLf-Bydpi5UkeHp7XINkpJf4aTuG5afY8U_e=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOeX-F35WjemC5r3TMg2XzYOyzxypgV7s5sFyi8=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMJjrMPvVdygSJW-Zw12QAJisT9P2MKvB03Z7Lk=w203-h116-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipN0I7ztFX_c_R5iS1alRLPT6Ur1baFIDATvKmMQ=w203-h114-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Illusion Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer de Provença, 43, L'Eixample, 08029 Barcelona",
+    "website": "illusionbarcelona.com",
+    "phone": "682277321",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.7",
+    "num_reviews": "846",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:30–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPZBNdVx3rzU2wJ-X6ASeXtzpgkoJaANOxQbTw=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOTuEIgiWuDjiK9IASXEPzCHmH65wQAI7cLdjw=w203-h253-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOBY7xSPEot1167PgPvMtYaYEPtYlla7R7-qU0=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNant58ji4PyqOPKmS0yuS4hwEJcWSGWYIg7CQ=w203-h135-k-no"
+    },
+    "email": "Mandarinalalatina@gmail.com."
+  },
+  {
+    "name": "Hyde Club Barcelona",
+    "category": "Discoteca",
+    "address": "Passatge de Domingo, 3, L'Eixample, 08007 Barcelona",
+    "website": "hydebcn.com",
+    "phone": "654201006",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.8",
+    "num_reviews": "1763",
+    "description": "Discoteca moderna con sesiones de DJ y un escenario pequeño con espectáculos en directo, cócteles, sushi y piscolabis.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "21:00–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–3:0021:00–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0021:00–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNXBRQfJ6MxwqkoZMQQx6E_39zK-aYmvYaD9ELP=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMMmUgy9QFCC8oCTOB3mte_EDj4ZHhyrBSyFX05=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipO0b6jB14bSr_IsjI3jkIeOmDJ3AWpDdY_toKnH=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPoqQbV_HQThyLGsd4aj8z67PNUv-7-8TesKXLr=w203-h135-k-no"
+    },
+    "email": "infohyde@gmail.com"
+  },
+  {
+    "name": "Centro Oxyzen Barcelona",
+    "category": "Club de entretenimiento para adultos",
+    "address": "Gran Via de les Corts Catalanes, 532, BJ, Eixample, 08011 Barcelona",
+    "website": "oxyzen.es",
+    "phone": "934523417",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.4",
+    "num_reviews": "44",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPPorZKlX4B1EFoASHUihzAK8rf--YjDXg__G6u=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPvnYhOeRnh8ovB2mlbotCIp-oKsLcyUx95h_pL=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipONqkG-m2VNTzzkB0i4NM_ELeXVnFfPoNFGNvCa=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMuMgy38sw2pP0E27j29MlpFCYap1DqDtEu7Ttt=w203-h114-k-no"
+    },
+    "email": "centro@oxyzen.es"
+  },
+  {
+    "name": "SUMMUM Nightbar",
+    "category": "Pub",
+    "address": "Calle de Aribau, 66, Eixample, 08011 Barcelona",
+    "website": "instagram.com",
+    "phone": "933234627",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.2",
+    "num_reviews": "1000",
+    "description": "Pub concurrido de aire retro, con patio, que ofrece cócteles clásicos y creativos, cervezas artesanales y vinos, y televisa fútbol.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "16:00–2:30"
+      },
+      {
+        "day": "martes",
+        "hours": "16:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "16:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "16:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "16:00–3:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–3:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP1nu-nnRXoMybCdo4ZdM8JfzTc2Vz6qHpFCmmj=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPlgyIgWXLTGeiHeUwpdr7ieepsKdY_kb5n3NVW=w203-h138-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNlp-f0sDDwGrx2Jk685z6o3hckQGQvsRIrBjNw=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipN_s1mdUDba__urP4ytTV7xoo3WHTWlapFTMGRk=w203-h360-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "DRIPMONDAY",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "5.0",
+    "num_reviews": "11",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "23:45–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "sábado",
+        "hours": "Cerrado"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP4oMjgksw_bmOLRx26aPg23bbvbf8vd6f3dfx0=w138-h92-k-no",
+      "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Liwbt5bla31AoE2mrdv_rw&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=323.76926&pitch=0&thumbfov=100",
+      "img2": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB8DuBJg-vxf60u2VkZyELwwn-6V-gFpO5cmDheoCVqRh5kWHKY60Lg5UqEChpkBQBvs0pJ1MrgZfPW_anFL0alggteLB5qYKhIH860V9ER5H6hHYoNJoEC8m_5h4ir_e5eQCdx_=w203-h135-k-no",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Bare Nostrum Bar Coctelería Gintoniquería",
+    "category": "Bar",
+    "address": "Carrer del Consell de Cent, 384, L'Eixample, 08009 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "687955816",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.1",
+    "num_reviews": "1154",
+    "description": "Bar especializado en cócteles y bebidas espirituosas, con futbolín, dardos y mesa de billar.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "19:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "19:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMsw5jqtRHybkOacTj6nOQqE2yE65RzY815L609=w155-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMlgxqVWidM7m4-OxTbzfnmyxfGZpY6uodiJwvm=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNjqhHtTToiyzSPPa5RN_As8L1e65zEm98qws77=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPe5OjgT5B9bq8e4uC3_2EL8DjvyBPTCaJlqoEY=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "DISCO CITY HALL BARCELONA",
+    "category": "Discoteca",
+    "address": "Rambla de Catalunya, 2, 4, Eixample, 08007 Barcelona",
+    "website": "cityhallbarcelona.com",
+    "phone": "667166789",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.0",
+    "num_reviews": "2620",
+    "description": "Bebidas, baile y música house, techno y hiphop en una discoteca con sótano, decoración de lujo y una terraza apacible.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–5:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNenv4WTODHqA6kjR1udMw4IHrK_0Xd042PvHX3=w80-h112-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN7PGz9fshALz0ORCYwJNxVSu9I35aZDg0Af7A=w203-h114-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMRq_Fs4PQNmPEZXt0ZzgNkHrCshJiTxa6JD13E=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMSfrFs9LKDgtsyT9BL03Nb5-g6YQd-DfZvPsdF=w203-h152-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Twenties Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Rosselló, 208, Eixample, 08008 Barcelona",
+    "website": "twentiesbarcelona.com",
+    "phone": "628708158",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "2911",
+    "description": "Cócteles y ritmos de reguetón y hip hop en una discoteca que recuerda a una cueva, con noches temáticas y espectáculos de luz.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "23:55–24:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:00–5:0023:55–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–5:0023:55–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:55–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOl2JIYSdoO3Y5u7vIL4bLwN-_aQxpqNVl3OpBn=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOzsDuHxBvJfoehE08Y2q74eDNA5sx44CidEXvr=w203-h304-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOHosOXIMD9IP-hDKru0t0IEgzn-IykDBG2S6aY=w203-h107-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNDdlwKpViz3xKAmqeSILGZzbjy9Zgm2KXAFexz=w203-h135-k-no"
+    },
+    "email": "info@twentiesbarcelona.com"
+  },
+  {
+    "name": "Azimuth Rooftop Bar",
+    "category": "Lounge",
+    "address": "Terraza 8ª Planta, Gran Via de les Corts Catalanes, 619, 621, 08007 Barcelona",
+    "website": "almanachotels.com",
+    "phone": "930187000",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "4.2",
+    "num_reviews": "417",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "12:30–0:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "12:30–0:30"
+      },
+      {
+        "day": "martes",
+        "hours": "12:30–0:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "12:30–0:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "12:30–0:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "12:30–0:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "12:30–0:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOJDBPsU-gJFDXQTx7nOxVc72qrOrbW7NVWVow0=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPtrIp7dursUng4uEWJJELl0YIrG1t0fVnxNhxL=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipPL4uPQ64CAPhjPvaAzpasXWaQJ2QJWvcESCFCe=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNS28lquZCH5_S_7Smw34tmE6V_zBDCoK4HEUq5=w203-h152-k-no"
+    },
+    "email": "info.vienna@almanachotels.com"
+  },
+  {
+    "name": "Punto BCN",
+    "category": "Bar gay",
+    "address": "C/ de Muntaner, 65, L'Eixample, 08007 Barcelona",
+    "website": "facebook.com",
+    "phone": "934519152",
+    "city": "Barcelona",
+    "auxiliar": "Amigable con la comunidad LGTBI+",
+    "reviews_rating": "3.9",
+    "num_reviews": "777",
+    "description": "Bar gay animado y espacioso, con música, eventos, cervezas, cócteles, hora feliz y mesas de billar.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN5j4WhYwkcpudSPvKykPMzs8oo_ZOheNfOAlc=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOtzKsSFPXYKTYEH78yN1xMSaVoTN2rOFtYPswF=w203-h135-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMIX-Su6Ci7Itdnd5zDXs6IAqiQQ5gufdmrJ2kp=w203-h135-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipO1aAJwInFYAATuHBBC6w49nGhDFqpZB0QqcNhQ=w203-h152-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Mr. French Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Comte d'Urgell, 292, L'Eixample, 08036 Barcelona",
+    "website": "instagram.com",
+    "phone": "622865203",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "4.3",
+    "num_reviews": "54",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:00–6:0023:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w80-h106-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipN-WFJYUMnXz4EkVuxtqUHZXQ3X9l81SGgKVdrI=w203-h269-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipNv9qREhds7A6x9LSllRgnxcRACsTq3aohQlv9e=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipM9ogZ1a_PK6bFMLh_P3if93f9EKxvw9il22Zya=w203-h151-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Trastero",
+    "category": "Club nocturno",
+    "address": "Carrer de Villarroel, 174, L'Eixample, 08036 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "NOT_FOUND",
+    "num_reviews": "",
+    "description": "NOT_FOUND",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RkiIz0bcGVnHKrCR0uoE7g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=61.45958&pitch=0&thumbfov=100",
+      "img1": "NOT_FOUND",
+      "img2": "NOT_FOUND",
+      "img3": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Wookah Lounge Barcelona",
+    "category": "Lounge",
+    "address": "Carrer de Balmes, 127 bis, L'Eixample, 08008 Barcelona",
+    "website": "wookah.es",
+    "phone": "930317847",
+    "city": "Barcelona",
+    "auxiliar": "Hacer un pedido",
+    "reviews_rating": "4.8",
+    "num_reviews": "2553",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "16:00–2:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "16:00–2:00"
+      },
+      {
+        "day": "martes",
+        "hours": "16:00–2:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "16:00–2:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "16:00–2:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "16:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "16:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMUFxAzyuD0xmcPEj00xz3VF4K94W9vThYn3H68=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPsX7ndPBiajOSYRVSWb1idr9HKSTzQgM9iD-ba=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOI_Sc_qLQhQap8pmbJatPsTKPqgF_1u02oCy_X=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMO29zzB9pu7dXgzWail3qtWOWq96fDL4ocx5Bl=w203-h135-k-no"
+    },
+    "email": "hola@wookah.es"
+  },
+  {
+    "name": "Topxi music",
+    "category": "Club musical",
+    "address": "Carrer de València, 358, L'Eixample, 08029 Barcelona",
+    "website": "topximusic.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "279",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:30–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "martes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:30–5:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "0:30–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:30–6:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPcUlqKDSY8XpLR5JeUrEoFxgUMA7i-Z4fHsKoF=w122-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMJX8AQldfZF3J1fyqfGjOB2lh2JaTrwus9vHxg=w203-h270-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNfnB021ofJhkhOR391bFmFOi3V50rlGq9OmPPW=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipMj1pCAdxjVx7o3XN_7frVC9K__TXuZB5loTMcn=w203-h360-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "El Cangrejo Eixample",
+    "category": "Bar gay",
+    "address": "Carrer de Villarroel, 88, L'Eixample, 08011 Barcelona",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.9",
+    "num_reviews": "132",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "22:45–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:45–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipOk38QZTYBPseRo0hRd8gxrRQS1KFh8HoaG6BoA=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOk38QZTYBPseRo0hRd8gxrRQS1KFh8HoaG6BoA=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipMGAW3n8-ErD8VDXl5585nXMzBZLDYF0nKkJUg4=w203-h152-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipM_SVV2drPKaQsb6uFgx6A56x1EPCkpUItc5Ctd=w203-h152-k-no"
+    }
+  },
+  {
+    "name": "Chica Club Barcelona",
+    "category": "Discoteca",
+    "address": "Carrer del Rosselló, 217, Eixample, 08008 Barcelona",
+    "website": "chicabcn.cat",
+    "phone": "699232543",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.2",
+    "num_reviews": "185",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "22:00–5:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "22:00–5:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "22:00–5:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "22:00–5:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w143-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipM-Mk1k-ERUPSzyDw7YB5-kggPQxqStASfqrncY=w203-h130-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipNm-6yIif7rDoiNzmpXUTtH32Ywurvelo957U_1=w203-h252-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPrzUdFr_iqkJuMf3rZRJPEDTXjtGGyTtWo_0D6=w203-h203-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Banker's Bar",
+    "category": "Bar",
+    "address": "Planta G · Hotel Mandarin Oriental, Barcelona",
+    "website": "Pg. de Gràcia, 40, Eixample, 08007 Barcelona",
+    "phone": "931518782",
+    "city": "NO_CITY",
+    "auxiliar": "Carta",
+    "reviews_rating": "4.3",
+    "num_reviews": "244",
+    "description": "Elegante coctelería en un antiguo banco reconvertido en hotel, que cuenta con un llamativo techo diseñado con cajas de seguridad.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "17:00–1:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "17:00–1:00"
+      },
+      {
+        "day": "martes",
+        "hours": "17:00–1:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "17:00–1:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "17:00–1:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "17:00–2:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "17:00–2:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNO6wc9X9eEgimar94WRbWh0O5zDkckZHv92uFQ=w137-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOPjOxcfpVUc8j9RfgkkiuP64Umm9y7TgLCiwCW=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOcCZYm9pZ13LQYuTl9gtT6tckKdSthKggA3lF_=w203-h135-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipOmH3aVrxjlSbg1atHGsXlkp7YOA7ukzMJrdHjP=w203-h152-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Marico̲n Ghetto̲ Friendly Bar",
+    "category": "Bar",
+    "address": "Calle de Aribau, 55, Eixample, 08011 Barcelona",
+    "website": "instagram.com",
+    "phone": "652220383",
+    "city": "Barcelona",
+    "auxiliar": "Reservar una mesa",
+    "reviews_rating": "4.2",
+    "num_reviews": "357",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "18:00–2:30 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "18:00–2:30"
+      },
+      {
+        "day": "viernes",
+        "hours": "18:00–3:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–3:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPOqn7e_7axwxRdcVkmCMwv9hkmiWFedNEuaeNC=w199-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPuIMrDiBjkQgqcCPxwM1DEe1IY6AJuLHgofQbs=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMHp02WtVZhADl5LCG9e-Ho-hV533YWa8nZ6luF=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNgy7M8HAe9BNSn91mTyZ5YZ1xh5-Hx8QNGYeIa=w203-h132-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "BLACK BOX",
+    "category": "Discoteca",
+    "address": "Carrer de la Diputació, 233, L'Eixample, 08007 Barcelona",
+    "website": "blackboxdisco.com",
+    "phone": "934878342",
+    "city": "Barcelona",
+    "auxiliar": "Servicios",
+    "reviews_rating": "3.7",
+    "num_reviews": "643",
+    "description": "Remezclas de canciones de los 80 y los 90 en discoteca de ambiente mixta con paredes rojas y columnas.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "0:00–6:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:59–24:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "0:00–6:0023:59–24:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipN1LzZmUPvr1etH43uwFwRDARXsw15iOYfJruo=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipMBYrGA4qBznCxrs92L8S2kYqV7ElijuvMFbbDz=w203-h304-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOaj-34o0Cdja2m5K_I4U85WBnRP_RpUPTgZAXF=w203-h135-k-no",
+      "img3": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_0hiRlfgZSckIpibzxDbF8MoX0t-pTbKXPTjCedRgwi0qeO__zX6iokTtZ_LypvHHCj3EDejLrv-ry_lcoLo0sHI71Zk2wTRC53A9aQ4XFkc3zOayyaIHGg1vbU0P4BqnQdwPw=w203-h270-k-no"
+    },
+    "email": "NO_EMAIL"
+  },
+  {
+    "name": "Agua de Luna",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.7",
+    "num_reviews": "21",
+    "description": "Concurrida discoteca de salsa, merengue, bachata y ritmos latinos con rueda cubana, mojitos y clases de baile.",
+    "schedule": "NOT_FOUND",
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipM33tv6vfc6igqcRV3zpcWapKJ4O5ipuGnLLdRq=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPcQrP6nI20BJAHkQrsspf0a-dehgNqgRPHyBon=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipOwhICuQ0-m_z0UECZfbVGXXOpiANyhI_Ku5cww=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipNcyh-fjFwMTntotyX_AOz3iTO-_aL7H-Wbg8_r=w203-h114-k-no"
+    }
+  },
+  {
+    "name": "The Black Room",
+    "category": "Club nocturno",
+    "address": "Rambla de Catalunya, 4, Eixample, 08007 Barcelona",
+    "website": "facebook.com",
+    "phone": "NO_PHONE",
+    "city": "Barcelona",
+    "auxiliar": "NOT_FOUND",
+    "reviews_rating": "3.4",
+    "num_reviews": "56",
+    "description": "NOT_FOUND",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "lunes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "martes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "9:00–17:00 El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "viernes",
+        "hours": "9:00–17:00"
+      },
+      {
+        "day": "sábado",
+        "hours": "9:00–17:00"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w128-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPah97Pn5NG8mAhi25ZHytQLrnXMDMBupxMjpyY=w203-h145-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOWEQEc1yNYSZjj3cbpLM3aeR7aB2_iH6stK_2H=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPxCJI5cl3Jqj4WG8YXh-meDMyAw1iqjQBuhHln=w203-h270-k-no"
+    },
     "email": "NO_EMAIL"
   },
   {
@@ -1960,14 +2055,6 @@
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "22:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "22:00–5:00"
-      },
-      {
         "day": "domingo",
         "hours": "22:00–5:00"
       },
@@ -1980,181 +2067,124 @@
         "hours": "22:00–5:00"
       },
       {
-        "day": "miércoles",
-        "hours": "22:00–5:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "22:00–5:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
         "hours": "22:00–5:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipP1Y1eIDxbYsOSNN2hCxQTE2PmTl1yyg23U6Ytk=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipPQp6GoG4m5vtAeIN9ccKNAsKHI_wt4EYcCh-CT=w426-h240-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Safari Disco Club Barcelona",
-    "category": "Discoteca",
-    "address": "Carrer de Tarragona, 141, Sants-Montjuïc, 08014 Barcelona",
-    "website": "safaridiscoclub.com",
-    "phone": "934878342",
-    "city": "Barcelona",
-    "auxiliar": "Cerrado ⋅ Apertura: 23:59",
-    "reviews_rating": "3.8",
-    "num_reviews": "2494",
-    "description": "Discoteca animada, que abre toda la noche, con dos pistas de bailes y fiestas temáticas.",
-    "schedule": "NOT_FOUND",
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipN5fdG8Qn5nEMMWQAaVQOZgkFs8dNlys06UZJBn=w137-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipOpeBEz6oiqIIA06_lo-9yQsVu7FdXvYu9RHWhT=w408-h306-k-no",
-    "email": "NO_EMAIL"
-  },
-  {
-    "name": "Bobby's Free",
-    "category": "Coctelería",
-    "address": "Carrer de Pau Claris, 85, L'Eixample, 08010 Barcelona",
-    "website": "bobbysfree.com",
-    "phone": "NO_PHONE",
-    "city": "Barcelona",
-    "auxiliar": "NOT_FOUND",
-    "reviews_rating": "4.6",
-    "num_reviews": "3712",
-    "description": "Cócteles elaborados y gin-tonics en un bar bohemio, con una iluminación tenue y una fachada que se asemeja a la de una barbería.",
-    "schedule": [
+      },
       {
         "day": "viernes",
-        "hours": "19:00–3:30"
+        "hours": "22:00–5:00"
       },
       {
         "day": "sábado",
-        "hours": "19:00–3:30"
-      },
-      {
-        "day": "domingo",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "martes",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "miércoles",
-        "hours": "19:00–3:00"
-      },
-      {
-        "day": "jueves",
-        "hours": "19:00–3:00"
+        "hours": "22:00–5:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipOoJ7FT2Bs1LNp3TQHoy2sF_VA1a1if4Ptyo0bi=w122-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipN62MTvi1U5nBvZeresW8mPQDxWhM1UK9ZWG0as=w408-h271-k-no",
-    "email": "bobbysfreebarcelona@gmail.com"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipP1Y1eIDxbYsOSNN2hCxQTE2PmTl1yyg23U6Ytk=w163-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipPQp6GoG4m5vtAeIN9ccKNAsKHI_wt4EYcCh-CT=w203-h114-k-no",
+      "img2": "https://lh5.googleusercontent.com/p/AF1QipP1Y1eIDxbYsOSNN2hCxQTE2PmTl1yyg23U6Ytk=w203-h114-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPVZ6pTVeUv7FpEoGAoE2Srsi8hpzfhN-czVSBU=w203-h270-k-no"
+    },
+    "email": "NO_EMAIL"
   },
   {
-    "name": "Timba Home",
-    "category": "Club nocturno",
-    "address": "Carrer del Consell de Cent, 160, L'Eixample, 08015 Barcelona",
+    "name": "La Fira Villarroel Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
-    "reviews_rating": "5.0",
-    "num_reviews": "1",
-    "description": "NOT_FOUND",
-    "schedule": "NOT_FOUND",
-    "img1": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=APmFUj96s-TIg5U_bz4CEw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=150.98831&pitch=0&thumbfov=100",
-    "img2": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=APmFUj96s-TIg5U_bz4CEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.98831&pitch=0&thumbfov=100"
+    "reviews_rating": "3.6",
+    "num_reviews": "1133",
+    "description": "Discoteca vistosa y concurrida con sofás lujosos, mesas que brillan en la oscuridad y bares.",
+    "schedule": [
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "miércoles(Día del Padre)",
+        "hours": "Cerrado El horario podría cambiar"
+      },
+      {
+        "day": "jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "viernes",
+        "hours": "23:55–5:30"
+      },
+      {
+        "day": "sábado",
+        "hours": "18:00–23:0023:55–5:30"
+      }
+    ],
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipMGSJIZ01bK0SU8hjbtHaN2Wx3jCrnh8K6UK9n3=w173-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipOXvlz78-MD8ofpQwTWO0RaV4e0cn-lMRo-Cb2E=w203-h270-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipOlyM37njS9rKEP5yksVAsnGllrYKPvlthsATJG=w203-h360-k-no",
+      "img3": "https://lh5.googleusercontent.com/p/AF1QipPwSl8_G8o6CFOyk-p5Xw2UNhsj92bZjGH2EUHN=w203-h270-k-no"
+    }
   },
   {
-    "name": "Club La Bombonera",
-    "category": "Club nocturno",
-    "address": "Carrer de Nàpols, 173, L'Eixample, 08013 Barcelona",
+    "name": "Believe Club Barcelona",
+    "category": "NOT_FOUND",
+    "address": "NO_ADDRESS",
     "website": "NO_WEBSITE",
     "phone": "NO_PHONE",
     "city": "NO_CITY",
     "auxiliar": "NOT_FOUND",
     "reviews_rating": "3.5",
-    "num_reviews": "29",
+    "num_reviews": "578",
     "description": "NOT_FOUND",
     "schedule": [
       {
-        "day": "viernes",
-        "hours": "19:00–5:00"
-      },
-      {
-        "day": "sábado",
-        "hours": "20:00–5:00"
-      },
-      {
         "day": "domingo",
-        "hours": "Cerrado"
+        "hours": "0:00–6:0023:00–24:00"
       },
       {
         "day": "lunes",
-        "hours": "19:00–4:00"
+        "hours": "0:00–5:0023:00–24:00"
       },
       {
         "day": "martes",
-        "hours": "19:00–4:00"
+        "hours": "0:00–5:0023:00–24:00"
       },
       {
-        "day": "miércoles",
-        "hours": "19:00–4:00"
+        "day": "miércoles(Día del Padre)",
+        "hours": "0:00–5:0023:00–24:00 El horario podría cambiar"
       },
       {
         "day": "jueves",
-        "hours": "19:00–4:00"
-      }
-    ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipNm8ah2r0bZN5E2Y38R8FFLaWDdilkkDcItU47z=w163-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipNm8ah2r0bZN5E2Y38R8FFLaWDdilkkDcItU47z=w426-h240-k-no"
-  },
-  {
-    "name": "Nick Havanna",
-    "category": "Discoteca",
-    "address": "Carrer del Rosselló, Eixample, 08008 Barcelona",
-    "website": "m.facebook.com",
-    "phone": "658303704",
-    "city": "Barcelona",
-    "auxiliar": "Reclamar esta empresa",
-    "reviews_rating": "3.9",
-    "num_reviews": "73",
-    "description": "NOT_FOUND",
-    "schedule": [
+        "hours": "0:00–5:0023:00–24:00"
+      },
       {
         "day": "viernes",
-        "hours": "Cerrado"
+        "hours": "0:00–5:0023:00–24:00"
       },
       {
         "day": "sábado",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "domingo",
-        "hours": "6:00–23:00"
-      },
-      {
-        "day": "lunes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "martes",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "miércoles",
-        "hours": "Cerrado"
-      },
-      {
-        "day": "jueves",
-        "hours": "19:30–23:30"
+        "hours": "0:00–6:0023:00–24:00"
       }
     ],
-    "img1": "https://lh5.googleusercontent.com/p/AF1QipM3lXn5C_P9tcIloI2VxbAAVXQ08m22YndThUqZ=w92-h92-k-no",
-    "img2": "https://lh5.googleusercontent.com/p/AF1QipM3lXn5C_P9tcIloI2VxbAAVXQ08m22YndThUqZ=w408-h408-k-no",
-    "email": "NO_EMAIL"
+    "images": {
+      "main": "https://lh5.googleusercontent.com/p/AF1QipNxhjfpQc555KWW3SeQQNQYUYVCPJKhHrr5xMvK=w138-h92-k-no",
+      "img1": "https://lh5.googleusercontent.com/p/AF1QipNz3Kft9eIYp61oPa8SsmsPPmmuOv3kujbxSGNy=w203-h135-k-no",
+      "img2": "https://lh3.googleusercontent.com/p/AF1QipMCoI9yyyTI-eLJQdCT2_wPUfn3VrCtbR8_u8Yu=w203-h360-k-no",
+      "img3": "https://lh3.googleusercontent.com/p/AF1QipOk7FVcR6MGzZWYK6um-ziAW9uqum-zNHmBb1yA=w203-h360-k-no"
+    }
   }
 ]

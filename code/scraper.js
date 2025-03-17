@@ -30,7 +30,7 @@ async function nits_scraper(query) {
     };
 
     let locals = [];
-    let num_locals = 30; // Personalitzar
+    let num_locals = 40; // Personalitzar
 
     try {
         const browser = await puppeteer.launch({ headless: false });
@@ -62,6 +62,7 @@ async function nits_scraper(query) {
             console.log("-------------------");
 
             let local = {};
+            local.images = {};
 
             try {
                 /* -- Get the local name -- */
@@ -82,13 +83,13 @@ async function nits_scraper(query) {
                     let img1tag = await img1Element.$("img");
                     if (img1tag) {
                         let img1src = await img1tag.evaluate(img => img.src || img.getAttribute('src'));
-                        local.img1 = img1src;
+                        local.images.main = img1src;
                         console.log("Image URL: ", img1src);
                     } else {
-                        local.img1 = "NOT_FOUND";
+                        local.images.main = "NOT_FOUND";
                     }
                 } else {
-                    local.img1 = "NOT_FOUND";
+                    local.images.main = "NOT_FOUND";
                 }
 
                 /* -- Click into the element to get the local details -- */
@@ -102,20 +103,62 @@ async function nits_scraper(query) {
                 }
                 await sleep(4000);
 
-                /* -- Get the second image -- */
-                let img2Element = await page.$("div.RZ66Rb.FgCUCc");
-                if (img2Element) {
-                    let img2tag = await img2Element.$("img");
-                    if (img2tag) {
-                        let img2src = await img2tag.evaluate(img => img.src || img.getAttribute('src'));
-                        local.img2 = img2src;
-                        console.log("Image URL 2: ", img2src);
-                    } else {
-                        local.img2 = "NOT_FOUND";
-                    }
+                /* --- Get the other 3 images --- */
+                /* -- Click into images to access the array of images (button.aoRNLd.kn2E5e.NMjTrf.lvtCsd) */
+                let imageGalleryButton = await page.$("button.aoRNLd.kn2E5e.NMjTrf.lvtCsd");
+                if (imageGalleryButton) {
+                    await Promise.all([
+                        imageGalleryButton.click(),
+                        page.waitForNavigation({ waitUntil: "networkidle2" })
+                    ]);
                 } else {
-                    local.img2 = "NOT_FOUND";
+                    console.log("Image gallery button not found");
                 }
+                await sleep(1000);
+
+                /* -- Get the first 5 images (images are in the div.U39Pmb or div.U39Pmb.loaded but in the style parameter of the div, like this: "background-image: url(&quot;https://lh5.googleusercontent.com/p/AF1QipOdeCDRAAeo9kEv3FG0FEVZa9d6tV-kKm3xZbZK=w203-h152-k-no&quot;);" ) -- */
+                const imageUrls = await page.evaluate(() => {
+                    const imageContainers = document.querySelectorAll("div.U39Pmb, div.U39Pmb.loaded");
+                    const urls = [];
+
+                    const containers = Array.from(imageContainers).slice(0, 5);
+
+                    containers.forEach((container) => {
+                        const style = container.getAttribute("style");
+                        if (style && style.includes('background-image')) {
+                            // Extract URL from background-image: url("https://...")
+                            const urlMatch = style.match(/background-image:\s*url\(['"](.*?)['"]\)/);
+                            if (urlMatch && urlMatch[1]) {
+                                urls.push(urlMatch[1]);
+                            }
+                        }
+                    });
+                    return urls;
+                });
+                console.log(`Found ${imageUrls.length} images`);
+
+                // Save the first 3 images
+                for (let j = 0; j < 3; j++) {
+                    if (j < imageUrls.length) {
+                        local.images[`img${j+1}`] = imageUrls[j];
+                        console.log(`Image ${j+1}: ${imageUrls[j]}`);
+                    } else {
+                        local.images[`img${j+1}`] = "NOT_FOUND";
+                        console.log(`Image ${j+1}: NOT_FOUND`);
+                    }
+                }
+
+                /* -- Exit the images section (span.google-symbols.G47vBd) */
+                let exitImagesButton = await page.$("span.google-symbols.G47vBd");
+                if (exitImagesButton) {
+                    await Promise.all([
+                        exitImagesButton.click(),
+                        page.waitForNavigation({ waitUntil: "networkidle2" })
+                    ]);
+                } else {
+                    console.log("Exit images button not found");
+                }
+                /* --- END OF Get the other 3 images --- */
 
                 /* -- Get the category of the local -- */
                 let categoryElement = await page.$("button.DkEaL");
@@ -128,7 +171,7 @@ async function nits_scraper(query) {
                 //console.log("Category: " + local.category);
 
                 /* -- Get details (address, web, phone, city) -- */
-                let details = await page.$$("div.Io6YTe.fontBodyMedium.kR99db.fdkmkc", { waitUntil: "networkidle2" });
+                let details = await page.$$("div.Io6YTe.fontBodyMedium.kR99db.fdkmkc", { waitUntil: "networkidle2", timeout: 2000 });
                 console.log("Details length: " + details.length);
                 if (details.length > 0) {
                     local.address = await details[0].evaluate((el) => el.textContent); //console.log("Address: " + local.address);
@@ -138,6 +181,10 @@ async function nits_scraper(query) {
                     if (details.length > 4) local.auxiliar = await details[4].evaluate((el) => el.textContent); else local.auxiliar = "NOT_FOUND"; //console.log("Auxiliar: " + local.auxiliar);
                 } else {
                     local.address = "NOT_FOUND";
+                    local.website = "NOT_FOUND";
+                    local.phone = "NOT_FOUND";
+                    local.city = "NOT_FOUND";
+                    local.auxiliar = "NOT_FOUND";
                 }
 
                 /* -- Click on the schedule dropdown (span.puWIL.hKrmvd.google-symbols.OazX1c) -- */
@@ -192,8 +239,9 @@ async function nits_scraper(query) {
                 }
                 //console.log("Rating: " + local.reviews_rating);
 
-                /* -- Get number of reviews (button.HHrUdb.fontTitleSmall.rqjGif) -- */
-                let numReviewsElement = await page.$("button.HHrUdb.fontTitleSmall.rqjGif");
+                /* -- Get number of reviews (div.HHrUdb) -- */
+                //let numReviewsElement = await page.$("button.HHrUdb.fontTitleSmall.rqjGif"); // Old tag
+                let numReviewsElement = await page.$("div.HHrUdb"); // New tag
                 if (numReviewsElement) {
                     let numReviews = await numReviewsElement.evaluate((el) => el.textContent);
                     local.num_reviews = numReviews;
